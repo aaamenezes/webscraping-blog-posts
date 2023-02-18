@@ -34,7 +34,8 @@ function getPostsInfo(html) {
       'joshwcomeau': 'main article',
       'lucassantos': '.post-card',
       'blogrdstation': '.post-list li',
-      'rockcontentbr': '.rock-grid .rock-grid__item'
+      'rockcontentbr': '.rock-grid .rock-grid__item',
+      'shopify': '.article--index'
     };
 
     return map[getSitename(html)];
@@ -83,6 +84,12 @@ function getPostsInfo(html) {
     if (thumbnail) return thumbnail;
 
     thumbnail = postElement.querySelector('.entered.lazyloaded')?.src;
+    if (thumbnail) return thumbnail;
+
+    thumbnail = postElement.querySelector('img')?.srcset;
+    if (thumbnail) return thumbnail;
+
+    thumbnail = postElement.querySelector('img')?.dataset.srcset;
     if (thumbnail) return thumbnail;
 
     let url = postElement.querySelector('a')?.href;
@@ -157,19 +164,19 @@ function getPostsInfo(html) {
   const page = await browser.newPage();
 
   const blogsUrl = [
-    'https://www.alura.com.br/artigos/front-end',
-    'https://www.alura.com.br/artigos/programacao',
-    'https://www.agenciamestre.com/categoria/seo/',
-    'https://www.agenciamestre.com/categoria/redes-sociais/',
-    'https://www.agenciamestre.com/categoria/marketing-de-conteudo/',
-    'https://www.agenciamestre.com/categoria/geral/',
-    'https://www.agenciamestre.com/categoria/ferramentas/',
-    'https://css-tricks.com/',
-    'https://www.joshwcomeau.com/latest/',
-    'https://blog.lsantos.dev/',
-    'https://blog.rdstation.com/',
-    'https://rockcontent.com/br/blog/recentes/',
-    // 'https://shopify.engineering/',
+    // 'https://www.alura.com.br/artigos/front-end',
+    // 'https://www.alura.com.br/artigos/programacao',
+    // 'https://www.agenciamestre.com/categoria/seo/',
+    // 'https://www.agenciamestre.com/categoria/redes-sociais/',
+    // 'https://www.agenciamestre.com/categoria/marketing-de-conteudo/',
+    // 'https://www.agenciamestre.com/categoria/geral/',
+    // 'https://www.agenciamestre.com/categoria/ferramentas/',
+    // 'https://css-tricks.com/',
+    // 'https://www.joshwcomeau.com/latest/',
+    // 'https://blog.lsantos.dev/',
+    // 'https://blog.rdstation.com/',
+    // 'https://rockcontent.com/br/blog/recentes/',
+    'https://shopify.engineering/',
     // 'https://www.smashingmagazine.com/articles/',
     // 'https://www.tabnews.com.br/',
     // 'https://wsvincent.com/',
@@ -223,6 +230,6 @@ function getPostsInfo(html) {
   console.log('Finished!');
   console.log('Total posts:', allPostsSpread.length);
   
-  console.timeEnd();
+  // console.timeEnd();
   await browser.close();
 })();

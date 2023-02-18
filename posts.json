@@ -1,1298 +1,162 @@
 [
   {
-    "title": "JavaScript: o que é, como aprender e um Guia da linguagem mais popular do mundo",
+    "title": "The 25 Percent Rule for Tackling Technical Debt",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/javascript/javascript-js-alura.png",
-    "url": "https://www.alura.com.br/artigos/javascript",
-    "date": "2023-02-17 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210719_72ppi_01_ShopifyMadePatternsInOurRailsApps_384c848b-4fcd-4363-a8e4-5f84d5f05999.jpg?v=1676501389&width=1024",
+    "url": "https://shopify.engineering/topics/development",
+    "date": "2023-02-16T17:00:01Z",
+    "owner": "Shopify"
   },
   {
-    "title": "React: o que é, como funciona e um Guia dessa popular ferramenta JS",
+    "title": "ShopifyQL Notebooks: Simplifying Querying with Commerce Data Models",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/react-js/react-js.jpg",
-    "url": "https://www.alura.com.br/artigos/react-js",
-    "date": "2023-01-17 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210719_216ppi_05_FiveStepsforBuildingMachineLearning_2.jpg?v=1676298056&width=600",
+    "url": "https://shopify.engineering/topics/data-science-engineering",
+    "date": "2023-02-14T16:00:04Z",
+    "owner": "Shopify"
   },
   {
-    "title": "Como deixar multi linguagem/i18n uma aplicação React?",
+    "title": "Bringing Javascript to WebAssembly for Shopify Functions",
     "description": null,
-    "thumbnail": "https://i.ytimg.com/vi/xrRy3RI3HE4/maxresdefault.jpg",
-    "url": "https://www.alura.com.br/artigos/002-como-i18n-multi-linguagem-em-uma-aplicacao-react-dicas-de-react",
-    "date": "2019-04-18 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220111_216ppi_01_AllanLeinwand2022BlogPost-Header.jpg?v=1675267141&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "date": "2023-02-09T14:00:02Z",
+    "owner": "Shopify"
   },
   {
-    "title": "JavaScript: o que é, como aprender e um Guia da linguagem mais popular do mundo",
+    "title": "The Complex Data Models Behind Shopify's Tax Insights Feature",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/javascript/javascript-js-alura.png",
-    "url": "https://www.alura.com.br/artigos/javascript",
-    "date": "2023-02-17 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_ComplexDataModelsShopifyTax.jpg?v=1675449874&width=600",
+    "url": "https://shopify.engineering/topics/data-science-engineering",
+    "date": "2023-02-08T15:00:04Z",
+    "owner": "Shopify"
   },
   {
-    "title": "React: o que é, como funciona e um Guia dessa popular ferramenta JS",
+    "title": "The Hardest Part of Writing Tests is Getting Started",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/react-js/react-js.jpg",
-    "url": "https://www.alura.com.br/artigos/react-js",
-    "date": "2023-01-17 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220111_72ppi_04A_HowToGetAnEngineeringInternshipAtShopify-Header_fd495599-7dd0-4edc-8fed-c36ec4ea1a08.jpg?v=1675270849&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "date": "2023-02-02T15:30:00Z",
+    "owner": "Shopify"
   },
   {
-    "title": "Boas práticas ao escrever código em React js",
+    "title": "Performance Testing At Scale—for BFCM and Beyond",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/boas-praticas-escrever-codigo-react-js/boas-praticas-escrever-codigo-react-js.jpg",
-    "url": "https://www.alura.com.br/artigos/boas-praticas-escrever-codigo-react-js",
-    "date": "2023-01-17 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210719_72ppi_05_FlashIsAShapeNotASize.jpg?v=1674838084&width=600",
+    "url": "https://shopify.engineering/topics/infrastructure",
+    "date": "2023-01-27T16:32:54Z",
+    "owner": "Shopify"
   },
   {
-    "title": "Prototype: descubra como quase tudo no JavaScript é um Objeto",
+    "title": "From Farmer to Security Engineer: How Dev Degree Helped Me Find My Dream Job",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/prototype-quase-tudo-no-javascript-e-um-objeto/prototype-quase-tudo-no-javascript-e-um-objeto.jpg",
-    "url": "https://www.alura.com.br/artigos/prototype-quase-tudo-no-javascript-e-um-objeto",
-    "date": "2023-01-03 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_211209_216ppi_01_FiveTipsForGrowingYourEngineeringCareer_77266935-2599-41dd-963a-7d55bbd5baac.jpg?v=1674496626&width=600",
+    "url": "https://shopify.engineering/topics/culture",
+    "date": "2023-01-26T16:00:02Z",
+    "owner": "Shopify"
   },
   {
-    "title": "React e Context API: testes de unidade",
+    "title": "Making Your React Native Gestures Feel Natural",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/react-context-api-testes-de-unidade/react-context-api-testes-de-unidade.png",
-    "url": "https://www.alura.com.br/artigos/react-context-api-testes-de-unidade",
-    "date": "2022-12-29 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_211008_72ppi_06_BuildinganAppClipwithReactNative_e8df8a83-482c-4e0d-a2a0-660737ababcb.jpg?v=1674227288&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "date": "2023-01-20T18:37:05Z",
+    "owner": "Shopify"
   },
   {
-    "title": "React: lidando com colisão de nomes de componentes",
+    "title": "Ruby 3.2’s YJIT is Production-Ready",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/react-colisao-de-nomes-de-componentes/react-colisao-de-nomes-de-componentes.png",
-    "url": "https://www.alura.com.br/artigos/react-colisao-de-nomes-de-componentes",
-    "date": "2022-11-24 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_211008_216ppi_02_TryOutYJITforFasterRubying.jpg?v=1673882706&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "date": "2023-01-17T13:30:02Z",
+    "owner": "Shopify"
   },
   {
-    "title": "Live coding de CSS com a Alura Star Natália F. Dev",
+    "title": "How Good Documentation Can Improve Productivity",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/live-coding-css-com-alura-star-natalia-f-dev/live-coding-css-com-alura-star-natalia-f-dev.jpg",
-    "url": "https://www.alura.com.br/artigos/live-coding-css-com-alura-star-natalia-f-dev",
-    "date": "2022-11-23 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_good_documentation_practices.jpg?v=1673458649&width=600",
+    "url": "https://shopify.engineering/topics/culture",
+    "date": "2023-01-12T15:00:04Z",
+    "owner": "Shopify"
   },
   {
-    "title": "Armazenadores de dados do navegador",
+    "title": "From Ruby to Node: Overhauling Shopify’s CLI for a Better Developer Experience",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/armazenadores-de-dados-do-navegador/armazenadores-de-dados-do-navegador.jpg",
-    "url": "https://www.alura.com.br/artigos/armazenadores-de-dados-do-navegador",
-    "date": "2022-10-14 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210719_216ppi_01_ShopifyMadePatternsInOurRailsApps_2.jpg?v=1673031411&width=600",
+    "url": "https://shopify.engineering/topics/developer-tooling",
+    "date": "2023-01-10T13:00:01Z",
+    "owner": "Shopify"
   },
   {
-    "title": "Sexta-feira livre no Discord com CSS",
+    "title": "Reliving Your Happiest HTTP Interactions with Ruby’s VCR Gem",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/sexta-feira-livre-discord-com-css/sexta-feira-livre-discord-com-css.jpg",
-    "url": "https://www.alura.com.br/artigos/sexta-feira-livre-discord-com-css",
-    "date": "2022-10-05 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220411_216ppi_02_RubyExecutionModels_8c134200-ca87-4174-8f8d-0976492f1a3d.jpg?v=1671729711&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "date": "2023-01-05T14:00:00Z",
+    "owner": "Shopify"
   },
   {
-    "title": "Sexta-feira livre no Discord com Marco Bruno",
+    "title": "Monte Carlo Simulations: Separating Signal from Noise in Sampled Success Metrics",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/sexta-feira-livre-discord-com-marco-bruno/sexta-feira-livre-discord-com-marco-bruno.jpg",
-    "url": "https://www.alura.com.br/artigos/sexta-feira-livre-discord-com-marco-bruno",
-    "date": "2022-09-28 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_221107_72ppi_05_MonteCarlo.jpg?v=1670585039&width=600",
+    "url": "https://shopify.engineering/topics/data-science-engineering",
+    "date": "2023-01-03T12:20:27Z",
+    "owner": "Shopify"
   },
   {
-    "title": "Requisições HTTP utilizando o AXIOS",
+    "title": "React Native Skia: A Year in Review and a Look Ahead",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/requisicoes-http-utilizando-axios/requisicoes-http-utilizando-axios.png",
-    "url": "https://www.alura.com.br/artigos/requisicoes-http-utilizando-axios",
-    "date": "2022-09-27 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220411_72ppi_03_SkiaAnnouncement_a40cc9c0-96cd-4e0e-8f56-6dd46a6f9dec.jpg?v=1671558311&width=600",
+    "url": "https://shopify.engineering/topics/mobile",
+    "date": "2022-12-29T15:30:00Z",
+    "owner": "Shopify"
   },
   {
-    "title": "Autenticação, autorização e segurança no front-end",
+    "title": "Migrating our Largest Mobile App to React Native",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/autenticacao-autorizacao-seguranca-no-front-end/autenticacao-autorizacao-seguranca-no-front-end.png",
-    "url": "https://www.alura.com.br/artigos/autenticacao-autorizacao-seguranca-no-front-end",
-    "date": "2022-09-15 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210525_216ppi_02_ReactNativeistheFutureofMobileatShopify.jpg?v=1671552000&width=600",
+    "url": "https://shopify.engineering/topics/mobile",
+    "date": "2022-12-27T14:00:00Z",
+    "owner": "Shopify"
   },
   {
-    "title": "Angular: como funciona um componente?",
+    "title": "Optimizing Ruby’s Memory Layout: Variable Width Allocation",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/angular-como-funciona-um-componente/angular-como-funciona-um-componente.png",
-    "url": "https://www.alura.com.br/artigos/angular-como-funciona-um-componente",
-    "date": "2022-08-30 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210525_72ppi_03_HowtoBuildaWebAppwithandwithoutRailsLibraries_efa4ec9f-e707-4ba1-94e8-402e5c4f9abb.jpg?v=1671558078&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "date": "2022-12-25T05:01:01Z",
+    "owner": "Shopify"
   },
   {
-    "title": "A função Math.random() no JavaScript na criação de números pseudoaleatórios",
+    "title": "Year in Review 2022: Tenderlove's Ruby and Rails Reflections and Predictions",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/funcao-math-random-javascript-numeros-pseudoaleatorios/funcao-math-random-javascript-numeros-pseudoaleatorios.jpg",
-    "url": "https://www.alura.com.br/artigos/funcao-math-random-javascript-numeros-pseudoaleatorios",
-    "date": "2022-08-29 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_211008_216ppi_01_YJIT-BuildingaNewJITCompilerforCRuby_2.jpg?v=1671484892&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "date": "2022-12-22T15:00:02Z",
+    "owner": "Shopify"
   },
   {
-    "title": "O que é o DOM?",
+    "title": "Automatically Rotating GitHub Tokens (So You Don’t Have To)",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/o-que-e-o-dom/o-que-e-o-dom.png",
-    "url": "https://www.alura.com.br/artigos/o-que-e-o-dom",
-    "date": "2022-08-12 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220901_216ppi_06_HowToWriteCodeWithoutHavingToReadIt.jpg?v=1670857627&width=600",
+    "url": "https://shopify.engineering/topics/developer-tooling",
+    "date": "2022-12-20T15:00:01Z",
+    "owner": "Shopify"
   },
   {
-    "title": "AWS: Guia sobre o que é Amazon Web Services, seus Serviços e Certificações",
+    "title": "Shopify Embraces Rust for Systems Programming",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/aws/aws-alura.jpg",
-    "url": "https://www.alura.com.br/artigos/aws",
-    "date": "2023-02-06 12:10",
-    "owner": "Alura"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_shopify_embraces_rust_systems-programming.jpg?v=1670972465&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "date": "2022-12-14T18:07:28Z",
+    "owner": "Shopify"
   },
   {
-    "title": "Java: o que é, linguagem e um Guia para iniciar na tecnologia",
+    "title": "3 (More) Tips for Optimizing Apache Flink Applications",
     "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/java/java.jpg",
-    "url": "https://www.alura.com.br/artigos/java",
-    "date": "2023-01-11 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "PHP: da instalação ao primeiro código",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/php-instalacao-primeiro-codigo/php-instalacao-primeiro-codigo.jpg",
-    "url": "https://www.alura.com.br/artigos/php-instalacao-primeiro-codigo",
-    "date": "2023-02-17 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "Programação na comunidade da Alura: uma semana de aprendizado e conexão no Discord",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/programacao-comunidade-alura-semana-conexao-discord/programacao-comunidade-alura-semana-conexao-discord.jpg",
-    "url": "https://www.alura.com.br/artigos/programacao-comunidade-alura-semana-conexao-discord",
-    "date": "2023-02-13 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "Arquitetura do Node.js: o Node.js é single-threaded?",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/arquitetura-node-js-single-threaded/arquitetura-node-js-single-threaded.jpg",
-    "url": "https://www.alura.com.br/artigos/arquitetura-node-js-single-threaded",
-    "date": "2023-02-09 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "Arquitetura do Node.js: entenda o que são threads e processos",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/arquitetura-node-js-threads-e-processos/arquitetura-node-js-threads-e-processos.jpg",
-    "url": "https://www.alura.com.br/artigos/arquitetura-node-js-threads-e-processos",
-    "date": "2023-02-08 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "Arquitetura do Node.js: conheça seus componentes",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/arquitetura-node-js-seus-componentes/arquitetura-node-js-seus-componentes.jpg",
-    "url": "https://www.alura.com.br/artigos/arquitetura-node-js-seus-componentes",
-    "date": "2023-02-08 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "Arquitetura do Node.js: entenda o loop de eventos",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/arquitetura-node-js-entenda-loop-de-eventos/arquitetura-node-js-entenda-loop-de-eventos.jpg",
-    "url": "https://www.alura.com.br/artigos/arquitetura-node-js-entenda-loop-de-eventos",
-    "date": "2023-02-07 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "Agenda de Atividades no Discord: Uma Semana de Aprendizado e Conectividades",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/agenda-atividades-discord-semana-aprendizado-conectividades/agenda-atividades-discord-semana-aprendizado-conectividades.jpg",
-    "url": "https://www.alura.com.br/artigos/agenda-atividades-discord-semana-aprendizado-conectividades",
-    "date": "2023-02-06 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "AWS: Guia sobre o que é Amazon Web Services, seus Serviços e Certificações",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/aws/aws-alura.jpg",
-    "url": "https://www.alura.com.br/artigos/aws",
-    "date": "2023-02-06 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "Como formatar datas, horas e moedas em JavaScript?",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/formatar-datas-horas-moedas-javascript/formatar-datas-horas-moedas-javascript.jpg",
-    "url": "https://www.alura.com.br/artigos/formatar-datas-horas-moedas-javascript",
-    "date": "2023-02-03 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "PHP: validação de Dados Nacionais (BR)",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/php-validacao-dados-nacionais-br/php-validacao-dados-nacionais-br.jpg",
-    "url": "https://www.alura.com.br/artigos/php-validacao-dados-nacionais-br",
-    "date": "2023-02-02 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "Guia básico de manuseio do computador",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/guia-basico-manuseio-computador/guia-basico-manuseio-computador.jpg",
-    "url": "https://www.alura.com.br/artigos/guia-basico-manuseio-computador",
-    "date": "2023-01-30 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "Cronograma de eventos no Discord de janeiro e fevereiro",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/cronograma-eventos-discord-janeiro-fevereiro/cronograma-eventos-discord-janeiro-fevereiro.jpg",
-    "url": "https://www.alura.com.br/artigos/cronograma-eventos-discord-janeiro-fevereiro",
-    "date": "2023-01-30 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "O que são ambientes?",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/o-que-sao-ambientes/o-que-sao-ambientes.jpg",
-    "url": "https://www.alura.com.br/artigos/o-que-sao-ambientes",
-    "date": "2023-01-24 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "Cronograma de eventos no Discord (23-27) de janeiro",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/cronograma-eventos-discord-23-27-janeiro/cronograma-eventos-discord-23-27-janeiro.jpg",
-    "url": "https://www.alura.com.br/artigos/cronograma-eventos-discord-23-27-janeiro",
-    "date": "2023-01-23 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "Dotenv: gerenciando variáveis de ambiente",
-    "description": null,
-    "thumbnail": "https://alura.com.br/artigos/assets/dotenv-gerenciando-variaveis-ambiente/dotenv-gerenciando-variaveis-ambiente.jpeg",
-    "url": "https://www.alura.com.br/artigos/dotenv-gerenciando-variaveis-ambiente",
-    "date": "2023-01-20 12:10",
-    "owner": "Alura"
-  },
-  {
-    "title": "Domínios Ricos em Palavras-chave podem Causar Problemas a Longo Prazo",
-    "description": "Descubra por que o uso excessivo de palavras-chave em domínios pode prejudicar a estratégia de SEO em longo prazo, segundo John Mueller!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/02/problemas-com-palavras-chave-no-dominio.jpg",
-    "url": "https://www.agenciamestre.com/seo/problemas-com-palavras-chave-no-dominio/",
-    "date": " 16/02/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Criadores de Conteúdo Estão Preocupados com os Novos Recursos de IA",
-    "description": "Afinal, os sistemas de IA vão afetar as métricas dos produtores de conteúdo? Confira quais as preocupações e o que esperar!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/02/criadores-de-conteudo-preocupados-com-ia.jpg",
-    "url": "https://www.agenciamestre.com/seo/criadores-de-conteudo-preocupados-com-ia/",
-    "date": " 13/02/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Novos Recursos de IA do Google: Conheça o Bard!",
-    "description": "O Google colocou a IA no centro de sua estratégia. O NYT relatou o lançamento de um mecanismo de busca com recursos de chatbot em breve.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/01/recursos-chatbot-google.jpg",
-    "url": "https://www.agenciamestre.com/seo/recursos-chatbot-google/",
-    "date": " 09/02/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Fatores de Ranqueamento do Google Que Podem Afetar Seu Site",
-    "description": "Leia o artigo para entender alguns fatores de ranqueamento do Google que auxiliam os sites a conseguir posicionamentos melhores na primeira página.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/02/arkan-perdana-eKTLh4_u7Ao-unsplash.jpg",
-    "url": "https://www.agenciamestre.com/seo/fatores-de-ranqueamento-do-google/",
-    "date": " 02/02/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Palavras de Transição SEO: O Que São e Como Utilizá-las",
-    "description": "Quer aprender como utilizar um fator de ranqueamento simples, que vai te ajudar a melhorar seu posicionamento no Google? Clique e saiba como as palavras de transição podem te ajudar.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2021/11/merakist-l5if0iQfV4c-unsplash-2.jpg",
-    "url": "https://www.agenciamestre.com/seo/palavras-de-transicao-seo/",
-    "date": " 31/01/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "SEO na Title Tag – Melhore os Títulos do seu Site",
-    "description": "Title Tag, SEO Title ou Título SEO basicamente são uma tag HTML que representa o título de uma página. Ela é um elemento essencial para…",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2007/10/title-tag-SEO.jpg",
-    "url": "https://www.agenciamestre.com/seo/seo-na-title-tag/",
-    "date": " 27/01/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Neeva: O Mecanismo de Buscas Sem Rastreador e Sem Propagandas",
-    "description": "O Google ganhou um novo concorrente? Conheça o Neeva, o mecanismo de sem anúncios e rastreamento.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/01/neeva.png",
-    "url": "https://www.agenciamestre.com/seo/neeva/",
-    "date": " 10/01/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Conheça o Framework para Dimensionar a Criação de Conteúdo e SEO",
-    "description": "Tenha melhores resultados em SEO e otimize sua produção de conteúdo com as dicas do especialista Brad Smith.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/01/framework-de-conteudo-e-seo.jpg",
-    "url": "https://www.agenciamestre.com/seo/framework-de-conteudo-e-seo/",
-    "date": " 09/01/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "O Google Está Testando Buscas Por Textos Para Trechos Em Vídeos do YouTube",
-    "description": "Suas legendas estão em dia? O Google está testando um novo recurso para exibir trechos de vídeos a partir de buscas por texto!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/01/busca-por-texto-youtube.jpg",
-    "url": "https://www.agenciamestre.com/seo/busca-por-texto-youtube/",
-    "date": " 06/01/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Algoritmo do Google: Como Funciona o Maior Buscador do Mundo?",
-    "description": "Leia este artigo completo para entender tudo o que você precisa saber sobre o algoritmo do Google.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/03/souvik-banerjee-OMhubJCrtu0-unsplash-1.jpg",
-    "url": "https://www.agenciamestre.com/seo/algoritmo-do-google/",
-    "date": " 16/12/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "O que é Canonical Tag? Como funciona e como acabar com Conteúdo Duplicado",
-    "description": "Tudo que você precisa saber sobre o Canonical Link Element: como funciona, como usar, a teoria e a prática. Este post explica detalhes sobre problemas de conteúdo duplicado. Confira!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2009/02/canonical-tag.jpg",
-    "url": "https://www.agenciamestre.com/seo/canonical-tag-acabe-com-o-conteudo-duplicado/",
-    "date": " 15/12/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "O Código do GA faz seu Site Aparecer nas Buscas?",
-    "description": "Incluir o código GA nas páginas do site garante que ele irá aparecer nas buscas realizadas no Google? Um estudo foi feito sobre o assunto. Confira o resultado aqui!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2017/09/codigo-computador.jpeg",
-    "url": "https://www.agenciamestre.com/seo/codigo-do-ga-faz-site-aparecer-no-google/",
-    "date": " 14/12/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Canais do Instagram: Conheça o novo Recurso da Meta",
-    "description": "Confira porque a Meta está lançando este novo recurso e como você pode incluí-lo na sua estratégia de redes sociais!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/02/canais-instagram.jpg",
-    "url": "https://www.agenciamestre.com/redes-sociais/canais-instagram/",
-    "date": " 17/02/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Elon Musk Comprou o Twitter: Qual o Futuro da Plataforma?",
-    "description": "O que muda com a compra do Twitter pelo homem mais rico do mundo? Confira a notícia e saiba qual pode ser o futuro da plataforma!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/04/jeremy-bezanger-Jm1YUfYjpHI-unsplash.jpg",
-    "url": "https://www.agenciamestre.com/redes-sociais/elon-musk-twitter/",
-    "date": " 10/02/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Como Criar uma Fanpage: Guia para Criar Página no Facebook",
-    "description": "Veja como criar uma página no Facebook, confira as dicas que não podem ser ignoradas e torne a sua empresa visível nessa rede social!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2016/10/fanpage-como-criar-pagina-no-facebook.jpg",
-    "url": "https://www.agenciamestre.com/redes-sociais/facebook-fan-pages-crie-pagina-facebook/",
-    "date": " 24/01/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Sparkle Hotmart: A Rede Social Que Cria Comunidades",
-    "description": "Quer saber o que é o Sparkle da Hotmart? Clique e saiba como funciona a rede social que cria comunidades. Confira os detalhes aqui!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2020/05/sparkle-hotmart.jpg",
-    "url": "https://www.agenciamestre.com/redes-sociais/sparkle-hotmart/",
-    "date": " 06/01/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Instagram: Relatório de Previsões de Tendências para 2023",
-    "description": "Veja quais são as principais tendências de conteúdo para o Instagram no próximo ano, de acordo com o segmento da sua empresa.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/12/tendencias-instagram.jpg",
-    "url": "https://www.agenciamestre.com/redes-sociais/tendencias-instagram/",
-    "date": " 13/12/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Novos Recursos do LinkedIn Estão Disponíveis",
-    "description": "Além da exibição de um link no perfil, os usuários têm novas ferramentas para potencializar seus resultados na rede social. Confira!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/05/linkedin-sales-solutions-P23-VI_mhpM-unsplash-1.jpg",
-    "url": "https://www.agenciamestre.com/redes-sociais/novos-recursos-do-linkedin/",
-    "date": " 29/11/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Como Fazer um Instagram de Sucesso e Ganhar Seguidores",
-    "description": "Saiba os passos necessários para construir um perfil voltado para negócios e aprenda a se destacar em uma das redes sociais que mais cresce na atualidade.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2018/02/fazer-instagram-e-ganhar-seguidores.jpg",
-    "url": "https://www.agenciamestre.com/redes-sociais/fazer-instagram-e-ganhar-seguidores/",
-    "date": " 28/11/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Koo: Saiba Tudo Sobre a Rede Social Que Viralizou no Brasil",
-    "description": "O Koo app vai substituir o Twitter? Entenda como a rede social funciona e porque os boatos fizeram com que ela se tornasse um sucesso.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/11/koo-app.png",
-    "url": "https://www.agenciamestre.com/redes-sociais/koo-app/",
-    "date": " 21/11/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "O Instagram Está Lançando Novas Ferramentas De Agendamento",
-    "description": "Aprenda a utilizar a nova ferramenta de agendamento do Instagram e confira todas as novidades!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/11/instagram-novas-ferramentas-de-agendamento.jpg",
-    "url": "https://www.agenciamestre.com/redes-sociais/instagram-novas-ferramentas-de-agendamento/",
-    "date": " 09/11/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "TikTok – A Rede Social Que Veio Para Impactar",
-    "description": "O TikTok é a rede social do momento que já ultrapassou o Instagram em números de downloads. Leia este artigo e saiba mais sobre o potencial deste canal!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2021/06/rede-social-tiktok.jpg",
-    "url": "https://www.agenciamestre.com/redes-sociais/tiktok/",
-    "date": " 07/11/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Tendências Para as Redes Sociais em 2023",
-    "description": "Quer se antecipar aos seus concorrentes nas estratégias das redes sociais para o próximo ano? Então confira o artigo completo!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/11/tendencias-redes-sociais.png",
-    "url": "https://www.agenciamestre.com/redes-sociais/tendencias-redes-sociais/",
-    "date": " 04/11/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Conta do Instagram Suspensa e Perda de Seguidores",
-    "description": "Em sete países diferentes usuários estão tendo problemas com suas contas e número de seguidores, acompanhe a resolução.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/10/conta-do-instagram-suspensa-perda-de-seguidores.jpg",
-    "url": "https://www.agenciamestre.com/redes-sociais/conta-do-instagram-suspensa-perda-de-seguidores/",
-    "date": " 31/10/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Marketing de Conteúdo B2C: Principais Desafios em 2023",
-    "description": "O estudo B2C Content Marketing Benchmark identificou as estratégias e desafios dos profissionais de marketing B2C. Confira como se preparar!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/01/conteudo-b2c.jpg",
-    "url": "https://www.agenciamestre.com/marketing-de-conteudo/conteudo-b2c/",
-    "date": " 27/01/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "O Que os Profissionais de Marketing B2B Precisam em 2023",
-    "description": "Confira quais ações são as mais importantes para o sucesso da estratégia de marketing B2B em 2023!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/01/marketing-de-conteudo-b2b-2023.jpg",
-    "url": "https://www.agenciamestre.com/marketing-de-conteudo/marketing-de-conteudo-b2b-2023/",
-    "date": " 18/01/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Como a Inteligência Artificial Vai Influenciar no Marketing de Conteúdo",
-    "description": "Quais expectativas podemos ter ao utilizar a IA na produção de conteúdo? Veja como as empresas estão investindo nessa estratégia.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2019/06/inteligencia-artificial-no-marketing-de-conteudo.jpg",
-    "url": "https://www.agenciamestre.com/marketing-de-conteudo/inteligencia-artificial-no-marketing-de-conteudo/",
-    "date": " 16/01/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Estratégias de Conteúdo Interativo para Aumentar o Engajamento",
-    "description": "Entenda como funciona a criação de conteúdo interativo e saiba como utilizar essa estratégia a favor da sua empresa!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/10/conteudo-interativo.jpg",
-    "url": "https://www.agenciamestre.com/marketing-de-conteudo/estrategias-de-conteudo-interativo/",
-    "date": " 23/11/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Compradores B2B Afirmam: Conteúdo Impacta Na Decisão de Compra",
-    "description": "Executivos B2B afirmam que a qualidade do conteúdo de um fornecedor é um ponto chave para se destacar da concorrência, confira o estudo!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/08/conteudo-impacta-na-decisao-de-compra.jpg",
-    "url": "https://www.agenciamestre.com/marketing-de-conteudo/conteudo-impacta-na-decisao-de-compra/",
-    "date": " 18/11/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Motivos Para Investir Em Conteúdo Estratégico",
-    "description": "Veja como vender mais utilizando conteúdo estratégico a seu favor, assim como grandes empresas já estão fazendo!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2020/12/motivos-para-investir-em-conteudo-estrategico.jpg",
-    "url": "https://www.agenciamestre.com/marketing-de-conteudo/motivos-para-investir-em-conteudo-estrategico/",
-    "date": " 17/11/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Tendências de Marketing de Conteúdo em 2022",
-    "description": "Alinhe suas estratégias de conteúdo, as expectativas do mercado e eleve seus resultados. Confira o relatório da Semrush!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/09/tendencias-marketing-de-conteudo.jpg",
-    "url": "https://www.agenciamestre.com/marketing-de-conteudo/tendencias-marketing-de-conteudo/",
-    "date": " 22/09/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "O Melhor Conteúdo Para o LinkedIn em 2022",
-    "description": "Confira os principais formatos de conteúdo para sua estratégia de Marketing no LinkedIn, de acordo com o tamanho do seu perfil.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/06/conteudo-para-o-linkedin.jpg",
-    "url": "https://www.agenciamestre.com/marketing-de-conteudo/conteudo-para-o-linkedin/",
-    "date": " 07/06/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Por Que é Importante Investir em Conteúdos de Qualidade?",
-    "description": "Tanto os consumidores quanto as empresas têm expectativas sobre a qualidade do conteúdo publicado na internet. Entenda porquê.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/05/convertkit-BPZ1huYak7c-unsplash.jpg",
-    "url": "https://www.agenciamestre.com/marketing-de-conteudo/investimento-em-conteudo/",
-    "date": " 10/05/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "As Preferências de Conteúdo dos Compradores B2B",
-    "description": "Saiba quais formatos de conteúdo são mais valiosos para os consumidores B2B e quais suas preferências de consumo. Veja mais!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/04/annie-spratt-g9KFpAfQ5bc-unsplash.jpg",
-    "url": "https://www.agenciamestre.com/marketing-de-conteudo/consumidores-b2b/",
-    "date": " 27/04/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Storytelling Para Copywriting: Como Utilizar Histórias Para Aumentar Suas Vendas",
-    "description": "Veja como utilizar técnicas de Storytelling em suas copies de venda para manter os leitores mais engajados e aumentar suas vendas!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/04/melanie-deziel-84g0uqyDlT0-unsplash.jpg",
-    "url": "https://www.agenciamestre.com/marketing-de-conteudo/storytelling-para-copywriting/",
-    "date": " 25/04/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "O Que Os Profissionais Buscam Com A Produção de Conteúdo?",
-    "description": "O marketing de conteúdo é uma ferramenta valiosa para geração de leads. Leia a notícia e confira as prioridades dos profissionais B2B e B2C!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/03/fikret-tozak-rfNLa1HL7eY-unsplash.jpg",
-    "url": "https://www.agenciamestre.com/marketing-de-conteudo/producao-de-conteudo/",
-    "date": " 09/03/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "9 Lições Dos Serviços de Streaming Para Agregar na Sua Vida Profissional",
-    "description": "Mais do que te entreter, os serviços de streaming podem te ajudar a ter uma vida profissional melhor. Veja como!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2020/11/servicos-de-streaming.jpg",
-    "url": "https://www.agenciamestre.com/geral/licoes-dos-servicos-de-streaming/",
-    "date": " 24/11/20",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Gestão do seu Dia a Dia — Como Ter Sucesso Profissional",
-    "description": "Entenda como ter sucesso profissional ao aplicar as dicas de gestão do dia a dia presentes neste artigo. Confira e aplique!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2020/10/como-ter-sucesso-profissional.jpg",
-    "url": "https://www.agenciamestre.com/geral/como-ter-sucesso-profissional/",
-    "date": " 01/10/20",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Como Incentivar a Inteligência Emocional no Ambiente de Trabalho",
-    "description": "Incentivar a inteligência emocional no ambiente de trabalho é muito importante para que seus colaboradores mantenham-se saudáveis e engajados. Confira!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2020/08/como-incentivar-a-inteligencia-emocional-no-ambiente-de-trabalho.jpg",
-    "url": "https://www.agenciamestre.com/geral/como-incentivar-a-inteligencia-emocional-no-ambiente-de-trabalho/",
-    "date": " 11/08/20",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "RD Summit 2017",
-    "description": "O RD Summit 2017 foi muito especial para a Agência Mestre! Confira o vídeo em que nosso CEO, Fábio Ricotta, conta para você quais foram os prêmios que conquistamos no evento da Resultados Digitais!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2017/10/RD-summit-2017.jpg",
-    "url": "https://www.agenciamestre.com/geral/rd-summit-2017/",
-    "date": " 31/10/17",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Manual de Lançamento de Um Novo Site",
-    "description": "Está fazendo modificações na sua página? Então confira um manual completo sobre o lançamento de um novo site. Com ele, você evita erros e facilita esse processo. Veja!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2017/10/lancamento-de-um-novo-site.jpg",
-    "url": "https://www.agenciamestre.com/geral/manual-de-lancamento-de-um-novo-site/",
-    "date": " 17/10/17",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Como Ampliar a Velocidade do Seu Site",
-    "description": "Para melhorar a experiência dos usuários, que tal ampliar a velocidade do seu site? Com isso você pode aumentar a conversão de leads a até de vendas. Clique e veja o que deve ser feito.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2017/09/ampliar-a-velocidade-do-seu-site.jpg",
-    "url": "https://www.agenciamestre.com/geral/como-ampliar-a-velocidade-do-seu-site/",
-    "date": " 19/09/17",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "MestreTV Episódio 23- Mensagens de Natal",
-    "description": "No vídeo de hoje, Fábio Ricotta aparece vestido de papai Noel especialmente para te dar algumas mensagens tanto pessoais quanto profissionais de natal. Confira!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2015/12/EPISODIO_23.jpg",
-    "url": "https://www.agenciamestre.com/geral/mestretv-episodio-23-mensagens-de-natal/",
-    "date": " 22/12/15",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Como Implementar o CRM de Vendas na Rotina da Sua Equipe",
-    "description": "Se você está no processo de implementar um CRM de vendas na sua empresa e quer facilitar essas mudanças tanto para você quanto para sua equipe, confira as dicas no artigo!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/02/como-implementar-o-crm-de-vendas-na-rotina-da-sua-equipe.jpg",
-    "url": "https://www.agenciamestre.com/ferramentas/como-implementar-o-crm-de-vendas-na-rotina-da-sua-equipe/",
-    "date": " 16/02/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Google Trends: Descubra Tendências de Busca",
-    "description": "Saiba o que é e como utilizar o Google Trends, uma ferramenta que irá ajudar você a descobrir novas palavras-chave a serem exploradas. Confira!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2016/12/google-trends-1.jpg",
-    "url": "https://www.agenciamestre.com/ferramentas/google-trends/",
-    "date": " 15/02/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "ChatGPT: O Sistema de IA Conversacional",
-    "description": "O ChatGPT é o novo concorrente do Google? Descubra tudo sobre o sistema IA que responde suas pesquisas de modo conversacional!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/12/chatgpt.png",
-    "url": "https://www.agenciamestre.com/ferramentas/chatgpt/",
-    "date": " 14/02/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Como Escolher o Melhor CRM de Vendas Para sua Empresa",
-    "description": "Você sabe como escolher o melhor CRM de vendas para sua equipe comercial? Confira quais questões devem ser feitas antes de tomar essa decisão.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/02/como-escolher-o-melhor-crm-de-vendas-para-sua-empresa.jpg",
-    "url": "https://www.agenciamestre.com/ferramentas/como-escolher-o-melhor-crm-de-vendas-para-sua-empresa/",
-    "date": " 03/02/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Google Search Console: O Relatório de Indexação de Vídeo Está Disponível",
-    "description": "Saiba quais são as funcionalidades disponíveis no novo Relatório de Indexação de Vídeos e como você pode utilizá-las.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/06/relatorio-de-indexacao-de-video.jpg",
-    "url": "https://www.agenciamestre.com/ferramentas/relatorio-de-indexacao-de-video/",
-    "date": " 02/02/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Como Conectar o Looker Studio ao Google Planilhas",
-    "description": "Quer criar relatórios otimizados, dinâmicos e organizados para apresentar aos clientes? Então veja só essas dicas de como conectar o Google Data Studio com planilhas!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/01/looker-studio-e-google-planilhas.jpg",
-    "url": "https://www.agenciamestre.com/ferramentas/como-conectar-o-google-looker-studio-com-planilhas/",
-    "date": " 16/01/23",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Ferramentas Para Organizar Tarefas e Ser Mais Produtivo",
-    "description": "Entenda o que é a gestão do tempo e como a utilização de ferramentas para organizar suas tarefas pode tornar seu dia a dia mais produtivo!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2017/06/ferramentas-para-gestoa-do-tempo.jpg",
-    "url": "https://www.agenciamestre.com/ferramentas/gestao-do-tempo-e-ferramentas-de-produtividade/",
-    "date": " 16/12/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Recurso de Ideias de Conteúdo No Google Search Console",
-    "description": "Confira o recurso teste do GSC que fornece sugestões de conteúdo que podem ser escritos nos sites de seus usuários!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/12/ideias-de-conteudo-google-search-console.jpg",
-    "url": "https://www.agenciamestre.com/ferramentas/ideias-de-conteudo-google-search-console/",
-    "date": " 12/12/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Consistência de Vendas — Como o CRM Te Ajuda a Vender Mais",
-    "description": "Confira o artigo para descobrir como o software CRM ajuda a sua empresa a ter consistência de vendas!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/12/consistencia-de-vendas-como-crm-ajuda-vender-mais.jpg",
-    "url": "https://www.agenciamestre.com/ferramentas/consistencia-de-vendas-como-o-crm-te-ajuda-a-vender-mais/",
-    "date": " 09/12/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Simple ML: Aprendizado de Máquina Sem Código Para o Planilhas Google",
-    "description": "Machine Learning nas planilhas do Google? Sim, agora você pode gerar previsões automaticamente. Veja como funciona!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/12/simple-ml.png",
-    "url": "https://www.agenciamestre.com/ferramentas/simple-ml/",
-    "date": " 08/12/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Data Studio Agora é Looker Studio",
-    "description": "Entenda porque o Google está migrando o Data Studio para o Looker e como essas mudanças podem beneficiar a sua análise de dados.",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/10/looker-studio.jpg",
-    "url": "https://www.agenciamestre.com/ferramentas/looker-studio/",
-    "date": " 07/12/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "Melhores Ferramentas de SEO Para Otimizar o Desempenho do Seu Site",
-    "description": "Confira aqui uma lista completa com mais de 50 ferramentas de SEO que irão ajudar você a conquistar as melhores posições nos mecanismos de busca!",
-    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2014/05/melhores-ferramentas-de-seo.jpg",
-    "url": "https://www.agenciamestre.com/ferramentas/ferramentas-de-seo-melhorar-desempenho/",
-    "date": " 02/12/22",
-    "owner": "Agência Mestre"
-  },
-  {
-    "title": "An Approach to Lazy Loading Custom Elements",
-    "description": "We’re fans of Custom Elements around here. Their design makes them particularly amenable to lazy loading, which can be a boon for performance. Inspired by a colleague’s experiments, I recently set about writing a simple auto-loader: Whenever a custom element appears in the DOM, we wanna load the corresponding implementation if it’s not available yet. […]",
-    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/02/wev-components-lazy.png",
-    "url": "https://css-tricks.com/an-approach-to-lazy-loading-custom-elements/",
-    "date": "Feb 13, 2023",
-    "owner": "CSS-Tricks"
-  },
-  {
-    "title": "Different Ways to Get CSS Gradient Shadows",
-    "description": "It’s a question I hear asked quite often: Is it possible to create shadows from gradients instead of solid colors? There is no specific CSS property that does this (believe me, I’ve looked) and any blog post you find about …",
-    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/02/gradient-shadows.png",
-    "url": "https://css-tricks.com/different-ways-to-get-css-gradient-shadows/",
-    "date": "Feb 10, 2023",
-    "owner": "CSS-Tricks"
-  },
-  {
-    "title": "Healthcare, Selling Lemons, and the Price of Developer Experience",
-    "description": "Every now and then, a one blog post is published and it spurs a reaction or response in others that are, in turn, published as blogs posts, and a theme starts to emerge. That’s what happened this past week and …",
-    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/02/react-lemons.jpg",
-    "url": "https://css-tricks.com/healthcare-selling-lemons-and-the-price-of-developer-experience/",
-    "date": "Feb 9, 2023",
-    "owner": "CSS-Tricks"
-  },
-  {
-    "title": "Moving Backgrounds",
-    "description": "We often think of background images as texture or something that provides contrast for legible content — in other words, not really content. If it was content, you’d probably reach for an <img> anyway, accessibility and whatnot.\n\nBut there are …",
-    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/01/movable-background.png",
-    "url": "https://css-tricks.com/moving-backgrounds/",
-    "date": "Feb 9, 2023",
-    "owner": "CSS-Tricks"
-  },
-  {
-    "title": "The truth about CSS selector performance",
-    "description": "Geez, leave it to Patrick Brosset to talk CSS performance in the most approachable and practical way possible. Not that CSS is always what’s gunking up the speed, or even the lowest hanging fruit when it comes to improving …",
-    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/01/edge-devtools-selector-stats.png",
-    "url": "https://css-tricks.com/the-truth-about-css-selector-performance/",
-    "date": "Feb 7, 2023",
-    "owner": "CSS-Tricks"
-  },
-  {
-    "title": "The Double Emphasis Thing",
-    "description": "I used to have this boss who loved, loved, loved, loved to emphasize words. This was way back before we used a WYSIWYG editors and I’d have to handcode that crap.\n\n<pI used to have this \n…",
-    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/01/double-emphasis.jpg",
-    "url": "https://css-tricks.com/the-double-emphasis-thing/",
-    "date": "Feb 6, 2023",
-    "owner": "CSS-Tricks"
-  },
-  {
-    "title": "A Fancy Hover Effect For Your Avatar",
-    "description": "Do you know that kind of effect where someone’s head is poking through a circle or hole? The famous Porky Pig animation where he waves goodbye while popping out of a series of red rings is the perfect example, and …",
-    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/02/featured-image-avatar.png",
-    "url": "https://css-tricks.com/a-fancy-hover-effect-for-your-avatar/",
-    "date": "Feb 3, 2023",
-    "owner": "CSS-Tricks"
-  },
-  {
-    "title": "Caching Data in SvelteKit",
-    "description": "My previous post was a broad overview of SvelteKit where we saw what a great tool it is for web development. This post will fork off what we did there and dive into every developer’s favorite topic: caching. So, …",
-    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/01/svelte-cache.png",
-    "url": "https://css-tricks.com/caching-data-in-sveltekit/",
-    "date": "Feb 1, 2023",
-    "owner": "CSS-Tricks"
-  },
-  {
-    "title": "border-image-outset",
-    "description": "The CSS border-image-outset property sets distance between an element’s border-image area and how far it goes beyond the element’s border-box.\n\n.container {\n  border-style: ridge;\n  border-width: 3rem;\n  border-image-source: url('path/to/image.jpg');\n  border-image-slice: 70; \n  border-image-width: 40%; \n  border-image-repeat: repeat;\n  border-image-outset: 2;\n}\n…",
-    "thumbnail": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png",
-    "url": "https://css-tricks.com/almanac/properties/b/border-image-outset/",
-    "date": "Jan 31, 2023",
-    "owner": "CSS-Tricks"
-  },
-  {
-    "title": "AR, VR, and a Model for 3D in HTML",
-    "description": "Tucked down somewhere in the Safari Technology Preview 161 release notes is a seemingly innocous line about support for a new HTML element and attribute:\n\nAdded support for <model src> and honor <source type> attributes (257518@main)\n\nAnytime I …",
-    "thumbnail": "https://css-tricks.com/wp-content/uploads/2016/09/art_3d_gotchas_2.png",
-    "url": "https://css-tricks.com/ar-vr-and-a-model-for-3d-in-html/",
-    "date": "Jan 27, 2023",
-    "owner": "CSS-Tricks"
-  },
-  {
-    "title": "color-scheme",
-    "description": "You know how we have “dark mode” and “light mode” these days? Browsers also have “dark” and “light” color schemes baked into their default styles. The CSS color-scheme property lets the browser use (or choose) to display certain elements with …",
-    "thumbnail": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png",
-    "url": "https://css-tricks.com/almanac/properties/c/color-scheme/",
-    "date": "Jan 27, 2023",
-    "owner": "CSS-Tricks"
-  },
-  {
-    "title": "Animating CSS Grid (How To + Examples)",
-    "description": "I’m pleased to shine a light on the fact that the CSS grid-template-rows and grid-template-columns properties are now animatable in all major web browsers! Well, CSS Grid has technically supported animations for a long time, as it’s baked right …",
-    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/01/grid-animation.jpg",
-    "url": "https://css-tricks.com/animating-css-grid-how-to-examples/",
-    "date": "Jan 25, 2023",
-    "owner": "CSS-Tricks"
-  },
-  {
-    "title": "Data Binding in React",
-    "description": "As developers, we don't like working with forms, but they're a critical part of most web applications! In this tutorial, you'll learn exactly how to wire up all of the different form controls in React. Never forget how to data-bind a checkbox or radio button again!",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/react/data-binding/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "Color Formats in CSS",
-    "description": "CSS gives us so many options when it comes to expressing color—we can use hex codes, rgb, hsl, and more. Which option should we choose? This turns out to be a surprisingly important decision! In this article, we'll take a tour of color formats in CSS, and see which option will serve us best.",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/css/color-formats/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "An Interactive Guide to Flexbox",
-    "description": "When we truly learn the secrets of the Flexbox layout mode, we can build absolutely incredible things. Fluid layouts that stretch and shrink without arbitrary breakpoints. In this action-packed interactive tutorial, we'll pop the hood on the Flexbox algorithm and learn how to do remarkable things with it. ✨",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "A World-Class Code Playground with Sandpack",
-    "description": "No developer blog or technical documentation site is complete without an interactive code playground. The CodeSandbox team recently released a wonderful tool called Sandpack, to help us create these live-updating code editors. In this tutorial, I'll show you how I use it on this blog.",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/react/next-level-playground/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "Understanding useMemo and useCallback",
-    "description": "A roadtrip through two of React's most notorious hooks",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "Why React Re-Renders",
-    "description": "In React, we don't update the DOM directly, we tell React what we want the DOM to look like, and React tackles the rest. But how exactly does it do this? In this tutorial, we'll unpack exactly when and why React re-renders, and how we can use this information to optimize the performance of our React apps.",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/react/why-react-re-renders/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "Statements Vs. Expressions",
-    "description": "One of the most foundational things to understand about JavaScript is that programs are made up of statements, and statements have slots for expressions. In this blog post, we'll dig into how these two structures work, and see how building an intuition about this can help us solve practical problems.",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/javascript/statements-vs-expressions/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "My Wonderful HTML Email Workflow",
-    "description": "A potent combination of MDX and MJML",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "The Surprising Truth About Pixels and Accessibility",
-    "description": "“Should I use pixels or rems?”. In this comprehensive blog post, we'll answer this question once and for all. You'll learn about the accessibility implications, and how to determine the best unit to use in any scenario.",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "You Don’t Need a UI Framework",
-    "description": "As developers, it can be tempting to grab a pre-styled UI framework like Material UI or Bootstrap. Seems like a great way to outsource design and save a bunch of time, right? In my experience, this is an unrealistic expectation, and things don’t quite work out that way.",
-    "thumbnail": null,
-    "url": "https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "The Front-End Developer's Guide to the Terminal",
-    "description": "If you want to learn a modern JavaScript framework like React or Angular, you better be familiar with the terminal! So many frameworks and tools assume that you're proficient with it, without ever explaining it. This blog post is your missing manual, covering all of the most important fundamentals.",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/javascript/terminal-for-js-devs/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "Understanding Layout Algorithms",
-    "description": "The mental model shift that makes CSS more intuitive",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/css/understanding-layout-algorithms/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "Delightful React File/Directory Structure",
-    "description": "How should we structure components and other files in our React apps? I've iterated my way to a solution I'm really happy with. In this blog post, I'll share how it works, what the tradeoffs are, and how I mitigate them.",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/react/file-structure/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "Make Beautiful Gradients",
-    "description": "Have you ever noticed that gradients tend to look a little gray and washed-out in the middle? This happens because of a mathematical quirk with RGB colors. Fortunately, we can work around this quirk, and create beautiful, lush, saturated gradients.",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/css/make-beautiful-gradients/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "My Custom CSS Reset",
-    "description": "I have a set of baseline CSS styles that come with me from project to project. In the past, I'd use a typical CSS reset, but times have changed, and I believe I have a better set of global styles!",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/css/custom-css-reset/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "Introducing “Shadow Palette Generator”",
-    "description": "In order to create lush, realistic shadows in CSS, we need to use multiple layers and colors. How do we come up with all of the parameters, though? I've built a tool that'll help.",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "Designing Beautiful Shadows in CSS",
-    "description": "When I look around the web, most of the shadows I see are fuzzy grey boxes. It doesn't have to be this way, though! CSS gives us the tools to create rich, lush, lifelike shadows. In this tutorial, I'll show you how.",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/css/designing-shadows/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "An Interactive Guide to Keyframe Animations",
-    "description": "CSS keyframe animations are incredibly flexible and powerful, but they’re also a bit weird. In this deep-dive tutorial, we'll learn how CSS keyframes work from the ground up, and see how to use them to build high-quality animations.",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/animation/keyframe-animations/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "The World of CSS Transforms",
-    "description": "The “transform” property is such a powerful part of the CSS language! In this blog post, we'll take a deep look at this property and see some of the nifty things it can do.",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/css/transforms/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "How To Learn Stuff Quickly",
-    "description": "As software developers, we're always learning new things; it's practically the whole gig! If we can learn to quickly pick up new languages/frameworks/tools, we'll become so much more effective at our job. It's sort of a superpower.",
-    "thumbnail": "https://www.joshwcomeau.com/assets/me-light.webp",
-    "url": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
-    "date": null,
-    "owner": "joshwcomeau"
-  },
-  {
-    "title": "O que é a nova propostas de sequências com o Iterator.range no JavaScript",
-    "description": "Uma API que você nunca imagina que precisa até você precisar! Conheça as sequências no JavaScript!",
-    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2023/02/articles-1.png",
-    "url": "https://blog.lsantos.dev/number-range/",
-    "date": "2023-02-16",
-    "owner": "Lucas Santos"
-  },
-  {
-    "title": "O que há de novo no TypeScript 5.0",
-    "description": "O TypeScript 5.0 beta saiu! Chegou a hora de descobrir o que existe de mais novo na nova versão do superset que todos amam!",
-    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2023/01/articles-1.png",
-    "url": "https://blog.lsantos.dev/typescript-5/",
-    "date": "2023-02-02",
-    "owner": "Lucas Santos"
-  },
-  {
-    "title": "O que são erros e para que serve o error.cause no JavaScript?",
-    "description": "Tratamento de erros são uma das habilidades mais importantes e mais difíceis de qualquer dev. Mas quase ninguém sabe que tem um jeito muito mais fácil de tratar seus erros.",
-    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2023/01/articles.png",
-    "url": "https://blog.lsantos.dev/error-cause/",
-    "date": "2023-01-18",
-    "owner": "Lucas Santos"
-  },
-  {
-    "title": "Para que servem os generators no JS?",
-    "description": "Os generators não são uma API recente do JavaScript, porém ainda sim são pouco conhecidos. Vamos aprender para que você pode usar generators e como você pode levar suas habilidades para outro nível com essa funcionalidade",
-    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2023/01/Blog-cover-Template.png",
-    "url": "https://blog.lsantos.dev/generators-js/",
-    "date": "2023-01-05",
-    "owner": "Lucas Santos"
-  },
-  {
-    "title": "Vamos falar sobre o Deno",
-    "description": "O Node.js está finalmente morrendo? Seria esse o momento de migrarmos para o Deno? Bora entender tudo sobre ele nesse artigo!",
-    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/12/Blog-cover-Template-1.png",
-    "url": "https://blog.lsantos.dev/deno/",
-    "date": "2022-12-21",
-    "owner": "Lucas Santos"
-  },
-  {
-    "title": "O JavaScript vai deixar de ser single thread? Entenda as Module Expressions",
-    "description": "E se o JavaScript fosse tão bom em mais de uma thread como se ele se comporta hoje com uma só? Vamos entender as sobre Block Expressions!",
-    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/12/Blog-cover-Template.png",
-    "url": "https://blog.lsantos.dev/module-expressions-js/",
-    "date": "2022-12-08",
-    "owner": "Lucas Santos"
-  },
-  {
-    "title": "Decorators no JavaScript",
-    "description": "Uma das propostas mais importantes do JavaScript acabou de chegar no estágio 3! Entenda o que são decorators e por que eles não são a única novidade dessa proposta!",
-    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/11/Blog-cover-Template.png",
-    "url": "https://blog.lsantos.dev/javascript-decorators/",
-    "date": "2022-11-04",
-    "owner": "Lucas Santos"
-  },
-  {
-    "title": "CLIs mais simples com Util.parseArgs",
-    "description": "Entenda sobre como o Node.js facilitou a criação de ferramentas de linhas de comando com o novo método parseArgs!",
-    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/10/Blog-cover-Template-1.png",
-    "url": "https://blog.lsantos.dev/parseargs/",
-    "date": "2022-10-20",
-    "owner": "Lucas Santos"
-  },
-  {
-    "title": "Tudo sobre o novo operador satisfies no TypeScript",
-    "description": "Com a versão beta 4.9 do TypeScript, ganhamos um novo operador, o \"satisfies\", bora entender como que esse novo operador pode ser útil e porque ele é super legal!",
-    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/10/Blog-cover-Template.png",
-    "url": "https://blog.lsantos.dev/ts-satisfies/",
-    "date": "2022-10-05",
-    "owner": "Lucas Santos"
-  },
-  {
-    "title": "Criando bots para o Telegram com o GrammY",
-    "description": "Aprenda a criar bots incríveis para o Telegram usando uma ferramenta sensacional que vai revolucionar a forma como você trabalhar com automações.",
-    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/09/Blog-cover-Template-2.png",
-    "url": "https://blog.lsantos.dev/telegram-grammy-bot/",
-    "date": "2022-10-05",
-    "owner": "Lucas Santos"
-  },
-  {
-    "title": "Novidades RD Station Marketing – Fevereiro 2023",
-    "description": "Além do Carnaval, fevereiro é o mês marcado pela chegada de novidades incríveis: mais praticidade para enviar mensagens de Whatsapp, melhorias na leitura de taxa de cliques de e-mail e facilidade para cancelar ou alterar suas campanhas",
-    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2023/02/Novidades-RD-Station-Fevereiro-Carnaval-sem-fundo-260x130.png",
-    "url": "https://blog.rdstation.com/novidades-rd-station-marketing-fevereiro-2023/",
-    "date": "2023-2-15",
-    "owner": "Blog RD Station"
-  },
-  {
-    "title": "Novidades RD Station Marketing – Janeiro 2023",
-    "description": "Começamos o ano, uma nova jornada de 12 meses onde vamos acompanhar juntos a evolução do nosso produto e como ele apoiará as suas Estratégias de Marketing. Este mês trazemos um artigo completo sobre a migração para o Google Analytics 4....",
-    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2023/01/Novidades-RD-Station-Fevereiro-2023-com-fundo-2037-260x130.png",
-    "url": "https://blog.rdstation.com/novidades-rd-station-marketing-janeiro-2023/",
-    "date": "2023-1-24",
-    "owner": "Blog RD Station"
-  },
-  {
-    "title": "Aprenda a salvar os seus áudios do WhatsApp no RD Station CRM",
-    "description": "Mantenha as suas negociações sempre atualizadas, sem esquecer de nenhuma informação importante.",
-    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2023/01/Novidades-RD-Station-Janeiro-2023-sem-fumdo-2036-260x130.png",
-    "url": "https://blog.rdstation.com/mantenha-as-suas-negociacoes-atualizadas/",
-    "date": "2023-1-17",
-    "owner": "Blog RD Station"
-  },
-  {
-    "title": "RD Station Marketing: tudo sobre a migração para o Google Analytics 4",
-    "description": "O Google Analytics 4 passa a ser a única alternativa para transmissão dos dados a partir de julho de 2023, saiba porque você deve migrar sua conta no Google Analytics (Universal Analytics) utilizada no RD Station Marketing.",
-    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2022/04/header-news-crm-abril-sem-fundo-260x130.png",
-    "url": "https://blog.rdstation.com/rd-station-marketing-tudo-sobre-a-migracao-para-o-google-analytics-4/",
-    "date": "2023-1-16",
-    "owner": "Blog RD Station"
-  },
-  {
-    "title": "Novidades RD Station Marketing – Dezembro 2022",
-    "description": "Retrospectiva 2022 🎉: vamos olhar o ano que passou e relembrar quais foram as melhores novidades do RD Station Marketing ao longo de 2022.",
-    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2022/12/Novidades-RD-Station-Dezembro-2034-260x130.png",
-    "url": "https://blog.rdstation.com/novidades-rd-station-marketing-dezembro-2022/",
-    "date": "2022-12-20",
-    "owner": "Blog RD Station"
-  },
-  {
-    "title": "Como a Agência Mestre ajudou a Prev Fácil a gerar 8.828% mais Leads em um ano",
-    "description": "A Prev Fácil é uma consultoria que atua com foco no setor previdenciário de instituições públicas e privadas. Foi fundada em 2000 por Cristiane Simião P. Payão e, ao longo desses mais de 20 anos, a empresa coleciona resultados sólidos e...",
-    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2022/12/case-260x117.jpg",
-    "url": "https://blog.rdstation.com/como-a-agencia-mestre-ajudou-a-prev-facil-a-gerar-8-828-mais-leads-em-um-ano/",
-    "date": "2022-12-14",
-    "owner": "Blog RD Station"
-  },
-  {
-    "title": "Como a Vivalá – Turismo Sustentável no Brasil – gerou 651% mais vendas em um ano",
-    "description": "A Vivalá atua no setor de turismo sustentável no Brasil, operando com expedições de Turismo de Base Comunitária (- TBC), Volunturismo e TBC de Aventura em Unidades de Conservação brasileiras e junto a comunidades tradicionais indígenas,...",
-    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2022/12/casee-248x165.jpg",
-    "url": "https://blog.rdstation.com/como-a-vivala-turismo-sustentavel-no-brasil-gerou-651-mais-vendas-em-um-ano/",
-    "date": "2022-12-14",
-    "owner": "Blog RD Station"
-  },
-  {
-    "title": "RD Station CRM: retrospectiva 2022",
-    "description": "Para relembrar tudo o que aconteceu, vem ver o vídeo que preparamos para você!",
-    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2022/12/Header-800px-x-400px-260x130.png",
-    "url": "https://blog.rdstation.com/rd-station-crm-retrospectiva-2022/",
-    "date": "2022-12-14",
-    "owner": "Blog RD Station"
-  },
-  {
-    "title": "Novidades RD Station Marketing – Novembro 2022",
-    "description": "Confira as evoluções de produto em clima de Copa do Mundo🏆. A seleção de novidades por aqui que batem um bolão são: Teste A/B na Automação, Lista Inteligente de Leads, melhorias na tela de Meta Lead Ads e ainda novas integrações. E não...",
-    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2022/11/Novidades-RD-Station-Novembro-2026-SEM-TEXTO-1-260x130.png",
-    "url": "https://blog.rdstation.com/novidades-rd-station-marketing-novembro-2022/",
-    "date": "2022-11-22",
-    "owner": "Blog RD Station"
-  },
-  {
-    "title": "Marketing para Black Friday: dicas de campanhas, automações e disparos",
-    "description": "A sexta-feira mais aguardada do ano está chegando! Neste post você confere 9 dicas de Marketing Digital para fazer suas campanhas de Black Friday",
-    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2021/10/GettyImages-1295109677-247x165.jpg",
-    "url": "https://blog.rdstation.com/marketing-para-black-friday/",
-    "date": "2022-11-4",
-    "owner": "Blog RD Station"
-  },
-  {
-    "title": "4 sacadas de marketing compartilhadas por especialistas em 2022",
-    "description": "Não dá para negar: marketing digital é um campo em constante evolução, e que exige inovação e adaptação por par(...)",
-    "thumbnail": "https://rockcontent.com/br/wp-content/uploads/sites/2/2023/02/best-time-for-webinars.png",
-    "url": "https://rockcontent.com/br/blog/retrospectiva-jam-session/",
-    "date": "2023-02-17",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "TikTok toma medidas para reverter a queda de usuários, entre outras pressões",
-    "description": "Até o início de 2023, o TikTok tinha uma fama e tanto: o aplicativo que mais crescia. Desde o seu início na China em (...)",
-    "thumbnail": "https://rockcontent.com/br/wp-content/uploads/sites/2/2023/02/tiktok-ban-us.png",
-    "url": "https://rockcontent.com/br/blog/tiktok-reverter-queda-de-usuarios/",
-    "date": "2023-02-17",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Como o iFood saiu de 0 para quase 1 milhão de acessos em menos de um ano",
-    "description": "Depois da parceria com a Rock Content, o iFood alcançou um tráfego de 900 mil acessos, consolidando sua audiência onl(...)",
-    "thumbnail": "https://rockcontent.com/br/wp-content/uploads/sites/2/2023/02/Case-Ifood_Blogpost.png",
-    "url": "https://rockcontent.com/br/blog/case-de-sucesso-ifood/",
-    "date": "2023-02-17",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Os melhores anúncios do Super Bowl 2023: temas e insights dos comerciais deste ano",
-    "description": "O Super Bowl 2023 entregou uma audiência excepcional e um jogo emocionante. No entanto, como de costume alguns espectad(...)",
-    "thumbnail": "https://rockcontent.com/br/wp-content/uploads/sites/2/2023/02/The-best-2023-Super-Bowl-commercials-ranked.png",
-    "url": "https://rockcontent.com/br/blog/melhores-anuncios-super-bowl/",
-    "date": "2023-02-16",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Estudo mostra que o controle sobre dados supera a fidelidade à marca para os consumidores de hoje",
-    "description": "De acordo com um estudo realizado pela Ipsos e pelo Google, o desejo do consumidor médio de manter o controle de seus d(...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/consumidores-controle-sobre-dados/",
-    "date": "2023-02-15",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Microsoft x Google: Inteligência Artificial promove disputa entre gigantes e preocupa profissionais de SEO",
-    "description": "Se você acessou as redes sociais nos últimos dias, provavelmente já está por dentro das notícias sobre ferramentas (...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/microsoft-google-batalha-ia/",
-    "date": "2023-02-14",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Google Maps lança novos recursos para aumentar a interatividade e a imersão",
-    "description": "Olha só o que o Google está aprontando dessa vez! A empresa vai elevar o nível de interatividade do Google Maps atrav(...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/google-maps-interatividade/",
-    "date": "2023-02-13",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Google anuncia seu chatbot Bard. Qual será o impacto em SEO e no marketing digital?",
-    "description": "O ChatGPT tem sido uma sensação inegável, então não é surpresa alguma que as gigantes da tecnologia estejam um pou(...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/google-anuncia-chatbot-bard/",
-    "date": "2023-02-09",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Co-fundadores do Instagram anunciam Artifact, um agregador de notícias orientado por IA",
-    "description": "Mais de quatro anos após deixarem o Instagram, os co-fundadores, Kevin Systrom e Mike Krieger, voltam ao mercado para a(...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/artifact-agregador-de-noticias/",
-    "date": "2023-02-09",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Quais tendências de publicidade o Super Bowl trará este ano?",
-    "description": "Todos os anos, dezenas de milhões de telespectadores em todo o país e em todo o mundo aguardam o Super Bowl. O Super B(...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/tendencias-publicidade-super-bowl/",
-    "date": "2023-02-08",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Vazamento de fatores de ranqueamento do Yandex: o que importa para profissionais de SEO?",
-    "description": "Recentemente, o Yandex, mecanismo de busca russo construído como um “clone” do Google por seus ex-funcioná(...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/vazamento-dados-yandex/",
-    "date": "2023-02-07",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Twitter está estudando recursos de pagamento e indo além da criação de conteúdo",
-    "description": "Depois de um 2022 muito conturbado e polêmico para o Twitter, já temos os primeiros sinais que nos mostram que talvez (...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/twitter-recursos-de-pagamento/",
-    "date": "2023-02-06",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Instagram admite que focou demais em vídeos e vai dar mais destaque para fotos em 2023",
-    "description": "O Instagram está mudando seu foco de volta para as fotos em 2023, depois de admitir que \"focou demais em vídeos\" em 20(...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/instagram-voltara-a-focar-em-fotos-em-2023/",
-    "date": "2023-02-03",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Google Optimize será descontinuado: conheça alternativas para testes A/B",
-    "description": "O Google Optimize será oficialmente descontinuado em setembro de 2023, deixando os profissionais de marketing sem uma d(...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/google-optimize-descontinuado/",
-    "date": "2023-02-02",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Google planeja lançar recursos de chatbot para seu mecanismo de busca este ano",
-    "description": "Estamos todos acostumados com o Google nos dizendo como ranquear bem, como produzir bons conteúdos para pessoas e lhes (...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/google-chatbot-mecanismo-de-busca/",
-    "date": "2023-02-01",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Não só algoritmo: Instagram lança série de novos recursos que dão autonomia aos usuários",
-    "description": "Conheça o Quiet Mode e as novas opções de recomendações do app(...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/instagram-recursos-autonomia-usuarios/",
-    "date": "2023-02-01",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Conheça o botão “aquecer” do TikTok e o motivo de tanto burburinho ultimamente",
-    "description": "O botão \"aquecer\" do TikTok, que permite aos funcionários da empresa selecionar manualmente quais vídeos irão virali(...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/botao-de-aquecer-do-tiktok/",
-    "date": "2023-01-27",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "O paradoxo da IA: o impacto do ChatGPT no marketing de conteúdo",
-    "description": "O ChatGPT representa oportunidades e riscos a serem considerados pelos profissionais de marketing. Vamos refletir sobre (...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/paradoxo-da-ia/",
-    "date": "2023-01-26",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Amazon suspende programas voltados para ONGs: na crise, empresas analisam como alinhar impacto social aos negócios",
-    "description": "O programa AmazonSmile será encerrado em breve. Isso é um sinal de que a Amazon está se afastando de seu compromisso (...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/amazonsmile-encerra-programa/",
-    "date": "2023-01-25",
-    "owner": "Rock Content - BR"
-  },
-  {
-    "title": "Getty x Shutterstock: duas posturas sobre IA e o impacto futuro dessa tecnologia",
-    "description": "O que as diferentes posturas da Getty Images e da Shutterstock em relação à IA nos dizem sobre o impacto futuro dessa(...)",
-    "thumbnail": null,
-    "url": "https://rockcontent.com/br/blog/getty-images-shutterstock-ia/",
-    "date": "2023-01-24",
-    "owner": "Rock Content - BR"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220216_72ppi_03_7LessonsForOptimizingApacheFlinkApplications_8648a0cf-025d-4da2-bc29-424913527a6b.jpg?v=1670333665&width=600",
+    "url": "https://shopify.engineering/topics/data-science-engineering",
+    "date": "2022-12-13T14:00:00Z",
+    "owner": "Shopify"
   }
 ]
