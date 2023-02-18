@@ -36,7 +36,8 @@ function getPostsInfo(html) {
       'blogrdstation': '.post-list li',
       'rockcontentbr': '.rock-grid .rock-grid__item',
       'shopify': '.article--index',
-      'smashingmagazine': '.article--post'
+      'smashingmagazine': '.article--post',
+      'tabnews': 'article[class*="Box"]'
     };
 
     return map[getSitename(html)];
@@ -50,6 +51,9 @@ function getPostsInfo(html) {
     if (title) return title;
 
     title = postElement.querySelector('h3')?.innerText;
+    if (title) return title;
+
+    title = postElement.querySelector('a')?.innerText;
     if (title) return title;
 
     return null;
@@ -184,8 +188,8 @@ function getPostsInfo(html) {
     // 'https://blog.rdstation.com/',
     // 'https://rockcontent.com/br/blog/recentes/',
     // 'https://shopify.engineering/',
-    'https://www.smashingmagazine.com/articles/',
-    // 'https://www.tabnews.com.br/',
+    // 'https://www.smashingmagazine.com/articles/',
+    'https://www.tabnews.com.br/',
     // 'https://wsvincent.com/',
     // 'https://www.devmedia.com.br/artigos/',
     // 'https://emersonbroga.com/',

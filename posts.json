@@ -1,82 +1,162 @@
 [
   {
-    "title": "A Step-By-Step Guide To Building Accessible Carousels",
-    "description": "february 17, 2023 — Most carousels come along with usability and accessibility issues. To avoid these issues, this article addresses step-by-step design considerations as well as semantic requirements for carousels to be accessible. It is intended to create an in-depth understanding of the implementation and its impact on users.\nRead more…",
-    "thumbnail": "https://files.smashing.media/authors/sonja-weckenmann-200x200.jpg",
-    "url": "https://www.smashingmagazine.com/author/sonja-weckenmann",
-    "date": "2023-02-17",
-    "owner": "Smashing Magazine"
+    "title": "14 hábitos de programadores altamente produtivos",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/viniciussantos45/14-habitos-de-programadores-altamente-produtivos",
+    "date": null,
+    "owner": "TabNews"
   },
   {
-    "title": "Putting Gears In Motion: Animating Cars With HTML And SVG",
-    "description": "february 16, 2023 — SVG <animateMotion> provides a way to define how an element moves along a motion path. In this article, Paul Scanlon shares an idea of how to use it by animating race cars in an infinite loop as easy as one-two-three!\nRead more…",
-    "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ff36851-cb7a-4e58-abbb-bb1cd6eabc63/paul-scanlon-200x200.jpg",
-    "url": "https://www.smashingmagazine.com/author/paul-scanlon",
-    "date": "2023-02-16",
-    "owner": "Smashing Magazine"
+    "title": "Você Sabe o que é Domain Events?",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/rodrigorael/voce-sabe-o-que-e-domain-events",
+    "date": null,
+    "owner": "TabNews"
   },
   {
-    "title": "Five Steps To Design Your Product With Powerful Storytelling",
-    "description": "february 15, 2023 — How to apply powerful storytelling to design a compelling and memorable digital experience on a landing page. A case study of the Smart Interface Design Patterns landing page.\nRead more…",
-    "thumbnail": "https://files.smashing.media/authors/chiara-aliotta-200x200.jpg",
-    "url": "https://www.smashingmagazine.com/author/chiara-aliotta",
-    "date": "2023-02-15",
-    "owner": "Smashing Magazine"
+    "title": "Uma nova profissão aos 36 anos, é possível?",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/ViniciusCunha/uma-nova-profissao-aos-36-anos-e-possivel",
+    "date": null,
+    "owner": "TabNews"
   },
   {
-    "title": "Discovering Primitive Objects In JavaScript (Part 1)",
-    "description": "february 10, 2023 — In the first part of the series, Kirill Myshkin covers some aspects of JavaScript that help bring objects closer to primitive values, which allow benefiting from common language features that aren’t usually associated with an object, like comparisons and arithmetic operators.\nRead more…",
-    "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67044dfa-ee60-444d-a9ea-f510a703033e/kirill-200x200.jpg",
-    "url": "https://www.smashingmagazine.com/author/kirill-myshkin",
-    "date": "2023-02-10",
-    "owner": "Smashing Magazine"
+    "title": "Você faz algum hobby fora da tecnologia e/ou do seu trabalho?",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/uriel/voce-faz-algum-hobby-fora-da-tecnologia-e-ou-do-seu-trabalho",
+    "date": null,
+    "owner": "TabNews"
   },
   {
-    "title": "Picture Perfect: Meet Pixo, A Photo Editor For Your End Users",
-    "description": "february 9, 2023 — With so many image editing services available nowadays, it’s good to have one good solution that is applicable for all websites and web apps that need to provide image editing as a feature. Hristo Chakarov explains how Pixo Editor’s easy integration (just a few JavaScript lines) and rich API can save your time and improve your end users’ workflow.\nRead more…",
-    "thumbnail": "https://files.smashing.media/articles/photo-image-editor-pixo-wordpress/hristo-chakarov-200x200.jpeg",
-    "url": "https://www.smashingmagazine.com/author/hristo-chakarov",
-    "date": "2023-02-09",
-    "owner": "Smashing Magazine"
+    "title": "Hospedagem para postgresql",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/Aatrox/hospedagem-para-postgresql",
+    "date": null,
+    "owner": "TabNews"
   },
   {
-    "title": "How Designers Should Ask For (And Receive) High-Quality Feedback",
-    "description": "february 8, 2023 — In this article, Andy Budd shares his way of requesting feedback: rather than sharing a linear case study that explains every design revision, the first thing to do would be to better frame the problem.\nRead more…",
-    "thumbnail": "https://files.smashing.media/authors/andy-budd.jpg",
-    "url": "https://www.smashingmagazine.com/author/andybudd",
-    "date": "2023-02-08",
-    "owner": "Smashing Magazine"
+    "title": "2023, ano do conhecimento",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/flaviojmendes/2023-ano-do-conhecimento",
+    "date": null,
+    "owner": "TabNews"
   },
   {
-    "title": "Smashing Podcast Episode 56 With Veerle Pieters: How Has The Design Industry Changed?",
-    "description": "february 7, 2023 — In this episode of the Smashing Podcast we ask how has the design industry changed? Is technology making our work easier? Vitaly Friedman talks to veteran designer Veerle Pieters to find out.\nRead more…",
-    "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36527166-76ee-41ea-be75-e09fc1070f07/drew-mclellan-200x200.jpg",
-    "url": "https://www.smashingmagazine.com/author/drew-mclellan",
-    "date": "2023-02-07",
-    "owner": "Smashing Magazine"
+    "title": "Linguagens Formais e Autômatos",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/Hanufu/linguagens-formais-e-automatos",
+    "date": null,
+    "owner": "TabNews"
   },
   {
-    "title": "How To Build A Magazine Layout With CSS Grid Areas",
-    "description": "february 6, 2023 — Web development, especially what you can do with CSS, has become increasingly complex. With the added capabilities of CSS Grid, it is now possible to achieve layouts that look like they were laid out by hand. Let’s tackle a practical example of how to do something like that.\nRead more…",
-    "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35020222-833a-4028-968b-373fa5097816/jennifer-brehm2.jpg",
-    "url": "https://www.smashingmagazine.com/author/jennifer-brehm",
-    "date": "2023-02-06",
-    "owner": "Smashing Magazine"
+    "title": "Curiosidade: OpenAI comprou o domínio \"ai.com\" por US$ 11 milhões (R$ 56 milhões)",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/filipedeschamps/curiosidade-openai-comprou-o-dominio-ai-com-por-us-11-milhoes-r-56-milhoes",
+    "date": null,
+    "owner": "TabNews"
   },
   {
-    "title": "UX Podcasts For Designers",
-    "description": "february 2, 2023 — Podcasts are a fantastic opportunity to get up close with the people who know their craft. In this post, we compiled podcasts that are bound to provide valuable insights into UX and new perspectives on the field. Perfect for a short coffee break or a long commute.\nRead more…",
-    "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27cf2125-1ccc-4a49-9fbd-62b297a721c3/cosima-mielke-200px.png",
-    "url": "https://www.smashingmagazine.com/author/cosima-mielke",
-    "date": "2023-02-02",
-    "owner": "Smashing Magazine"
+    "title": "Quais os beneficios de um trabalho remoto na gringa?",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/Guga/quais-os-beneficios-de-um-trabalho-remoto-na-gringa",
+    "date": null,
+    "owner": "TabNews"
   },
   {
-    "title": "How To Host A WordPress Site On Amazon Lightsail",
-    "description": "february 2, 2023 — Lightsail provides all the power we need to host our websites, as we are used to from AWS, but making it way easier than ever before. In this article, Leonardo Losoviz explores how to launch a WordPress site in Lightsail in a quick and easy way.\nRead more…",
-    "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3f7cfd44-56a1-44a0-bd84-47ad9a11cb4e/leonardo-losoviz-portrait.jpg",
-    "url": "https://www.smashingmagazine.com/author/leonardolosoviz",
-    "date": "2023-02-02",
-    "owner": "Smashing Magazine"
+    "title": "[Projeto] Nova feature na brapi.dev: Agora é possível acessar dados de dividendos para as ações!",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/alissonsleal/projeto-nova-feature-na-brapi-dev-agora-e-possivel-acessar-dados-de-dividendos-para-as-acoes",
+    "date": null,
+    "owner": "TabNews"
+  },
+  {
+    "title": "Jogue CS 1.6 no Bowser.",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/CarlosZiegler/jogue-cs-1-6-no-bowser",
+    "date": null,
+    "owner": "TabNews"
+  },
+  {
+    "title": "Pitch: Analisador de partidas de xadrez",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/RyanPhpJs/analizador-de-partidas-de-xadrez",
+    "date": null,
+    "owner": "TabNews"
+  },
+  {
+    "title": "[Criando um Aplicativo] Por que escolhi Rust para ser o Backend da minha aplicação?",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/Thiago1Augusto1Zeferino/criando-um-aplicativo-por-que-escolhi-rust-para-ser-o-backend-da-minha-aplicacao",
+    "date": null,
+    "owner": "TabNews"
+  },
+  {
+    "title": "É muito gênio: John Carmack contrata serviço, descobre erro e resolve problema para empresa",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/gugadeschamps/e-muito-genio-john-carmack-contrata-servico-descobre-erro-e-resolve-problema-para-empresa",
+    "date": null,
+    "owner": "TabNews"
+  },
+  {
+    "title": "Clean Code",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/johnatandias/clean-code",
+    "date": null,
+    "owner": "TabNews"
+  },
+  {
+    "title": "Trabalho remoto: vagas e processo seletivo",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/felipeelia/trabalho-remoto-vagas-e-processo-seletivo",
+    "date": null,
+    "owner": "TabNews"
+  },
+  {
+    "title": "Por que ninguém vai roubar sua ideia!",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/uriel/por-que-ninguem-vai-roubar-sua-ideia",
+    "date": null,
+    "owner": "TabNews"
+  },
+  {
+    "title": "Nova melhoria: Limite de qualificações positivas e negativas em uma publicação 🎉",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/filipedeschamps/nova-melhoria-limite-de-qualificacoes-positivas-e-negativas-em-uma-publicacao",
+    "date": null,
+    "owner": "TabNews"
+  },
+  {
+    "title": "Superestimamos nossa capacidade de curto prazo, mas subestimamos nossa capacidade de longo prazo",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/filipedeschamps/superestimamos-nossa-capacidade-de-curto-prazo-mas-subestimamos-nossa-capacidade-de-longo-prazo",
+    "date": null,
+    "owner": "TabNews"
+  },
+  {
+    "title": "[Dúvida] Tenho que saber frontend pra programar backend?",
+    "description": null,
+    "thumbnail": null,
+    "url": "https://www.tabnews.com.br/rpessoa98/duvida-tenho-que-saber-frontend-pra-programar-backend",
+    "date": null,
+    "owner": "TabNews"
   }
 ]
