@@ -1,162 +1,82 @@
 [
   {
-    "title": "The 25 Percent Rule for Tackling Technical Debt",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210719_72ppi_01_ShopifyMadePatternsInOurRailsApps_384c848b-4fcd-4363-a8e4-5f84d5f05999.jpg?v=1676501389&width=1024",
-    "url": "https://shopify.engineering/topics/development",
-    "date": "2023-02-16T17:00:01Z",
-    "owner": "Shopify"
+    "title": "A Step-By-Step Guide To Building Accessible Carousels",
+    "description": "february 17, 2023 — Most carousels come along with usability and accessibility issues. To avoid these issues, this article addresses step-by-step design considerations as well as semantic requirements for carousels to be accessible. It is intended to create an in-depth understanding of the implementation and its impact on users.\nRead more…",
+    "thumbnail": "https://files.smashing.media/authors/sonja-weckenmann-200x200.jpg",
+    "url": "https://www.smashingmagazine.com/author/sonja-weckenmann",
+    "date": "2023-02-17",
+    "owner": "Smashing Magazine"
   },
   {
-    "title": "ShopifyQL Notebooks: Simplifying Querying with Commerce Data Models",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210719_216ppi_05_FiveStepsforBuildingMachineLearning_2.jpg?v=1676298056&width=600",
-    "url": "https://shopify.engineering/topics/data-science-engineering",
-    "date": "2023-02-14T16:00:04Z",
-    "owner": "Shopify"
+    "title": "Putting Gears In Motion: Animating Cars With HTML And SVG",
+    "description": "february 16, 2023 — SVG <animateMotion> provides a way to define how an element moves along a motion path. In this article, Paul Scanlon shares an idea of how to use it by animating race cars in an infinite loop as easy as one-two-three!\nRead more…",
+    "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ff36851-cb7a-4e58-abbb-bb1cd6eabc63/paul-scanlon-200x200.jpg",
+    "url": "https://www.smashingmagazine.com/author/paul-scanlon",
+    "date": "2023-02-16",
+    "owner": "Smashing Magazine"
   },
   {
-    "title": "Bringing Javascript to WebAssembly for Shopify Functions",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220111_216ppi_01_AllanLeinwand2022BlogPost-Header.jpg?v=1675267141&width=600",
-    "url": "https://shopify.engineering/topics/development",
-    "date": "2023-02-09T14:00:02Z",
-    "owner": "Shopify"
+    "title": "Five Steps To Design Your Product With Powerful Storytelling",
+    "description": "february 15, 2023 — How to apply powerful storytelling to design a compelling and memorable digital experience on a landing page. A case study of the Smart Interface Design Patterns landing page.\nRead more…",
+    "thumbnail": "https://files.smashing.media/authors/chiara-aliotta-200x200.jpg",
+    "url": "https://www.smashingmagazine.com/author/chiara-aliotta",
+    "date": "2023-02-15",
+    "owner": "Smashing Magazine"
   },
   {
-    "title": "The Complex Data Models Behind Shopify's Tax Insights Feature",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_ComplexDataModelsShopifyTax.jpg?v=1675449874&width=600",
-    "url": "https://shopify.engineering/topics/data-science-engineering",
-    "date": "2023-02-08T15:00:04Z",
-    "owner": "Shopify"
+    "title": "Discovering Primitive Objects In JavaScript (Part 1)",
+    "description": "february 10, 2023 — In the first part of the series, Kirill Myshkin covers some aspects of JavaScript that help bring objects closer to primitive values, which allow benefiting from common language features that aren’t usually associated with an object, like comparisons and arithmetic operators.\nRead more…",
+    "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67044dfa-ee60-444d-a9ea-f510a703033e/kirill-200x200.jpg",
+    "url": "https://www.smashingmagazine.com/author/kirill-myshkin",
+    "date": "2023-02-10",
+    "owner": "Smashing Magazine"
   },
   {
-    "title": "The Hardest Part of Writing Tests is Getting Started",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220111_72ppi_04A_HowToGetAnEngineeringInternshipAtShopify-Header_fd495599-7dd0-4edc-8fed-c36ec4ea1a08.jpg?v=1675270849&width=600",
-    "url": "https://shopify.engineering/topics/development",
-    "date": "2023-02-02T15:30:00Z",
-    "owner": "Shopify"
+    "title": "Picture Perfect: Meet Pixo, A Photo Editor For Your End Users",
+    "description": "february 9, 2023 — With so many image editing services available nowadays, it’s good to have one good solution that is applicable for all websites and web apps that need to provide image editing as a feature. Hristo Chakarov explains how Pixo Editor’s easy integration (just a few JavaScript lines) and rich API can save your time and improve your end users’ workflow.\nRead more…",
+    "thumbnail": "https://files.smashing.media/articles/photo-image-editor-pixo-wordpress/hristo-chakarov-200x200.jpeg",
+    "url": "https://www.smashingmagazine.com/author/hristo-chakarov",
+    "date": "2023-02-09",
+    "owner": "Smashing Magazine"
   },
   {
-    "title": "Performance Testing At Scale—for BFCM and Beyond",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210719_72ppi_05_FlashIsAShapeNotASize.jpg?v=1674838084&width=600",
-    "url": "https://shopify.engineering/topics/infrastructure",
-    "date": "2023-01-27T16:32:54Z",
-    "owner": "Shopify"
+    "title": "How Designers Should Ask For (And Receive) High-Quality Feedback",
+    "description": "february 8, 2023 — In this article, Andy Budd shares his way of requesting feedback: rather than sharing a linear case study that explains every design revision, the first thing to do would be to better frame the problem.\nRead more…",
+    "thumbnail": "https://files.smashing.media/authors/andy-budd.jpg",
+    "url": "https://www.smashingmagazine.com/author/andybudd",
+    "date": "2023-02-08",
+    "owner": "Smashing Magazine"
   },
   {
-    "title": "From Farmer to Security Engineer: How Dev Degree Helped Me Find My Dream Job",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_211209_216ppi_01_FiveTipsForGrowingYourEngineeringCareer_77266935-2599-41dd-963a-7d55bbd5baac.jpg?v=1674496626&width=600",
-    "url": "https://shopify.engineering/topics/culture",
-    "date": "2023-01-26T16:00:02Z",
-    "owner": "Shopify"
+    "title": "Smashing Podcast Episode 56 With Veerle Pieters: How Has The Design Industry Changed?",
+    "description": "february 7, 2023 — In this episode of the Smashing Podcast we ask how has the design industry changed? Is technology making our work easier? Vitaly Friedman talks to veteran designer Veerle Pieters to find out.\nRead more…",
+    "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36527166-76ee-41ea-be75-e09fc1070f07/drew-mclellan-200x200.jpg",
+    "url": "https://www.smashingmagazine.com/author/drew-mclellan",
+    "date": "2023-02-07",
+    "owner": "Smashing Magazine"
   },
   {
-    "title": "Making Your React Native Gestures Feel Natural",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_211008_72ppi_06_BuildinganAppClipwithReactNative_e8df8a83-482c-4e0d-a2a0-660737ababcb.jpg?v=1674227288&width=600",
-    "url": "https://shopify.engineering/topics/development",
-    "date": "2023-01-20T18:37:05Z",
-    "owner": "Shopify"
+    "title": "How To Build A Magazine Layout With CSS Grid Areas",
+    "description": "february 6, 2023 — Web development, especially what you can do with CSS, has become increasingly complex. With the added capabilities of CSS Grid, it is now possible to achieve layouts that look like they were laid out by hand. Let’s tackle a practical example of how to do something like that.\nRead more…",
+    "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35020222-833a-4028-968b-373fa5097816/jennifer-brehm2.jpg",
+    "url": "https://www.smashingmagazine.com/author/jennifer-brehm",
+    "date": "2023-02-06",
+    "owner": "Smashing Magazine"
   },
   {
-    "title": "Ruby 3.2’s YJIT is Production-Ready",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_211008_216ppi_02_TryOutYJITforFasterRubying.jpg?v=1673882706&width=600",
-    "url": "https://shopify.engineering/topics/development",
-    "date": "2023-01-17T13:30:02Z",
-    "owner": "Shopify"
+    "title": "UX Podcasts For Designers",
+    "description": "february 2, 2023 — Podcasts are a fantastic opportunity to get up close with the people who know their craft. In this post, we compiled podcasts that are bound to provide valuable insights into UX and new perspectives on the field. Perfect for a short coffee break or a long commute.\nRead more…",
+    "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27cf2125-1ccc-4a49-9fbd-62b297a721c3/cosima-mielke-200px.png",
+    "url": "https://www.smashingmagazine.com/author/cosima-mielke",
+    "date": "2023-02-02",
+    "owner": "Smashing Magazine"
   },
   {
-    "title": "How Good Documentation Can Improve Productivity",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_good_documentation_practices.jpg?v=1673458649&width=600",
-    "url": "https://shopify.engineering/topics/culture",
-    "date": "2023-01-12T15:00:04Z",
-    "owner": "Shopify"
-  },
-  {
-    "title": "From Ruby to Node: Overhauling Shopify’s CLI for a Better Developer Experience",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210719_216ppi_01_ShopifyMadePatternsInOurRailsApps_2.jpg?v=1673031411&width=600",
-    "url": "https://shopify.engineering/topics/developer-tooling",
-    "date": "2023-01-10T13:00:01Z",
-    "owner": "Shopify"
-  },
-  {
-    "title": "Reliving Your Happiest HTTP Interactions with Ruby’s VCR Gem",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220411_216ppi_02_RubyExecutionModels_8c134200-ca87-4174-8f8d-0976492f1a3d.jpg?v=1671729711&width=600",
-    "url": "https://shopify.engineering/topics/development",
-    "date": "2023-01-05T14:00:00Z",
-    "owner": "Shopify"
-  },
-  {
-    "title": "Monte Carlo Simulations: Separating Signal from Noise in Sampled Success Metrics",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_221107_72ppi_05_MonteCarlo.jpg?v=1670585039&width=600",
-    "url": "https://shopify.engineering/topics/data-science-engineering",
-    "date": "2023-01-03T12:20:27Z",
-    "owner": "Shopify"
-  },
-  {
-    "title": "React Native Skia: A Year in Review and a Look Ahead",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220411_72ppi_03_SkiaAnnouncement_a40cc9c0-96cd-4e0e-8f56-6dd46a6f9dec.jpg?v=1671558311&width=600",
-    "url": "https://shopify.engineering/topics/mobile",
-    "date": "2022-12-29T15:30:00Z",
-    "owner": "Shopify"
-  },
-  {
-    "title": "Migrating our Largest Mobile App to React Native",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210525_216ppi_02_ReactNativeistheFutureofMobileatShopify.jpg?v=1671552000&width=600",
-    "url": "https://shopify.engineering/topics/mobile",
-    "date": "2022-12-27T14:00:00Z",
-    "owner": "Shopify"
-  },
-  {
-    "title": "Optimizing Ruby’s Memory Layout: Variable Width Allocation",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210525_72ppi_03_HowtoBuildaWebAppwithandwithoutRailsLibraries_efa4ec9f-e707-4ba1-94e8-402e5c4f9abb.jpg?v=1671558078&width=600",
-    "url": "https://shopify.engineering/topics/development",
-    "date": "2022-12-25T05:01:01Z",
-    "owner": "Shopify"
-  },
-  {
-    "title": "Year in Review 2022: Tenderlove's Ruby and Rails Reflections and Predictions",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_211008_216ppi_01_YJIT-BuildingaNewJITCompilerforCRuby_2.jpg?v=1671484892&width=600",
-    "url": "https://shopify.engineering/topics/development",
-    "date": "2022-12-22T15:00:02Z",
-    "owner": "Shopify"
-  },
-  {
-    "title": "Automatically Rotating GitHub Tokens (So You Don’t Have To)",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220901_216ppi_06_HowToWriteCodeWithoutHavingToReadIt.jpg?v=1670857627&width=600",
-    "url": "https://shopify.engineering/topics/developer-tooling",
-    "date": "2022-12-20T15:00:01Z",
-    "owner": "Shopify"
-  },
-  {
-    "title": "Shopify Embraces Rust for Systems Programming",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_shopify_embraces_rust_systems-programming.jpg?v=1670972465&width=600",
-    "url": "https://shopify.engineering/topics/development",
-    "date": "2022-12-14T18:07:28Z",
-    "owner": "Shopify"
-  },
-  {
-    "title": "3 (More) Tips for Optimizing Apache Flink Applications",
-    "description": null,
-    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220216_72ppi_03_7LessonsForOptimizingApacheFlinkApplications_8648a0cf-025d-4da2-bc29-424913527a6b.jpg?v=1670333665&width=600",
-    "url": "https://shopify.engineering/topics/data-science-engineering",
-    "date": "2022-12-13T14:00:00Z",
-    "owner": "Shopify"
+    "title": "How To Host A WordPress Site On Amazon Lightsail",
+    "description": "february 2, 2023 — Lightsail provides all the power we need to host our websites, as we are used to from AWS, but making it way easier than ever before. In this article, Leonardo Losoviz explores how to launch a WordPress site in Lightsail in a quick and easy way.\nRead more…",
+    "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3f7cfd44-56a1-44a0-bd84-47ad9a11cb4e/leonardo-losoviz-portrait.jpg",
+    "url": "https://www.smashingmagazine.com/author/leonardolosoviz",
+    "date": "2023-02-02",
+    "owner": "Smashing Magazine"
   }
 ]

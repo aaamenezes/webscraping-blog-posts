@@ -35,7 +35,8 @@ function getPostsInfo(html) {
       'lucassantos': '.post-card',
       'blogrdstation': '.post-list li',
       'rockcontentbr': '.rock-grid .rock-grid__item',
-      'shopify': '.article--index'
+      'shopify': '.article--index',
+      'smashingmagazine': '.article--post'
     };
 
     return map[getSitename(html)];
@@ -67,6 +68,9 @@ function getPostsInfo(html) {
     description = postElement.querySelector('[class*="excerpt"]')?.innerText;
     if (description) return description;
 
+    description = postElement.querySelector('.article--post__teaser')?.innerText;
+    if (description) return description;
+
     return null;
   }
 
@@ -90,6 +94,9 @@ function getPostsInfo(html) {
     if (thumbnail) return thumbnail;
 
     thumbnail = postElement.querySelector('img')?.dataset.srcset;
+    if (thumbnail) return thumbnail;
+
+    thumbnail = postElement.querySelector('img')?.src;
     if (thumbnail) return thumbnail;
 
     let url = postElement.querySelector('a')?.href;
@@ -176,8 +183,8 @@ function getPostsInfo(html) {
     // 'https://blog.lsantos.dev/',
     // 'https://blog.rdstation.com/',
     // 'https://rockcontent.com/br/blog/recentes/',
-    'https://shopify.engineering/',
-    // 'https://www.smashingmagazine.com/articles/',
+    // 'https://shopify.engineering/',
+    'https://www.smashingmagazine.com/articles/',
     // 'https://www.tabnews.com.br/',
     // 'https://wsvincent.com/',
     // 'https://www.devmedia.com.br/artigos/',
