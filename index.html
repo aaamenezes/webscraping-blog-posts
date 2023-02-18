@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html {
+      font-family: sans-serif;
+    }
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    ul {
+      list-style: none;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .post-item:not(:last-child) {
+      margin-bottom: 2rem;
+    }
+
+    .post-link {
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+      gap: 0.5rem;
+      padding: 1rem;
+      color: currentColor;
+      transition: .1s;
+    }
+
+    .post-link:hover {
+      color: darkorange;
+    }
+
+    .posts-list,
+    .pagination-list {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .post-title {
+      margin-bottom: 1rem;
+    }
+
+    .post-description {
+      margin-bottom: 1rem;
+    }
+
+    .post-date {
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+
+    .pagination-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, 50px);
+      gap: 1rem;
+      padding: 1rem;
+    }
+
+    .pagination-button {
+      width: 47px;
+      height: 47px;
+      padding: 1rem;
+      border: none;
+      cursor: pointer;
+      transition: .1s;
+    }
+
+    .pagination-button:hover,
+    .pagination-button.active {
+      color: white;
+      background-color: darkorange;
+    }
+  </style>
+</head>
+<body>
+  <ul class="posts-list"></ul>
+  <ul class="pagination-list"></ul>
+
+  <template class="post-template">
+    <li class="post-item">
+      <a href="" class="post-link" target="_blank">
+        <div class="post-image">
+          <img src="" alt="" loading="lazy" />
+        </div>
+        <div class="post-infos">
+          <h2 class="post-title"></h2>
+          <p class="post-description"></p>
+          <time class="post-date" datetime=""></time>
+          <p><small class="post-owner"></small></p>
+        </div>
+      </a>
+    </li>
+  </template>
+
+  <template class="pagination-template">
+    <li class="pagination-item">
+      <button class="pagination-button" data-page></button>
+    </li>
+  </template>
+  <script type="module" src="index.js"></script>
+</body>
+</html>
