@@ -23,6 +23,13 @@ function getPostsInfo(html) {
     siteName = html.querySelector('meta[name="twitter:creator"]')?.getAttribute('content')?.replace('@', '');
     if (siteName) return siteName;
 
+    siteName = html.querySelector('link[rel="canonical"]')?.href
+      .split('.com')[0]
+      .split('//')[1]
+      .replace('www.', '');
+
+    if (siteName) return siteName;
+
     return null;
   }
 
@@ -37,7 +44,8 @@ function getPostsInfo(html) {
       'rockcontentbr': '.rock-grid .rock-grid__item',
       'shopify': '.article--index',
       'smashingmagazine': '.article--post',
-      'tabnews': 'article[class*="Box"]'
+      'tabnews': 'article[class*="Box"]',
+      'wsvincent': '.post-list li'
     };
 
     return map[getSitename(html)];
@@ -125,6 +133,9 @@ function getPostsInfo(html) {
     date = postElement.querySelector('time')?.innerText;
     if (date) return date;
 
+    date = postElement.querySelector('.post-meta')?.innerText;
+    if (date) return date;
+
     return null;
   }
 
@@ -133,6 +144,12 @@ function getPostsInfo(html) {
     if (owner) return owner;
 
     owner = html.querySelector('meta[name="twitter:creator"]')?.getAttribute('content')?.replace('@', '');
+    if (owner) return owner;
+
+    owner = html.querySelector('link[rel="canonical"]')?.href
+      .split('.com')[0]
+      .split('//')[1]
+      .replace('www.', '');
     if (owner) return owner;
 
     return null;
@@ -189,8 +206,8 @@ function getPostsInfo(html) {
     // 'https://rockcontent.com/br/blog/recentes/',
     // 'https://shopify.engineering/',
     // 'https://www.smashingmagazine.com/articles/',
-    'https://www.tabnews.com.br/',
-    // 'https://wsvincent.com/',
+    // 'https://www.tabnews.com.br/',
+    'https://wsvincent.com/',
     // 'https://www.devmedia.com.br/artigos/',
     // 'https://emersonbroga.com/',
     // 'https://www.felipefialho.com/blog/',
