@@ -1,162 +1,50 @@
 [
   {
-    "title": "Por trás das inovações no mercado financeiro na Nelogica",
-    "description": "No final de 2021, conheci uma fintech de Porto Alegre que eu nunca tinha ouvido falar e, sendo bem sincero, também não tinha ideia do que eles faziam. Depois de uma reunião com a Laila, descobri que a Nelogica já é um nome forte no mercado financeiro brasileiro há uns…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/o-que-ha-por-tras-das-inovacoes-para-o-mercado-financeiro-na-nelogica/",
-    "date": "27 Dec 2022",
-    "owner": "Gabs Ferreira"
+    "title": "Object Stereotypes",
+    "description": "The six object stereotypes act as building blocks - stereotypical elements - of any design.",
+    "thumbnail": "https://d33wubrfki0l68.cloudfront.net/73882be0bd66df7b874570e76cd6e75515c25544/d6964/img/blog/object-oriented/design/object-stereotypes/lego-3.png",
+    "url": "https://khalilstemmler.com/articles/object-oriented/design/object-stereotypes/",
+    "date": null,
+    "owner": "Khalil Stemmler"
   },
   {
-    "title": "Processando 1bi de mensagens com open source",
-    "description": "A Cobli é uma startup de tecnologia para logística que faz um trampo incrível. Basicamente, eles transformam dados coletados de frotas de veículos como geolocalização consumo de combustível pra transformar em insights e ajudar os clientes a tomarem decisões. E eles processam um volume absurdo de informações: só em um…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/processando-1bi-de-mensagens-com-open-source/",
-    "date": "20 Sep 2022",
-    "owner": "Gabs Ferreira"
+    "title": "98% of Developers Use React as a Framework, Not a Library",
+    "description": "React is a view layer library but most developers use it as a framework. Let's look into why that is and the implications of it.",
+    "thumbnail": "https://d33wubrfki0l68.cloudfront.net/9de01918394406187bab2b4a8d1199399bc44fd8/411a5/img/banner/blog-banner.png",
+    "url": "https://khalilstemmler.com/blogs/frontend/using-react-as-a-framework/",
+    "date": null,
+    "owner": "Khalil Stemmler"
   },
   {
-    "title": "Python com Django, monolitos, microsserviços e pragmatismo na Buser",
-    "description": "A Buser começou a sua história como empresa desenvolvendo sua plataforma usando Django, com Python como linguagem principal. A principal razão pra isso é porque Python é uma linguagem popular, madura e com bastante mercado. A empresa cresceu, e junto com ela a plataforma, que se tornou um grande monolito.…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/python-com-django-monolitos-microsservicos-e-pragmatismo-na-buser/",
-    "date": "15 Aug 2022",
-    "owner": "Gabs Ferreira"
+    "title": "Non-Functional Requirements (with Examples)",
+    "description": "Non-functional requirements are quality attributes that describe how the system should be. They judge the system as a whole based ...",
+    "thumbnail": "https://d33wubrfki0l68.cloudfront.net/2df28a89e76f4175eb88cf0da0acca511d558a3a/67f51/img/blog/object-oriented/analysis/non-functional-requirements/complexity.png",
+    "url": "https://khalilstemmler.com/articles/object-oriented/analysis/non-functional-requirements/",
+    "date": null,
+    "owner": "Khalil Stemmler"
   },
   {
-    "title": "Meu (um tanto assustador) começo na Alvin",
-    "description": "A essa altura acho que não é mais novidade pra ninguém, mas eu comecei a trabalhar em um startup da Estônia recentemente. Já contei como foi todo o processo lá no canal. Depois de aceitar a proposta, fui convidado pra ir fazer o onboarding lá na Estônia. Eu em frente…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/meu-um-tanto-assustador-comeco-na-alvin/",
-    "date": "20 Jun 2022",
-    "owner": "Gabs Ferreira"
+    "title": "Responsibility-Driven Design",
+    "description": "Responsibility-Driven Design is the influential object-oriented design method that presents an effective way to turn requirements ...",
+    "thumbnail": "https://d33wubrfki0l68.cloudfront.net/9213050494d7353ea7c6e4136b41c6af1b97c537/15414/img/blog/object-oriented/programming/object-oriented-programming.png",
+    "url": "https://khalilstemmler.com/articles/object-oriented/programming/dependency-composition-delegation-aggregation/",
+    "date": null,
+    "owner": "Khalil Stemmler"
   },
   {
-    "title": "Machine learning e IA no dia a dia com a idwall",
-    "description": "Há muito tempo atrás, cheguei a trabalhar em um protótipo pra um software de OCR (Optical Character Recognition), que acabou não indo pra frente. Do pouco que mexi com aquilo, achei bem complexo e desafiador. Não sabe o que é OCR? Hoje é seu dia de sorte. Eu conversei com…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/machine-learning-e-ia-no-dia-a-dia-com-a-idwall/",
-    "date": "07 Jun 2022",
-    "owner": "Gabs Ferreira"
+    "title": "What are Dependencies, Composition, Delegation, and Aggregation in Object-Oriented Programming?",
+    "description": "The four principles of object-oriented programming (abstraction, inheritance, encapsulation, and polymorphism) are features that -...",
+    "thumbnail": "https://d33wubrfki0l68.cloudfront.net/26ab539a1c09113061ecc5a9fb3f300efcbfd597/4b7c1/img/blog/object-oriented/programming/header-2.png",
+    "url": "https://khalilstemmler.com/articles/object-oriented/programming/4-principles/",
+    "date": null,
+    "owner": "Khalil Stemmler"
   },
   {
-    "title": "O que tem de tech por trás do iFood?",
-    "description": "Pensar em iFood é sinônimo de pensar em delivery de comida. Mas, será que é \"só\" isso que eles fazem? Recentemente eu descobri que o iFood na verdade é uma empresa gigantesca que tem áreas também enormes e que são praticamente pequenas empresas dentro da empresa. Só em tecnologia atualmente…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/o-que-tem-de-tech-por-tras-do-ifood/",
-    "date": "20 May 2022",
-    "owner": "Gabs Ferreira"
-  },
-  {
-    "title": "Como um software de e-mail funciona por trás dos panos",
-    "description": "Eu não sei você, mas a maioria do meu trabalho como desenvolvedor web foi criando CRUDs pra e-commerces, ERPs e afins. Tá, tiveram algumas exceções com softwares mais diferentões que exigiam integrações e coisas do tipo, mas a maioria não fugia muito do arroz e feijão da web. Esses tempos…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/como-um-cliente-de-email-funciona-por-tras-dos-panos/",
-    "date": "03 Apr 2022",
-    "owner": "Gabs Ferreira"
-  },
-  {
-    "title": "O dev que saiu do Nubank e abriu sua startup",
-    "description": "O Franco começou a trabalhar como desenvolvedor no Nubank em em 2016, foi praticamente seu primeiro emprego formal como dev no dia a dia. Antes disso, ele ficou um tempo nos EUA e terminou a faculdade por lá. No Nubank ele aprendeu muita coisa incrível e se apaixonou por Clojure.…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/o-dev-que-saiu-do-nubank-e-abriu-sua-startup/",
-    "date": "03 Apr 2022",
-    "owner": "Gabs Ferreira"
-  },
-  {
-    "title": "É hora das empresas trabalharem para manter devs",
-    "description": "Não é novidade que com a pandemia, o trabalho remoto acabou se tornando uma opção permanente pra muitas pessoas. E também para empresas do mundo todo. Quem mora no interior e não quer ir pra capital sabe que sempre vai ficar limitado a trabalhar pras mesmas empresas de sempre, não…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/e-hora-das-empresas-trabalharem-para-manter-devs/",
-    "date": "03 Apr 2022",
-    "owner": "Gabs Ferreira"
-  },
-  {
-    "title": "7 lições que aprendi depois de trabalhar por oito anos na mesma empresa",
-    "description": "Esse mês eu faço 8 anos no que hoje chamamos de Grupo Alura. Comecei a trabalhar na primeira empresa do grupo, a Caelum, em 2014. Entrei como instrutor de cursos de .NET. É, de longe, a empresa que passei o maior tempo em 15 anos de carreira em tecnologia. Esses…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/7-licoes-que-aprendi-depois-de-trabalhar-oito-anos-na-mesma-empresa/",
-    "date": "22 Mar 2022",
-    "owner": "Gabs Ferreira"
-  },
-  {
-    "title": "Como sair do Brasil e trabalhar com tech no Canadá e Europa?",
-    "description": "Com o mercado extremamente aquecido, o que não faltam é oportunidades para profissionais de tecnologia atualmente. E muitas dessas oportunidades são para trabalhar em empresas fora do país, em praticamente todos os lugares do mundo. Mas tem um lugar em específico que é o destino favorito de muitos brasileiros: o…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/como-sair-do-brasil-e-trabalhar-com-tech-no-canada-e-europa/",
-    "date": "20 Mar 2022",
-    "owner": "Gabs Ferreira"
-  },
-  {
-    "title": "Como a área de tecnologia da Americanas se prepara para o Big Brother",
-    "description": "A Americanas tem uma participação enorme dentro do Big Brother Brasil: eles patrocinam muita coisa, desde provas até as compras de comidas dos participantes. E não é comum aparecer QR codes na tela da TV para as pessoas acessarem promoções exclusivas. Pensa comigo: praticamente todos os dias milhões de pessoas…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/como-a-area-de-tecnologia-da-americanas-se-prepara-para-o-big-brother/",
-    "date": "20 Mar 2022",
-    "owner": "Gabs Ferreira"
-  },
-  {
-    "title": "Como funciona um Virtual Private Server?",
-    "description": "VPS é uma sigla pra Virtual Private Server, servidor virtual privado em português. E o nome é autoexplicativo: quando você contrata esse tipo de serviço, tem um servidor seu pra fazer o que quiser e configurar da melhor forma que fizer sentido. É um serviço muito popular entre devs em…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/como-funciona-um-virtual-private-server/",
-    "date": "05 Feb 2022",
-    "owner": "Gabs Ferreira"
-  },
-  {
-    "title": "Tecnologia, logística e gestão de frotas na Cobli",
-    "description": "Eu não sei você, mas adoro comprar praticamente tudo online. A praticidade que temos hoje em dia é simplesmente incrível. Mas você já parou pra pensar nos desafios de logística que as empresas não devem ter pra entregar tudo no prazo, controlar as frotas de entregas e tudo mais? Esses…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/tecnologia-logistica-e-gestao-de-frotas-na-cobli/",
-    "date": "05 Feb 2022",
-    "owner": "Gabs Ferreira"
-  },
-  {
-    "title": "TUDO que você precisa saber pra trabalhar com tecnologia no Canadá",
-    "description": "Não é novidade que o mercado de tecnologia, em especial a parte de programação, está extremamente aquecido. Pra quem pensa em ir para o exterior, o Canadá costuma ser um destino muito escolhido: bons salários, ótima qualidade de vida, lugar incrível pra criar filhos. E não é brincadeira o tanto…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/tudo-que-voce-precisa-saber-pra-trabalhar-com-tecnologia-no-canada/",
-    "date": "05 Feb 2022",
-    "owner": "Gabs Ferreira"
-  },
-  {
-    "title": "Cultura de tech em um banco digital: o case do will bank",
-    "description": "Um dos principais desafios que empresas com crescimento acelerado têm é criar e manter uma cultura saudável dentro do ambiente de trabalho. Além disso, questões como documentação e segurança podem ser negligenciados quando tudo vai rápido demais. O will bank é um banco digital que está passando por um processo…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/cultura-de-tech-em-um-banco-digital-o-case-do-will-bank/",
-    "date": "20 Dec 2021",
-    "owner": "Gabs Ferreira"
-  },
-  {
-    "title": "Como funciona um serviço de hospedagem? Por trás da Locaweb",
-    "description": "A grande maioria das pessoas que desenvolvem para web já tiveram que colocar um site no ar. E pra isso, você vai ter que usar algum tipo de serviço de hospedagem. Mas já parou pra pensar como esse tipo de serviço funciona por trás dos panos? Quais são as tecnologias…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/como-funciona-um-servico-de-hospedagem-por-tras-da-locaweb/",
-    "date": "20 Dec 2021",
-    "owner": "Gabs Ferreira"
-  },
-  {
-    "title": "Construindo um open banking do zero na Quanto",
-    "description": "Imagina em 2018 receber a missão de construir um open banking do zero. Sem referências, sem saber exatamente por onde começar ou como implementar esse tipo de solução. Hoje em dia esse conceito tá longe de ser novidade, mas nessa época era diferente: a Quanto foi pioneira do open banking…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/construindo-um-open-banking-do-zero-na-quanto/",
-    "date": "20 Dec 2021",
-    "owner": "Gabs Ferreira"
-  },
-  {
-    "title": "Operando no mercado americano com GoLang",
-    "description": "Imagine poder abrir uma conta bancária nos Estados Unidos e pode comprar ações e operar no mercado americano. Essa é a missão da Avenue, uma fintech que tem como missão democratizar o investimento no mercado americano para pessoas físicas. Mas implementar um software que seja capaz de fazer isso tá…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/operando-no-mercado-americano-com-golang/",
-    "date": "19 Nov 2021",
-    "owner": "Gabs Ferreira"
-  },
-  {
-    "title": "Escreva mais. Escreva menos!",
-    "description": "Um sentimento em quem começa (ou quer começar) a escrever artigos é que eles devem ser longos, cheios de detalhes, recheados de links e tudo mais. Esses artigos são ótimos e eu acho que há muito espaço pra eles. Mas vamos combinar: quase ninguém tem tempo pra fazer um artigo…",
-    "thumbnail": "http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg",
-    "url": "http://gabsferreira.com/escreva-mais-escreva-menos/",
-    "date": "17 Nov 2021",
-    "owner": "Gabs Ferreira"
+    "title": "4 Principles of Object-Oriented Programming",
+    "description": "The four principles of object-oriented programming (abstraction, inheritance, encapsulation, and polymorphism) are features that -...",
+    "thumbnail": "https://d33wubrfki0l68.cloudfront.net/26ab539a1c09113061ecc5a9fb3f300efcbfd597/4b7c1/img/blog/object-oriented/programming/header-2.png",
+    "url": "https://khalilstemmler.com/articles/object-oriented/design/responsibility-driven-design/",
+    "date": null,
+    "owner": "Khalil Stemmler"
   }
 ]

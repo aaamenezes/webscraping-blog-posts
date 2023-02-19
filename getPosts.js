@@ -21,7 +21,18 @@ function getPostsInfo(html) {
       .join('o');
     if (siteName) return siteName;
     
-    siteName = html.querySelector('meta[name="twitter:creator"]')?.getAttribute('content')?.replace('@', '');
+    siteName = html.querySelector('meta[name="twitter:creator"]')?.getAttribute('content')?.
+      replace('@', '')
+      .toLowerCase()
+      .trim()
+      .split(' ')
+      .join('')
+      .split('-')
+      .join('')
+      .split('ê')
+      .join('e')
+      .split('ô')
+      .join('o');
     if (siteName) return siteName;
 
     siteName = html.querySelector('link[rel="canonical"]')?.href
@@ -58,7 +69,8 @@ function getPostsInfo(html) {
       'devmedia': '.lista-cursos-box1 .list-item',
       'emersonbroga': 'article.card-blog',
       'felipefialhorssfeed': '[class*="styled__BlogItem"]',
-      'gabsferreira': 'ol.posts li'
+      'gabsferreira': 'ol.posts li',
+      'khalilstemmler': '.article-card:not(:empty)'
     };
 
     return map[getSitename(html)];
@@ -72,6 +84,9 @@ function getPostsInfo(html) {
     if (title) return title;
 
     title = postElement.querySelector('h3')?.innerText;
+    if (title) return title;
+
+    title = postElement.querySelector('.article-card--title')?.innerText;
     if (title) return title;
 
     title = postElement.querySelector('a')?.innerText;
@@ -249,8 +264,8 @@ function getPostsInfo(html) {
     // 'https://www.devmedia.com.br/artigos/',
     // 'https://emersonbroga.com/',
     // 'https://www.felipefialho.com/blog/',
-    'http://gabsferreira.com/#open',
-    // 'https://khalilstemmler.com/articles',
+    // 'http://gabsferreira.com/#open',
+    'https://khalilstemmler.com/articles',
     // 'https://kentcdodds.com/blog',
     // 'https://www.lambda3.com.br/blog/',
     // 'https://medium.com/?feed=following',
