@@ -6,7 +6,7 @@ const postItemTemplate = document.querySelector('.post-template');
 const paginationList = document.querySelector('.pagination-list');
 const paginationTemplate = document.querySelector('.pagination-template');
 
-const postsPerPage = 10;
+const postsPerPage = 24;
 const pagesQuantity = Math.ceil(posts.length / postsPerPage);
 
 loadPosts(1);

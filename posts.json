@@ -1,106 +1,98 @@
 [
   {
-    "title": "Featured article",
-    "description": "June 5th, 2021 — 11 min read",
-    "thumbnail": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAAAwCACdASpkAEMAPp1Kn0wsL6aiJJZqIfATiWUAyfSSgEc/GtT0mHKdzHFLl3LiEpsZRLNOBmqxnXaeaEKRhCTa4qdPXztUj3OQAAD+71Ev/6tD/+QZ//IM/aR/2p87fCg/zbiOendFqmjcLvFs1XKBG2LnlMO8i4JGnXqU2LbV1AdRG3n4LGiPD1M13AHcj8foCIYljpkQ23VEwS90Uu5o4oJhKgDzE8P/CtmRPahoXVponQRTLHexVS42NzUeoleskN5k5hTEbFkmQhDbTzbbB7fx/e5R4lPhc+xfSGP9nTUHJcXnqHxkyj+XbqYfiIm/ST8kAAA=",
-    "url": "https://kentcdodds.com/blog/how-to-use-react-context-effectively",
-    "date": "June 5th, 2021 — 11 min read",
-    "owner": "kentcdodds"
+    "title": "Como identificar a causa raiz de um problema",
+    "description": "Não consigo identificar a causa raiz de um problema, e agora? Se deparar com problemas faz parte do trabalho diário de qualquer time.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2023/01/Blog-5-porques.png",
+    "url": "https://www.lambda3.com.br/2023/02/como-identificar-a-causa-raiz-de-um-problema/",
+    "date": "Escrito por Felipe Teixeira em 6 de fevereiro de 2023",
+    "owner": "Lambda3 |"
   },
   {
-    "title": "January 12th, 2023 — 14 min read\nFixing a Memory Leak in a Production Node.js App",
-    "description": null,
-    "thumbnail": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAACQCQCdASpkAEMAPrlOn0s/rColL5aaq/AXCWcGWALWirwHeANSlhcyaSTOxJeAugpS3mtFNCiEnQJndHlZfS5hr7z1Y05lgi2mVz+YWl3ImismZYhQAP7w/3PU6+Isz/FapYy0h0mLqaJK6jXEALgglfOsgABrj4nz21jQ/mijs1RDLuWlLq+bfigsmSRJON27ur0F7STMWHRqR6iGNhiAR6C8ePUt5GwELHz/WpRMBWwQcZUu8a24jfSIQSe7xafEdGNvNSPPvvAI/Y9VevSXucBQP0Z1KsrKPqXQQPWYYo8PzPB4JwyU9YEAIMo6RhLJIxyd0JT6npAwQC01c4jggAA=",
-    "url": "https://kentcdodds.com/blog/fixing-a-memory-leak-in-a-production-node-js-app",
-    "date": "January 12th, 2023 — 14 min read",
-    "owner": "kentcdodds"
+    "title": "Migração para nuvem e negócios digitais",
+    "description": "Migração para nuvem e negócios digitais: afinal, os impactos não são apenas tecnológicos As tendências capazes de direcionar o futuro do mercado da tecnologia são sempre discutidas neste período do ano.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2023/02/Tech-0202.png",
+    "url": "https://www.lambda3.com.br/2023/02/migracao-para-nuvem-e-negocios-digitais/",
+    "date": "Escrito por Leticia Kawakami em 1 de fevereiro de 2023",
+    "owner": "Lambda3 |"
   },
   {
-    "title": "December 29th, 2022 — 5 min read\n2022 in Review",
-    "description": null,
-    "thumbnail": "https://res.cloudinary.com/kentcdodds-com/image/upload/c_fill,w_280,ar_3:4,q_auto,f_auto,b_rgb:e6e9ee/unsplash/photo-1494500764479-0c8f2919a3d8 280w, https://res.cloudinary.com/kentcdodds-com/image/upload/c_fill,w_560,ar_3:4,q_auto,f_auto,b_rgb:e6e9ee/unsplash/photo-1494500764479-0c8f2919a3d8 560w, https://res.cloudinary.com/kentcdodds-com/image/upload/c_fill,w_840,ar_3:4,q_auto,f_auto,b_rgb:e6e9ee/unsplash/photo-1494500764479-0c8f2919a3d8 840w, https://res.cloudinary.com/kentcdodds-com/image/upload/c_fill,w_1100,ar_3:4,q_auto,f_auto,b_rgb:e6e9ee/unsplash/photo-1494500764479-0c8f2919a3d8 1100w, https://res.cloudinary.com/kentcdodds-com/image/upload/c_fill,w_1300,ar_3:4,q_auto,f_auto,b_rgb:e6e9ee/unsplash/photo-1494500764479-0c8f2919a3d8 1300w, https://res.cloudinary.com/kentcdodds-com/image/upload/c_fill,w_1650,ar_3:4,q_auto,f_auto,b_rgb:e6e9ee/unsplash/photo-1494500764479-0c8f2919a3d8 1650w",
-    "url": "https://kentcdodds.com/blog/2022-in-review",
-    "date": "December 29th, 2022 — 5 min read",
-    "owner": "kentcdodds"
+    "title": "Rodando Docker no Windows sem Docker Desktop",
+    "description": "Estou avaliando uma série de ferramentas para substituir o Docker Desktop.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2023/01/Blog-3001.png",
+    "url": "https://www.lambda3.com.br/2023/01/rodando-docker-no-windows-sem-docker-desktop/",
+    "date": "Escrito por Giovanni Bassi em 31 de janeiro de 2023",
+    "owner": "Lambda3 |"
   },
   {
-    "title": "December 29th, 2022 — 6 min read\nMy Car Accident",
-    "description": null,
-    "thumbnail": "https://res.cloudinary.com/kentcdodds-com/image/upload/c_fill,w_280,ar_3:4,q_auto,f_auto,b_rgb:e6e9ee/kentcdodds.com/content/blog/my-car-accident/car-in-daylight 280w, https://res.cloudinary.com/kentcdodds-com/image/upload/c_fill,w_560,ar_3:4,q_auto,f_auto,b_rgb:e6e9ee/kentcdodds.com/content/blog/my-car-accident/car-in-daylight 560w, https://res.cloudinary.com/kentcdodds-com/image/upload/c_fill,w_840,ar_3:4,q_auto,f_auto,b_rgb:e6e9ee/kentcdodds.com/content/blog/my-car-accident/car-in-daylight 840w, https://res.cloudinary.com/kentcdodds-com/image/upload/c_fill,w_1100,ar_3:4,q_auto,f_auto,b_rgb:e6e9ee/kentcdodds.com/content/blog/my-car-accident/car-in-daylight 1100w, https://res.cloudinary.com/kentcdodds-com/image/upload/c_fill,w_1300,ar_3:4,q_auto,f_auto,b_rgb:e6e9ee/kentcdodds.com/content/blog/my-car-accident/car-in-daylight 1300w, https://res.cloudinary.com/kentcdodds-com/image/upload/c_fill,w_1650,ar_3:4,q_auto,f_auto,b_rgb:e6e9ee/kentcdodds.com/content/blog/my-car-accident/car-in-daylight 1650w",
-    "url": "https://kentcdodds.com/blog/my-car-accident",
-    "date": "December 29th, 2022 — 6 min read",
-    "owner": "kentcdodds"
+    "title": "Retrospectiva 2022 | Episódios mais ouvidos do #PodcastDaLambda",
+    "description": "Dezembro chega trazendo com ele algumas expectativas.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/12/Retro_Podcast_-_Blog.png",
+    "url": "https://www.lambda3.com.br/2022/12/retrospectiva-2022-episodios-mais-ouvidos-do-podcastdalambda/",
+    "date": "Escrito por Marketing Lambda3 em 15 de dezembro de 2022",
+    "owner": "Lambda3 |"
   },
   {
-    "title": "November 21st, 2022 — 22 min read\nI Migrated from a Postgres Cluster to Distributed SQLite with LiteFS",
-    "description": null,
-    "thumbnail": "data:image/webp;base64,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",
-    "url": "https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs",
-    "date": "November 21st, 2022 — 22 min read",
-    "owner": "kentcdodds"
+    "title": "Novos negócios em Java ampliam soluções para 2023",
+    "description": "Expansão de novos negócios em Java amplia e diversifica nossa prateleira de soluções para 2023 Há 12 anos o mercado reconhece a Lambda3 como referência em tecnologia e inovação, através de um modelo ágil de entrega focado em projetos em linguagem .",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/12/Java.png",
+    "url": "https://www.lambda3.com.br/2022/12/novos-negocios-em-java-ampliam-solucoes-para-2023/",
+    "date": "Escrito por Giovanni Bassi em 14 de dezembro de 2022",
+    "owner": "Lambda3 |"
   },
   {
-    "title": "September 7th, 2022 — 7 min read\nI'm building EpicWeb.dev",
-    "description": null,
-    "thumbnail": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAAAwCQCdASpkAEMAPp1Knku0p60hpJma8pATiWUG+OfP1XWP3eQFbFu5naDMH4uHXhHHk0cn1nkxzHTFUerGdQv25bNIu2sc3uzEltU2xxMXNgM4AP7uT+YFfihotxgUn/wH5y/YHd/VKPY9zsDrI3X6WutSt2j+eho79oTNVzLYiKxQdakcn1LkeWojc/bvJHTuOD5doknTZ1SNOoSYGVi7FXQBLXA7yE3GOmCHxnjECZR0SMZg8XBuvBqng65Fc9+6KGP+W9z8AVSP+iqnbrcD3Oo+BEirWHvPvmUXUgPFG9+CLLcHyLbt5CsRDCxMfA/7CvfQcSFYOip1ZYuwbyUQyCdxNvAz0J72blHjEAAAAA==",
-    "url": "https://kentcdodds.com/blog/i-m-building-epicweb-dev",
-    "date": "September 7th, 2022 — 7 min read",
-    "owner": "kentcdodds"
+    "title": "Retrospectiva 2022 | Conteúdos mais lidos no Blog da Lambda3",
+    "description": "Chegou aquele momento em que a gente apresenta nossa retrospectiva de conteúdos que mais foram acessadas no #BlogDaLambda.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/12/Retro_Blog_-_Blog.png",
+    "url": "https://www.lambda3.com.br/2022/12/retrospectiva-2022-conteudos-mais-lidos-no-blog-da-lambda3/",
+    "date": "Escrito por Marketing Lambda3 em 13 de dezembro de 2022",
+    "owner": "Lambda3 |"
   },
   {
-    "title": "September 6th, 2022 — 5 min read\nA review of my time at Remix",
-    "description": null,
-    "thumbnail": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAADQCQCdASpkAEMAPqVInUoxL6+mqvgMKiAUiWcG+OUHgCevA2GO3dUliVfLKavdr6mLR5kQmwWJyX96tffjo2NtqqcBcriwqMU14CAMIcdMWRXnf3K6vgAA/vD/7/jbIsqehwBzRgAHP+oz/nJBpsKn6d4ZeRyqPf9Vb0Ux1GUW6AwwptxD3ARUGbgoZNrD3Z7e+qzdlc6+1m93RsVpXJzhrmI6xg8S6zk/Vav6yWUSTKamVCRXyOtaEdJAc98Po9vj+P81uLhXqfIwIfUDqrSs4jEcbAOMSz9B4hme1Vhj2O8RR9rq3AxemZNd9RjnMAAAAA==",
-    "url": "https://kentcdodds.com/blog/a-review-of-my-time-at-remix",
-    "date": "September 6th, 2022 — 5 min read",
-    "owner": "kentcdodds"
+    "title": "Data Meet | Ciência de Dados do Mundo Real",
+    "description": "A área de Dados ganha cada vez mais destaque uma vez que o mercado entende a importância das informações que são geradas no dia a dia dos negócios, e os benefícios que elas podem trazer para seu crescimento estratégico, inovação e transformação.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/11/Youtube_Dados.png",
+    "url": "https://www.lambda3.com.br/2022/11/data-meet-ciencia-de-dados-do-mundo-real/",
+    "date": "Escrito por Marketing Lambda3 em 29 de novembro de 2022",
+    "owner": "Lambda3 |"
   },
   {
-    "title": "March 24th, 2022 — 11 min read\nRemix: The Yang to React's Yin",
-    "description": null,
-    "thumbnail": "data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAADwDACdASpkAEMAPp1EnEm4sikhLbmZMxATiWcGcAzuXlQnXhFdl5LEiQOky3ly1yV8GpkKhcOe29tCRes9Wq2B0o77rXPs4E7nP3OwsAut/3CV7hg0rWITIibQzrFimy9P75HvBw34tjD6PevHThAAAP75ZVFI3/anWDpkp4M/wtOEf4zH6BM6/3V5YRlrJAnnjY2oJm52jaFHH7wWg3Hi94EMy+E6NkpjelGc83YxIgzfl47RBYgu8SJoKpvrPUIf+wHyhaHPVB619/G2h4w4FiIBi2qWwJlWI3cVM289RBL4vF0ekeF0HIo+/eVxC0X/YIfB7ejH7w6UcEXF2KXw1meTAAAA",
-    "url": "https://kentcdodds.com/blog/remix-the-yang-to-react-s-yin",
-    "date": "March 24th, 2022 — 11 min read",
-    "owner": "kentcdodds"
+    "title": "Há futuro para o mercado de tecnologia sem cultura organizacional diversa?",
+    "description": "“A tecnologia move o mundo”.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/09/Tech-BLOG_2.png",
+    "url": "https://www.lambda3.com.br/2022/09/ha-futuro-para-o-mercado-de-tecnologia-sem-cultura-organizacional-diversa/",
+    "date": "Escrito por Patricia Kost em 13 de setembro de 2022",
+    "owner": "Lambda3 |"
   },
   {
-    "title": "November 15th, 2021 — 5 min read\nHow I help you build better websites",
-    "description": null,
-    "thumbnail": "data:image/webp;base64,UklGRggBAABXRUJQVlA4IPwAAAAwCgCdASpkAEMAPrlOoEszOLEhq/dtExAXCWkGcBjrYtd69huTwQmKzLTTZI4YXnfsVSbiWagGK3feWOoRNIP/not5dwlobo45orkaFKRlWPG4cW3FjsbZcQAA/vRicHrAF4ThT3zRHU+COw82gLA9Zqie07bv7rZcw7bTRhxbWQqBDpDlqlxCC3kUFoZVHxRgBae2l3sr2IZpGXInt9aaX2OhiFpP4OeVEnTe32QjEyzQWhy0YDXL0gEcSd67VTSUkOmOWcSaOdQt3db/2dsU2SfJCiqtDNytyZr9HqWujFwkfXfC7BcUoPXQHszpFJ8ZMXpSzxeYTTvkAAA=",
-    "url": "https://kentcdodds.com/blog/how-i-help-you-build-better-websites",
-    "date": "November 15th, 2021 — 5 min read",
-    "owner": "kentcdodds"
+    "title": "Atingindo objetivos através de OKR",
+    "description": "O que é OKR?",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/08/Blog-2608.png",
+    "url": "https://www.lambda3.com.br/2022/09/atingindo-objetivos-atraves-de-okr/",
+    "date": "Escrito por Juan Barata em 5 de setembro de 2022",
+    "owner": "Lambda3 |"
   },
   {
-    "title": "November 13th, 2021 — 10 min read\nWhy I Love Remix",
-    "description": null,
-    "thumbnail": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAAAwCACdASpkAEsAPp1GnEslrykhpnScAeATiWcAxYSB0pcEEAT1uIzpkzAeN6p0RISEKg7fr1KQXSyI+gsaLwAEGfjkGi17yzKwQAD+9WmlrjBeKE+frjqBCuX1CMj43CKWjuVmpwUheplrn5s/Z8lNryFj09H/QthEzbqW2MDYRogKctXx9cGjd2RyB870F3d04BCbdzMTnvj0SlB10YTRTZee5V0y1BV5J+eFkS49GHrXXfA7bbVzR0FEpTlsYMS0eWt/IWfgIVPdmFsgDIEz6MnMiNAZ7Gap5tgF2aNw+v82W3IloBOF43YZcIbK7wAAAA==",
-    "url": "https://kentcdodds.com/blog/why-i-love-remix",
-    "date": "November 13th, 2021 — 10 min read",
-    "owner": "kentcdodds"
+    "title": "A importância de compartilhar conhecimentos de Design dentro das empresas",
+    "description": "Designers ajudam a melhorar experiências.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/08/Artigo_Blog.png",
+    "url": "https://www.lambda3.com.br/2022/08/a-importancia-de-compartilhar-conhecimentos-de-design-dentro-das-empresas/",
+    "date": "Escrito por Sarah Barros em 29 de agosto de 2022",
+    "owner": "Lambda3 |"
   },
   {
-    "title": "November 5th, 2021 — 6 min read\nThe State Initializer Pattern",
-    "description": null,
-    "thumbnail": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAADQBgCdASpkAEMAPrlQn0w8qKMiKTzL05AXCWkG+AAHmOki9ZMlBZNr4ec9gBCUvBY+qG2qnxTidABMunyKh4AA/u/1mI0QWiTiLwfrk42RPpph6m1Sjyjou2i7LrLy2MX2D3yaz4JapMC9g/Z+8vqOz6qQQKpIuRkIjmlfZN+QOG093js4uY1dXQoOTv8328kxn3IgcSdXB30AX5Eo1gAA",
-    "url": "https://kentcdodds.com/blog/the-state-initializer-pattern",
-    "date": "November 5th, 2021 — 6 min read",
-    "owner": "kentcdodds"
+    "title": "Guia de cores para acessibilidade",
+    "description": "Não há dúvidas de que ainda há muito a se discutir sobre acessibilidade, por se tratar de um assunto bastante amplo que envolve várias áreas, como: Visual Designer, Desenvolvedores, Designer de Conteúdo e outras.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/08/BLOG-0808.png",
+    "url": "https://www.lambda3.com.br/2022/08/guia-de-cores-para-acessibilidade/",
+    "date": "Escrito por Jonatan Crespo em 15 de agosto de 2022",
+    "owner": "Lambda3 |"
   },
   {
-    "title": "November 3rd, 2021 — 8 min read\nHow to React ⚛️",
-    "description": null,
-    "thumbnail": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAAAwBwCdASpkADIAPrlUoUu/pSchqTv8A/AXCWcAzfwTDQrWTzDf4iwRnxIsZAP4QjvNQbEgqCR5me/fualbHS+tlAAA/u5Uj8Vlu55rnCq2k5XhseFY7/PdOfT939CZSzlrar8/nGmOGStXxKaEHi823XgKPB/9p9kkutwCHaXQqFr5wliON/z7Mre4lSitTy6beYY3NByFbvAIYoeX8FqU/UErjU16wpCqJX1bvuOcyXgA",
-    "url": "https://kentcdodds.com/blog/how-to-react",
-    "date": "November 3rd, 2021 — 8 min read",
-    "owner": "kentcdodds"
-  },
-  {
-    "title": "October 28th, 2021 — 5 min read\nGet a catch block error message with TypeScript",
-    "description": null,
-    "thumbnail": "data:image/webp;base64,UklGRlIBAABXRUJQVlA4IEYBAACQDgCdASpkAEIAPrlOn0snOK2hsHHMsxAXCWcAzDofhbcTEAaXVx2eSJBzl1FI4PsBhjC0mJpyqFCYKqMtkKcldBqLlBXH5tks4EesHBbcwmQtLVuaJug5EpYd2Jg2wctB0VtCI12O4yBBEj4wlow2GP8/KpGzDG//K/q+YADL6K3ZBbuLsHv+btleeFd86jNg7XkblZTPXd5p1Id+5xNhkkY8xwsJ0UhWlCSNzluD75C4NqAkJ2LoIrnIXS4P1/KE1RXleEy+9/v+3vGqv1eAihURUs/TqUxrI8a0AijigqKn5K4lS73P4e5/HQLYVOHYKqJtHgmT7alc7zrP1QjhxRR0bGKQfuVNDgRAs9YrTN5JLUHXl1u0GMtoCWYijr3pQOBJabEmmGpXLTqHs+hH2PMa8+mZPbSlOVETaEBi1bulCmYAAA==",
-    "url": "https://kentcdodds.com/blog/get-a-catch-block-error-message-with-typescript",
-    "date": "October 28th, 2021 — 5 min read",
-    "owner": "kentcdodds"
+    "title": "Como evitar o comércio milionário de ataques cibernéticos",
+    "description": "Os crimes virtuais tornaram-se um negócio.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/08/Ataques_ciberneticos_blog.png",
+    "url": "https://www.lambda3.com.br/2022/08/como-evitar-o-comercio-milionario-de-ataques-ciberneticos/",
+    "date": "Escrito por Giovanni Bassi em 4 de agosto de 2022",
+    "owner": "Lambda3 |"
   }
 ]

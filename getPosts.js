@@ -18,7 +18,9 @@ function getPostsInfo(html) {
       .split('ê')
       .join('e')
       .split('ô')
-      .join('o');
+      .join('o')
+      .split('|')
+      .join('');
     if (siteName) return siteName;
     
     siteName = html.querySelector('meta[name="twitter:creator"]')?.getAttribute('content')?.
@@ -32,7 +34,9 @@ function getPostsInfo(html) {
       .split('ê')
       .join('e')
       .split('ô')
-      .join('o');
+      .join('o')
+      .split('|')
+      .join('');
     if (siteName) return siteName;
 
     siteName = html.querySelector('link[rel="canonical"]')?.href
@@ -47,6 +51,8 @@ function getPostsInfo(html) {
       .split(' ')
       .join('')
       .split('-')
+      .join('')
+      .split('|')
       .join('');
     if (siteName) return siteName;
 
@@ -71,7 +77,8 @@ function getPostsInfo(html) {
       'felipefialhorssfeed': '[class*="styled__BlogItem"]',
       'gabsferreira': 'ol.posts li',
       'khalilstemmler': '.article-card:not(:empty)',
-      'kentcdodds': '.col-span-4.mb-10, .relative.grid.grid-cols-4.gap-x-4.mx-auto.max-w-7xl.group.rounded-lg.pb-6.pt-14'
+      'kentcdodds': '.col-span-4.mb-10, .relative.grid.grid-cols-4.gap-x-4.mx-auto.max-w-7xl.group.rounded-lg.pb-6.pt-14',
+      'lambda3': '.post-item.item'
     };
 
     return map[getSitename(html)];
@@ -121,11 +128,17 @@ function getPostsInfo(html) {
     description = postElement.querySelector('[class*="styled__Subtitle"]')?.innerText;
     if (description) return description;
 
+    description = postElement.querySelector('p')?.innerText;
+    if (description) return description;
+
     return null;
   }
 
   function getThumbnail(postElement) {
     let thumbnail = postElement.querySelector('.article__image')?.style.backgroundImage.split('"')[1];
+    if (thumbnail) return thumbnail;
+
+    thumbnail = postElement.querySelector('.image-wrapper')?.style.backgroundImage.split('"')[1];
     if (thumbnail) return thumbnail;
 
     thumbnail = postElement.querySelector('.wp-post-image')?.dataset?.src;
@@ -193,6 +206,9 @@ function getPostsInfo(html) {
     date = postElement.querySelector('.mt-8.text-xl.font-medium.text-slate-500')?.innerText;
     if (date) return date;
 
+    date = postElement.querySelector('small > i:first-child')?.innerText;
+    if (date) return date;
+
     return null;
   }
 
@@ -215,6 +231,8 @@ function getPostsInfo(html) {
       .split(' ')
       .join('')
       .split('-')
+      .join('')
+      .split('|')
       .join('');
     if (siteName) return siteName;
 
@@ -241,7 +259,7 @@ function getPostsInfo(html) {
 (async () => {
   // console.clear();
   // let time = 0;
-  // console.time();
+  console.time();
   // const interval = setInterval(() => {
   //   time++;
 
@@ -279,8 +297,8 @@ function getPostsInfo(html) {
     // 'https://www.felipefialho.com/blog/',
     // 'http://gabsferreira.com/#open',
     // 'https://khalilstemmler.com/articles',
-    'https://kentcdodds.com/blog',
-    // 'https://www.lambda3.com.br/blog/',
+    // 'https://kentcdodds.com/blog',
+    'https://www.lambda3.com.br/blog/',
     // 'https://medium.com/?feed=following',
     // 'https://neilpatel.com/br/blog/',
     // 'https://reinaldoferraz.com.br/',
@@ -324,6 +342,6 @@ function getPostsInfo(html) {
   console.log('Finished!');
   console.log('Total posts:', allPostsSpread.length);
   
-  // console.timeEnd();
+  console.timeEnd();
   await browser.close();
 })();
