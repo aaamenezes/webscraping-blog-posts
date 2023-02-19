@@ -57,7 +57,8 @@ function getPostsInfo(html) {
       'wsvincent': '.post-list li',
       'devmedia': '.lista-cursos-box1 .list-item',
       'emersonbroga': 'article.card-blog',
-      'felipefialhorssfeed': '[class*="styled__BlogItem"]'
+      'felipefialhorssfeed': '[class*="styled__BlogItem"]',
+      'gabsferreira': 'ol.posts li'
     };
 
     return map[getSitename(html)];
@@ -131,6 +132,9 @@ function getPostsInfo(html) {
 
     let url = postElement.querySelector('a')?.href;
     if (url?.includes('joshwcomeau')) return 'https://www.joshwcomeau.com/assets/me-light.webp';
+
+    let siteName = html.querySelector('meta[property="og:site_name"]')?.content
+    if (siteName === 'Gabs Ferreira') return 'http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg'
 
     thumbnail = postElement.querySelector('a')?.href;
     if (thumbnail) return thumbnail;
@@ -244,8 +248,8 @@ function getPostsInfo(html) {
     // 'https://wsvincent.com/',
     // 'https://www.devmedia.com.br/artigos/',
     // 'https://emersonbroga.com/',
-    'https://www.felipefialho.com/blog/',
-    // 'http://gabsferreira.com/#open',
+    // 'https://www.felipefialho.com/blog/',
+    'http://gabsferreira.com/#open',
     // 'https://khalilstemmler.com/articles',
     // 'https://kentcdodds.com/blog',
     // 'https://www.lambda3.com.br/blog/',
