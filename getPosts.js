@@ -16,7 +16,9 @@ function getPostsInfo(html) {
       .split('-')
       .join('')
       .split('ê')
-      .join('e');
+      .join('e')
+      .split('ô')
+      .join('o');
 
     if (siteName) return siteName;
     
@@ -46,7 +48,8 @@ function getPostsInfo(html) {
       'smashingmagazine': '.article--post',
       'tabnews': 'article[class*="Box"]',
       'wsvincent': '.post-list li',
-      'devmedia': '.lista-cursos-box1 .list-item'
+      'devmedia': '.lista-cursos-box1 .list-item',
+      'emersonbroga': 'article.card-blog'
     };
 
     return map[getSitename(html)];
@@ -84,7 +87,7 @@ function getPostsInfo(html) {
     description = postElement.querySelector('.article--post__teaser')?.innerText;
     if (description) return description;
 
-    description = postElement.querySelector('.artigo-description')?.innerText;
+    description = postElement.querySelector('[class*="description"]')?.innerText;
     if (description) return description;
 
     return null;
@@ -215,8 +218,8 @@ function getPostsInfo(html) {
     // 'https://www.smashingmagazine.com/articles/',
     // 'https://www.tabnews.com.br/',
     // 'https://wsvincent.com/',
-    'https://www.devmedia.com.br/artigos/',
-    // 'https://emersonbroga.com/',
+    // 'https://www.devmedia.com.br/artigos/',
+    'https://emersonbroga.com/',
     // 'https://www.felipefialho.com/blog/',
     // 'http://gabsferreira.com/#open',
     // 'https://khalilstemmler.com/articles',

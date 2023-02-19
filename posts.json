@@ -1,162 +1,82 @@
 [
   {
-    "title": "A temporada Fevereiro começou GRÁTIS",
-    "description": "Eu sou o DevRobot. Seja bem-vindo a segunda temporada de 2023 🙂",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/a-temporada-fevereiro-comecou/43630",
-    "date": "26 jan",
-    "owner": "DevMedia"
+    "title": "Criando avatar Hexagonal com CSS!",
+    "description": "No post de hoje, vou dar uma dica de CSS, hoje vou mostrar como criar um avatar hexagonal no CSS.E você deve estar se perguntando, porque isso? Recentemente o Twitter implementou o uso de NFTs como avatar na plataforma eLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2022/02/hexagonal-avatars-360x240.png",
+    "url": "https://emersonbroga.com/criando-avatar-hexagonal-com-css/",
+    "date": "2022-02-28T10:00:00-03:00",
+    "owner": "Emerson Brôga"
   },
   {
-    "title": "O que são arrays e como utilizá-los no JavaScript? GRÁTIS",
-    "description": "Neste artigo você entenderá o que são arrays na programação, como eles funcionam e porque são úteis para o dia a dia do programados. Além disso, ao longo deste conteúdo você verá como utilizar arrays dentro do contexto do JavaScript.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/o-que-sao-arrays-e-como-utiliza-los-no-javascript/43563",
-    "date": "31 out",
-    "owner": "DevMedia"
+    "title": "React Memo, useMemo, useCallback e memoization",
+    "description": "Uma das dúvidas que a galera mais tem em relação ao React e seus hooks são o useMemo e o useCallback, e ninguém sabe muito bem por que e quando utilizar esses hooks. Então hoje eu resolvi explicar de formaLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2022/02/react-memo-useMemo-useCallback-v2-360x240.jpg",
+    "url": "https://emersonbroga.com/memo-usememo-usecallback-e-memoization/",
+    "date": "2022-02-21T15:07:36-03:00",
+    "owner": "Emerson Brôga"
   },
   {
-    "title": "O que um programador faz? GRÁTIS",
-    "description": "De acordo com os dados do Google, a busca pela profissão de programador teve um aumento de 30%, comparado a 2021. Neste artigo você conhece a rotina, áreas de atuação e muito mais dessa carreira.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/o-que-um-programador-faz/43562",
-    "date": "25 out",
-    "owner": "DevMedia"
+    "title": "Loader Middleware para o Redux",
+    "description": "Opa! Se você programa em React e usa o Redux, você provavelmente já tentou imaginar uma forma fácil para exibir um feedback para o usuário enquanto uma requisição esta acontecendo. Seja na hora de submeter um formulário, seja na horaLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2020/10/redux-loader-middleware-cover-360x240.jpg",
+    "url": "https://emersonbroga.com/loader-middleware-para-o-redux/",
+    "date": "2020-10-20T10:17:37-03:00",
+    "owner": "Emerson Brôga"
   },
   {
-    "title": "Tabela salarial de programador GRÁTIS",
-    "description": "Descubra como está o mercado atual da programação, onde um profissional pode atuar e, ainda conferir a tabela salarial de programador.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/tabela-salarial-de-programador/43556",
-    "date": "14 out",
-    "owner": "DevMedia"
+    "title": "Desmistificando o array.map(); do JavaScript.",
+    "description": "Fala dev, tudo joia? Hoje eu quero desmistificar alguns dos métodos mais utilizados nos Arrays do JavaScript, o Map. No JavaScript os arrays possuem vários métodos que facilitam a sua manipulação. Esses métodos servem para resolver problemas comuns e têmLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2020/03/emersonbroga-com-javascript-map.jpg",
+    "url": "https://emersonbroga.com/desmistificando-o-array-map-do-javascript/",
+    "date": "2020-03-04T11:40:57-03:00",
+    "owner": "Emerson Brôga"
   },
   {
-    "title": "Ciclo de vida de um componente React com o Effect Hook GRÁTIS",
-    "description": "Neste artigo você aprenderá o que é o ciclo de vida de um componente React, quais as suas fases e como é possível utilizar o Hook useEffect para criar essas fases.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/ciclo-de-vida-de-um-componente-react-com-o-effect-hook/43555",
-    "date": "14 out",
-    "owner": "DevMedia"
+    "title": "[passo-a-passo] Criando uma API com Node JS, os conceitos básicos para iniciantes",
+    "description": "No projeto de hoje, vamos fazer uma API simples usando NodeJS.Essa api vai ser bem simples mas já nos dará uma base bem sólida para alguns conceitos de construção de APIs como rotas, requisições e verbos HTTP.E vamos criar tudoLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2020/02/criando-uma-api-com-nodejs.jpg",
+    "url": "https://emersonbroga.com/passo-a-passo-criando-uma-api-com-node-js-os-conceitos-basicos-para-iniciantes/",
+    "date": "2020-02-19T07:52:26-03:00",
+    "owner": "Emerson Brôga"
   },
   {
-    "title": "Utilizando Styled Components no React GRÁTIS",
-    "description": "Neste artigo você aprenderá sobre a biblioteca Styled Components e como a utilizamos para criar componentes de estilo em React JS.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/utilizando-styled-components-no-react/43554",
-    "date": "13 out",
-    "owner": "DevMedia"
+    "title": "Capturando os erros de um async/await sem try catch",
+    "description": "Olá, pessoal! Hoje quero mostrar pra vocês uma forma de capturar os erros de um async await sem usar o try catch. Mas primeiro vamos recaptular, o que é mesmo um async await? async/await Vou tentar contar a historia aquiLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2020/01/async-await-sem-try-catch-1.jpg",
+    "url": "https://emersonbroga.com/capturando-os-erros-de-um-async-await-sem-try-catch/",
+    "date": "2020-01-29T09:00:06-03:00",
+    "owner": "Emerson Brôga"
   },
   {
-    "title": "Fundamentos básicos de JavaScript necessários para aprender React GRÁTIS",
-    "description": "Neste artigo você saberemos quais os conceitos básicos na linguagem JavaScript você precisará ter para começar a aprender a biblioteca React JS.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/fundamentos-basicos-de-javascript-necessarios-para-aprender-react/43553",
-    "date": "11 out",
-    "owner": "DevMedia"
+    "title": "REACT – Como utilizar o React Async",
+    "description": "Olá, pessoal! Hoje eu quero mostrar como deixar o seu componente em react mais limpo e mais legível usando o react-async. Vou ensinar uma das formas de utilização da biblioteca react-async, que apresenta uma forma declarativa para resoluções de promisesLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2019/12/react-async-360x240.jpg",
+    "url": "https://emersonbroga.com/como-utilizar-o-react-async/",
+    "date": "2020-01-22T09:00:51-03:00",
+    "owner": "Emerson Brôga"
   },
   {
-    "title": "Como começar a programar e mudar de carreira GRÁTIS",
-    "description": "Aprenda como trocar de profissão e entrar para a área de programação, para mudar de carreira e começar a programar não é preciso fazer faculdade.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/como-comecar-a-programar-e-mudar-de-carreira/43524",
-    "date": "14 set",
-    "owner": "DevMedia"
+    "title": "Como configurar Webpack para projeto React",
+    "description": "Olá, pessoal! Hoje eu quero mostrar pra vocês o passo-a-passo de como configurar o Webpack para um projeto React! Muitas pessoas se assuntam quando a gente fala de Webpack, pois parece que vão ser inúmeras configurações complicadas e que parecemLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2019/12/como-configurar-webpack-para-um-projeto-react-360x240.jpg",
+    "url": "https://emersonbroga.com/como-configurar-webpack-para-projeto-react/",
+    "date": "2020-01-15T09:00:26-03:00",
+    "owner": "Emerson Brôga"
   },
   {
-    "title": "Quando me candidatar à uma vaga de programador GRÁTIS",
-    "description": "Veja nesse artigo quais são os fatores que devem ser analisados para buscar a sua primeira vaga de programador.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/quando-me-candidatar-a-uma-vaga-de-programador/43523",
-    "date": "30 ago",
-    "owner": "DevMedia"
+    "title": "5 extensões VSCode para desenvolvedores JavaScript/Node/React em 2020",
+    "description": "Olá, pessoal! Recentemente estava instalando meus programas no mac depois que ele voltou do conserto e ao instalar as extensões do VSCode e sempre aparece alguém perguntando quais extensões eu uso e hoje resolvi fazer um post pra deixar claroLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2019/12/5-extensoes-vscode-2020-360x240.jpg",
+    "url": "https://emersonbroga.com/5-extensoes-vscode-para-desenvolvedores-javascript-node-react-em-2020/",
+    "date": "2020-01-08T09:00:38-03:00",
+    "owner": "Emerson Brôga"
   },
   {
-    "title": "CSS Border GRÁTIS",
-    "description": "Nesta documentação você aprenderá sobre a propriedade CSS border, suas características e como utilizá-la no código CSS para definir a borda de um elemento HTML.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/css-border/43522",
-    "date": "30 ago",
-    "owner": "DevMedia"
-  },
-  {
-    "title": "Diferenças entre programação Front-end e Back-end GRÁTIS",
-    "description": "Neste artigo vamos falar sobre as diferenças entre o desenvolvimento front-end e back-end, além de apresentar algumas das linguagens de programação mais utilizadas para cada um desses objetivos.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/diferencas-entre-programacao-front-end-e-back-end/43518",
-    "date": "29 ago",
-    "owner": "DevMedia"
-  },
-  {
-    "title": "HTML Icons: utilizando ícones em páginas HTML GRÁTIS",
-    "description": "Nesta documentação de HTML falaremos sobre como utilizar ícones no HTML de maneira simples através da biblioteca Fonts Awesome, além de aprender como definir o favicon de uma página HTML.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/html-icons-utilizando-icones-em-paginas-html/43517",
-    "date": "24 ago",
-    "owner": "DevMedia"
-  },
-  {
-    "title": "HTML hr: como utilizar a tag hr para criar quebras de linhas temáticas GRÁTIS",
-    "description": "Nesta documentação aprenda sobre o elemento HTML hr, como aplicar a tag hr em código HTML e como podemos utilizá-la para criar quebras de linhas temáticas.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/html-hr-como-utilizar-a-tag-hr-para-criar-quebras-de-linhas-tematicas/43516",
-    "date": "24 ago",
-    "owner": "DevMedia"
-  },
-  {
-    "title": "HTML Iframe GRÁTIS",
-    "description": "Nesta documentação você aprenderá sobre o elemento HTML iframe, como aplicar a tag iframe em código HTML e como podemos utilizá-la para adicionar conteúdos de uma página externa na página atual.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/html-iframe/43515",
-    "date": "24 ago",
-    "owner": "DevMedia"
-  },
-  {
-    "title": "HTML DOCTYPE GRÁTIS",
-    "description": "Nesta documentação aprenda sobre o !DOCTYPE html, como aplicar a declaração no código HTML e como podemos utilizá-la para informar ao navegador a versão do documento HTML.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/html-doctype/43514",
-    "date": "22 ago",
-    "owner": "DevMedia"
-  },
-  {
-    "title": "HTML HREF: referenciando URLs externas no HTML GRÁTIS",
-    "description": "Nesta documentação de HTML falaremos sobre o atributo href, utilizado por algumas tags HTML para fazer referência a URLs externas, sejam elas arquivos ou links.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/html-href-referenciando-urls-externas-no-html/43513",
-    "date": "22 ago",
-    "owner": "DevMedia"
-  },
-  {
-    "title": "CSS Important GRÁTIS",
-    "description": "Nesta documentação você aprenderá sobre a regra !important e como utilizá-la no CSS para substituir estilos anteriores de um determinado elemento.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/css-important/43512",
-    "date": "19 ago",
-    "owner": "DevMedia"
-  },
-  {
-    "title": "HTML Footer: delimitando os conteúdos de rodapé no HTML GRÁTIS",
-    "description": "Nesta documentação de HTML aprenderemos um pouco sobre o que é um rodapé em uma página web e como podemos delimitá-lo através da tag footer.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/html-footer-delimitando-os-conteudos-de-rodape-no-html/43511",
-    "date": "19 ago",
-    "owner": "DevMedia"
-  },
-  {
-    "title": "HTML Header: crie o cabeçalho da página com a tag header GRÁTIS",
-    "description": "Nesta documentação aprenda sobre o elemento HTML Header, como aplicar a tag header em código HTML e como utilizar para configurar um cabeçalho para a sua página web.",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/html-header-crie-o-cabecalho-da-pagina-com-a-tag-header/43510",
-    "date": "18 ago",
-    "owner": "DevMedia"
-  },
-  {
-    "title": "Programar do zero: descubra o caminho mais inteligente! GRÁTIS",
-    "description": "Configura nesse artigo um caminho muito mais consciente para você ser um programador de sucesso e no tempo ideal. Confira!",
-    "thumbnail": null,
-    "url": "https://www.devmedia.com.br/programar-do-zero-descubra-o-caminho-mais-inteligente/43509",
-    "date": "18 ago",
-    "owner": "DevMedia"
+    "title": "TOP 10 – Retrospectiva posts 2019!",
+    "description": "Olá, pessoal! Chegamos ao final de 2019 e hoje quero fazer uma retrospectiva e mostrar quais foram os posts que vocês mais curtiram/visitaram durante todo o ano. Se você não quiser perder nenhum post de 2020, faça parte da nossaLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2019/12/top-10-2019-360x240.jpg",
+    "url": "https://emersonbroga.com/top-10-retrospectiva-posts-2019/",
+    "date": "2019-12-31T10:10:53-03:00",
+    "owner": "Emerson Brôga"
   }
 ]
