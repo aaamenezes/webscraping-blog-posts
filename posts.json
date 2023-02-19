@@ -1,82 +1,82 @@
 [
   {
-    "title": "Criando avatar Hexagonal com CSS!",
-    "description": "No post de hoje, vou dar uma dica de CSS, hoje vou mostrar como criar um avatar hexagonal no CSS.E você deve estar se perguntando, porque isso? Recentemente o Twitter implementou o uso de NFTs como avatar na plataforma eLeia mais…",
-    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2022/02/hexagonal-avatars-360x240.png",
-    "url": "https://emersonbroga.com/criando-avatar-hexagonal-com-css/",
-    "date": "2022-02-28T10:00:00-03:00",
-    "owner": "Emerson Brôga"
+    "title": "React, Angular ou Vue - Qual Framework JavaScript escolheria hoje? 🤔",
+    "description": "Os Frameworks JavaScript mais relevantes do mercado já tem alguns anos de vida e hoje podemos dizer que todos eles são muito bons e passaram com tranquilidade no filtro do tempo.",
+    "thumbnail": null,
+    "url": "https://www.felipefialho.com/blog/react-angular-vue-qual-framework-javascript-escolheria-hoje/",
+    "date": "21 jun, 2021 · Leitura de 8 min",
+    "owner": "felipefialhorssfeed"
   },
   {
-    "title": "React Memo, useMemo, useCallback e memoization",
-    "description": "Uma das dúvidas que a galera mais tem em relação ao React e seus hooks são o useMemo e o useCallback, e ninguém sabe muito bem por que e quando utilizar esses hooks. Então hoje eu resolvi explicar de formaLeia mais…",
-    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2022/02/react-memo-useMemo-useCallback-v2-360x240.jpg",
-    "url": "https://emersonbroga.com/memo-usememo-usecallback-e-memoization/",
-    "date": "2022-02-21T15:07:36-03:00",
-    "owner": "Emerson Brôga"
+    "title": "Meu primeiro site feito em 2007 😱",
+    "description": "Sempre tive curiosidade pra ver os primeiros projetos que trabalhei e depois de muito tempo procurando finalmente encontrei o primeiro site experimental que desenvolvi.",
+    "thumbnail": null,
+    "url": "https://www.felipefialho.com/blog/meu-primeiro-site-feito-em-2007-finalmente-encontrei/",
+    "date": "28 mai, 2021 · Leitura de 7 min",
+    "owner": "felipefialhorssfeed"
   },
   {
-    "title": "Loader Middleware para o Redux",
-    "description": "Opa! Se você programa em React e usa o Redux, você provavelmente já tentou imaginar uma forma fácil para exibir um feedback para o usuário enquanto uma requisição esta acontecendo. Seja na hora de submeter um formulário, seja na horaLeia mais…",
-    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2020/10/redux-loader-middleware-cover-360x240.jpg",
-    "url": "https://emersonbroga.com/loader-middleware-para-o-redux/",
-    "date": "2020-10-20T10:17:37-03:00",
-    "owner": "Emerson Brôga"
+    "title": "Collapse em 5 minutos sem JavaScript!",
+    "description": "Criando um componente de Collapse completamente funcional em menos de 5 minutos usando apenas HTML e CSS 🥳",
+    "thumbnail": null,
+    "url": "https://www.felipefialho.com/blog/html-criando-um-componente-de-collapse-nativo-com-as-tags-details-e-summary/",
+    "date": "30 abr, 2021 · Leitura de 6 min",
+    "owner": "felipefialhorssfeed"
   },
   {
-    "title": "Desmistificando o array.map(); do JavaScript.",
-    "description": "Fala dev, tudo joia? Hoje eu quero desmistificar alguns dos métodos mais utilizados nos Arrays do JavaScript, o Map. No JavaScript os arrays possuem vários métodos que facilitam a sua manipulação. Esses métodos servem para resolver problemas comuns e têmLeia mais…",
-    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2020/03/emersonbroga-com-javascript-map.jpg",
-    "url": "https://emersonbroga.com/desmistificando-o-array-map-do-javascript/",
-    "date": "2020-03-04T11:40:57-03:00",
-    "owner": "Emerson Brôga"
+    "title": "Prática x Teoria - Quando aprendemos e quando entendemos?",
+    "description": "Nesse artigo explico um pouco da diferença entre Entender e Aprender e algumas estratégias para aumentar nossos repertórios de conhecimento 😁",
+    "thumbnail": null,
+    "url": "https://www.felipefialho.com/blog/pratica-teoria-quando-aprendemos-e-quando-entendemos/",
+    "date": "28 out, 2020 · Leitura de 6 min",
+    "owner": "felipefialhorssfeed"
   },
   {
-    "title": "[passo-a-passo] Criando uma API com Node JS, os conceitos básicos para iniciantes",
-    "description": "No projeto de hoje, vamos fazer uma API simples usando NodeJS.Essa api vai ser bem simples mas já nos dará uma base bem sólida para alguns conceitos de construção de APIs como rotas, requisições e verbos HTTP.E vamos criar tudoLeia mais…",
-    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2020/02/criando-uma-api-com-nodejs.jpg",
-    "url": "https://emersonbroga.com/passo-a-passo-criando-uma-api-com-node-js-os-conceitos-basicos-para-iniciantes/",
-    "date": "2020-02-19T07:52:26-03:00",
-    "owner": "Emerson Brôga"
+    "title": "14 Hábitos de Desenvolvedores Altamente Produtivos - Resenha do Livro",
+    "description": "Esse artigo é uma resenha desse ótimo livro e de alguns hábitos que são abordados nele 📚",
+    "thumbnail": null,
+    "url": "https://www.felipefialho.com/blog/14-habitos-de-desenvolvedores-altamente-produtivos/",
+    "date": "24 set, 2020 · Leitura de 7 min",
+    "owner": "felipefialhorssfeed"
   },
   {
-    "title": "Capturando os erros de um async/await sem try catch",
-    "description": "Olá, pessoal! Hoje quero mostrar pra vocês uma forma de capturar os erros de um async await sem usar o try catch. Mas primeiro vamos recaptular, o que é mesmo um async await? async/await Vou tentar contar a historia aquiLeia mais…",
-    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2020/01/async-await-sem-try-catch-1.jpg",
-    "url": "https://emersonbroga.com/capturando-os-erros-de-um-async-await-sem-try-catch/",
-    "date": "2020-01-29T09:00:06-03:00",
-    "owner": "Emerson Brôga"
+    "title": "Variáveis CSS: Os superpoderes das variáveis nativas do CSS",
+    "description": "Nesse artigo (e vídeo) vou mostrar um pouco das poderosas variáveis nativas do CSS (aka Custom Properties) ❤️, que talvez sejam uma das coisas (infelizmente) mais sub utilizadas no CSS.",
+    "thumbnail": null,
+    "url": "https://www.felipefialho.com/blog/os-superpoderes-das-variaveis-nativas-do-css/",
+    "date": "03 set, 2020 · Leitura de 7 min",
+    "owner": "felipefialhorssfeed"
   },
   {
-    "title": "REACT – Como utilizar o React Async",
-    "description": "Olá, pessoal! Hoje eu quero mostrar como deixar o seu componente em react mais limpo e mais legível usando o react-async. Vou ensinar uma das formas de utilização da biblioteca react-async, que apresenta uma forma declarativa para resoluções de promisesLeia mais…",
-    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2019/12/react-async-360x240.jpg",
-    "url": "https://emersonbroga.com/como-utilizar-o-react-async/",
-    "date": "2020-01-22T09:00:51-03:00",
-    "owner": "Emerson Brôga"
+    "title": "CSS Grid e Flexbox - Quando utilizar?",
+    "description": "Tem dúvidas sobre quando utilizar CSS Grid e quando utilizar Flexbox? Esse artigo (e vídeo!) pode te ajudar 😁",
+    "thumbnail": null,
+    "url": "https://www.felipefialho.com/blog/css-grid-e-flexbox-quando-utilizar/",
+    "date": "11 ago, 2020 · Leitura de 6 min",
+    "owner": "felipefialhorssfeed"
   },
   {
-    "title": "Como configurar Webpack para projeto React",
-    "description": "Olá, pessoal! Hoje eu quero mostrar pra vocês o passo-a-passo de como configurar o Webpack para um projeto React! Muitas pessoas se assuntam quando a gente fala de Webpack, pois parece que vão ser inúmeras configurações complicadas e que parecemLeia mais…",
-    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2019/12/como-configurar-webpack-para-um-projeto-react-360x240.jpg",
-    "url": "https://emersonbroga.com/como-configurar-webpack-para-projeto-react/",
-    "date": "2020-01-15T09:00:26-03:00",
-    "owner": "Emerson Brôga"
+    "title": "Design System, Venice e as peças do Lego",
+    "description": "Contando mais sobre a arquitetura, o desenvolvimento e as tecnologias utilizadas no Venice, o Design System da Juntos Somos Mais.",
+    "thumbnail": null,
+    "url": "https://www.felipefialho.com/blog/design-system-venice-e-as-pecas-do-lego/",
+    "date": "19 mai, 2020 · Leitura de 10 min",
+    "owner": "felipefialhorssfeed"
   },
   {
-    "title": "5 extensões VSCode para desenvolvedores JavaScript/Node/React em 2020",
-    "description": "Olá, pessoal! Recentemente estava instalando meus programas no mac depois que ele voltou do conserto e ao instalar as extensões do VSCode e sempre aparece alguém perguntando quais extensões eu uso e hoje resolvi fazer um post pra deixar claroLeia mais…",
-    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2019/12/5-extensoes-vscode-2020-360x240.jpg",
-    "url": "https://emersonbroga.com/5-extensoes-vscode-para-desenvolvedores-javascript-node-react-em-2020/",
-    "date": "2020-01-08T09:00:38-03:00",
-    "owner": "Emerson Brôga"
+    "title": "Lidando com a quarentena do COVID-19",
+    "description": "De certa forma o mundo mudou. É importante entender a situação e buscar formas de nos adaptar nesses estranhos tempos que estamos vivendo.",
+    "thumbnail": null,
+    "url": "https://www.felipefialho.com/blog/lidando-com-a-quarentena-do-covid-19/",
+    "date": "22 mar, 2020 · Leitura de 7 min",
+    "owner": "felipefialhorssfeed"
   },
   {
-    "title": "TOP 10 – Retrospectiva posts 2019!",
-    "description": "Olá, pessoal! Chegamos ao final de 2019 e hoje quero fazer uma retrospectiva e mostrar quais foram os posts que vocês mais curtiram/visitaram durante todo o ano. Se você não quiser perder nenhum post de 2020, faça parte da nossaLeia mais…",
-    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2019/12/top-10-2019-360x240.jpg",
-    "url": "https://emersonbroga.com/top-10-retrospectiva-posts-2019/",
-    "date": "2019-12-31T10:10:53-03:00",
-    "owner": "Emerson Brôga"
+    "title": "Como se atualizar sobre Desenvolvimento (Front-end)",
+    "description": "Nesse texto vou listar algumas coisas que podem te ajudar nessa difícil (mas não impossível) missão de se atualizar no mundo de Desenvolvimento 😋",
+    "thumbnail": null,
+    "url": "https://www.felipefialho.com/blog/como-se-atualizar-sobre-desenvolvimento-front-end/",
+    "date": "27 nov, 2019 · Leitura de 13 min",
+    "owner": "felipefialhorssfeed"
   }
 ]

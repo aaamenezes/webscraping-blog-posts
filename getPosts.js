@@ -19,7 +19,6 @@ function getPostsInfo(html) {
       .join('e')
       .split('ô')
       .join('o');
-
     if (siteName) return siteName;
     
     siteName = html.querySelector('meta[name="twitter:creator"]')?.getAttribute('content')?.replace('@', '');
@@ -29,7 +28,15 @@ function getPostsInfo(html) {
       .split('.com')[0]
       .split('//')[1]
       .replace('www.', '');
+    if (siteName) return siteName;
 
+    siteName = html.querySelector('link[type="application/rss+xml"]')?.getAttribute('title')?.
+      toLowerCase()
+      .trim()
+      .split(' ')
+      .join('')
+      .split('-')
+      .join('');
     if (siteName) return siteName;
 
     return null;
@@ -49,17 +56,18 @@ function getPostsInfo(html) {
       'tabnews': 'article[class*="Box"]',
       'wsvincent': '.post-list li',
       'devmedia': '.lista-cursos-box1 .list-item',
-      'emersonbroga': 'article.card-blog'
+      'emersonbroga': 'article.card-blog',
+      'felipefialhorssfeed': '[class*="styled__BlogItem"]'
     };
 
     return map[getSitename(html)];
   }
 
   function getTitle(postElement) {
-    let title = postElement.querySelector('h2')?.innerText;
+    let title = postElement.querySelector('h1')?.innerText;
     if (title) return title;
 
-    title = postElement.querySelector('h1')?.innerText;
+    title = postElement.querySelector('h2')?.innerText;
     if (title) return title;
 
     title = postElement.querySelector('h3')?.innerText;
@@ -88,6 +96,9 @@ function getPostsInfo(html) {
     if (description) return description;
 
     description = postElement.querySelector('[class*="description"]')?.innerText;
+    if (description) return description;
+
+    description = postElement.querySelector('[class*="styled__Subtitle"]')?.innerText;
     if (description) return description;
 
     return null;
@@ -119,15 +130,19 @@ function getPostsInfo(html) {
     if (thumbnail) return thumbnail;
 
     let url = postElement.querySelector('a')?.href;
-    if (url.includes('joshwcomeau')) return 'https://www.joshwcomeau.com/assets/me-light.webp';
+    if (url?.includes('joshwcomeau')) return 'https://www.joshwcomeau.com/assets/me-light.webp';
 
-    postElement.querySelector('a').href
+    thumbnail = postElement.querySelector('a')?.href;
+    if (thumbnail) return thumbnail;
 
     return null;
   }
 
   function getUrl(postElement) {
-    let url = postElement.querySelector('a').href;
+    let url = postElement.querySelector('a')?.href;
+    if (url) return url;
+
+    url = postElement.href;
     if (url) return url;
 
     return null;
@@ -161,6 +176,15 @@ function getPostsInfo(html) {
       .split('//')[1]
       .replace('www.', '');
     if (owner) return owner;
+
+    siteName = html.querySelector('link[type="application/rss+xml"]')?.getAttribute('title')?.
+      toLowerCase()
+      .trim()
+      .split(' ')
+      .join('')
+      .split('-')
+      .join('');
+    if (siteName) return siteName;
 
     return null;
   }
@@ -219,8 +243,8 @@ function getPostsInfo(html) {
     // 'https://www.tabnews.com.br/',
     // 'https://wsvincent.com/',
     // 'https://www.devmedia.com.br/artigos/',
-    'https://emersonbroga.com/',
-    // 'https://www.felipefialho.com/blog/',
+    // 'https://emersonbroga.com/',
+    'https://www.felipefialho.com/blog/',
     // 'http://gabsferreira.com/#open',
     // 'https://khalilstemmler.com/articles',
     // 'https://kentcdodds.com/blog',
