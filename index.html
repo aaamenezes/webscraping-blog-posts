@@ -31,14 +31,17 @@
       text-decoration: none;
     }
 
-    .post-item:not(:last-child) {
-      margin-bottom: 2rem;
+    .posts-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+      max-width: 1024px;
+      margin: 0 auto;
     }
 
     .post-link {
-      display: grid;
-      grid-template-columns: 1fr 2fr;
-      gap: 0.5rem;
+      display: block;
+      height: 100%;
       padding: 1rem;
       color: currentColor;
       transition: .1s;
@@ -46,12 +49,21 @@
 
     .post-link:hover {
       color: darkorange;
+      box-shadow: 0 0 10px -0.3rem black;
+    }
+    
+    .pagination-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, 50px);
+      justify-content: center;
+      gap: 1rem;
+      max-width: 1024px;
+      padding: 1rem;
+      margin: 0 auto;
     }
 
-    .posts-list,
-    .pagination-list {
-      max-width: 600px;
-      margin: 0 auto;
+    .post-image {
+      margin-bottom: 1rem;
     }
 
     .post-title {
@@ -65,13 +77,6 @@
     .post-date {
       display: block;
       margin-bottom: 0.5rem;
-    }
-
-    .pagination-list {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, 50px);
-      gap: 1rem;
-      padding: 1rem;
     }
 
     .pagination-button {
