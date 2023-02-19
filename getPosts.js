@@ -45,7 +45,8 @@ function getPostsInfo(html) {
       'shopify': '.article--index',
       'smashingmagazine': '.article--post',
       'tabnews': 'article[class*="Box"]',
-      'wsvincent': '.post-list li'
+      'wsvincent': '.post-list li',
+      'devmedia': '.lista-cursos-box1 .list-item'
     };
 
     return map[getSitename(html)];
@@ -81,6 +82,9 @@ function getPostsInfo(html) {
     if (description) return description;
 
     description = postElement.querySelector('.article--post__teaser')?.innerText;
+    if (description) return description;
+
+    description = postElement.querySelector('.artigo-description')?.innerText;
     if (description) return description;
 
     return null;
@@ -134,6 +138,9 @@ function getPostsInfo(html) {
     if (date) return date;
 
     date = postElement.querySelector('.post-meta')?.innerText;
+    if (date) return date;
+
+    date = postElement.querySelector('.artigo-date')?.innerText;
     if (date) return date;
 
     return null;
@@ -207,8 +214,8 @@ function getPostsInfo(html) {
     // 'https://shopify.engineering/',
     // 'https://www.smashingmagazine.com/articles/',
     // 'https://www.tabnews.com.br/',
-    'https://wsvincent.com/',
-    // 'https://www.devmedia.com.br/artigos/',
+    // 'https://wsvincent.com/',
+    'https://www.devmedia.com.br/artigos/',
     // 'https://emersonbroga.com/',
     // 'https://www.felipefialho.com/blog/',
     // 'http://gabsferreira.com/#open',

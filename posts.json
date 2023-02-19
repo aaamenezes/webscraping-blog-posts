@@ -1,162 +1,162 @@
 [
   {
-    "title": "Best Django Books (2023) for Beginner and Intermediate/Advanced Programmers",
-    "description": null,
+    "title": "A temporada Fevereiro começou GRÁTIS",
+    "description": "Eu sou o DevRobot. Seja bem-vindo a segunda temporada de 2023 🙂",
     "thumbnail": null,
-    "url": "https://wsvincent.com/best-django-books/",
-    "date": "Feb 8, 2023",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/a-temporada-fevereiro-comecou/43630",
+    "date": "26 jan",
+    "owner": "DevMedia"
   },
   {
-    "title": "Small Things Finance",
-    "description": null,
+    "title": "O que são arrays e como utilizá-los no JavaScript? GRÁTIS",
+    "description": "Neste artigo você entenderá o que são arrays na programação, como eles funcionam e porque são úteis para o dia a dia do programados. Além disso, ao longo deste conteúdo você verá como utilizar arrays dentro do contexto do JavaScript.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/small-things-finance/",
-    "date": "Jan 3, 2023",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/o-que-sao-arrays-e-como-utiliza-los-no-javascript/43563",
+    "date": "31 out",
+    "owner": "DevMedia"
   },
   {
-    "title": "Year in Review (2022)",
-    "description": null,
+    "title": "O que um programador faz? GRÁTIS",
+    "description": "De acordo com os dados do Google, a busca pela profissão de programador teve um aumento de 30%, comparado a 2021. Neste artigo você conhece a rotina, áreas de atuação e muito mais dessa carreira.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/2022-year-in-review/",
-    "date": "Dec 16, 2022",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/o-que-um-programador-faz/43562",
+    "date": "25 out",
+    "owner": "DevMedia"
   },
   {
-    "title": "Personal Thoughts on the Django Software Foundation Board's Future",
-    "description": null,
+    "title": "Tabela salarial de programador GRÁTIS",
+    "description": "Descubra como está o mercado atual da programação, onde um profissional pode atuar e, ainda conferir a tabela salarial de programador.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/dsf-board-future/",
-    "date": "Oct 25, 2022",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/tabela-salarial-de-programador/43556",
+    "date": "14 out",
+    "owner": "DevMedia"
   },
   {
-    "title": "Podcast How-To Guide: Microphones, Headphones, Hosting, and More",
-    "description": null,
+    "title": "Ciclo de vida de um componente React com o Effect Hook GRÁTIS",
+    "description": "Neste artigo você aprenderá o que é o ciclo de vida de um componente React, quais as suas fases e como é possível utilizar o Hook useEffect para criar essas fases.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/learning-how-to-podcast/",
-    "date": "Oct 12, 2022",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/ciclo-de-vida-de-um-componente-react-com-o-effect-hook/43555",
+    "date": "14 out",
+    "owner": "DevMedia"
   },
   {
-    "title": "Mac Configuration for Web Development (2022)",
-    "description": null,
+    "title": "Utilizando Styled Components no React GRÁTIS",
+    "description": "Neste artigo você aprenderá sobre a biblioteca Styled Components e como a utilizamos para criar componentes de estilo em React JS.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/mac-config-webdev/",
-    "date": "Sep 1, 2022",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/utilizando-styled-components-no-react/43554",
+    "date": "13 out",
+    "owner": "DevMedia"
   },
   {
-    "title": "Django for Professionals 4.0 Update",
-    "description": null,
+    "title": "Fundamentos básicos de JavaScript necessários para aprender React GRÁTIS",
+    "description": "Neste artigo você saberemos quais os conceitos básicos na linguagem JavaScript você precisará ter para começar a aprender a biblioteca React JS.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/django-for-professionals-40-update/",
-    "date": "May 19, 2022",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/fundamentos-basicos-de-javascript-necessarios-para-aprender-react/43553",
+    "date": "11 out",
+    "owner": "DevMedia"
   },
   {
-    "title": "Django for APIs 4.0 Update",
-    "description": null,
+    "title": "Como começar a programar e mudar de carreira GRÁTIS",
+    "description": "Aprenda como trocar de profissão e entrar para a área de programação, para mudar de carreira e começar a programar não é preciso fazer faculdade.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/django-for-apis-40-update/",
-    "date": "Feb 24, 2022",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/como-comecar-a-programar-e-mudar-de-carreira/43524",
+    "date": "14 set",
+    "owner": "DevMedia"
   },
   {
-    "title": "How to Work Through Django Books",
-    "description": null,
+    "title": "Quando me candidatar à uma vaga de programador GRÁTIS",
+    "description": "Veja nesse artigo quais são os fatores que devem ser analisados para buscar a sua primeira vaga de programador.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/how-to-work-through-django-books/",
-    "date": "Feb 15, 2022",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/quando-me-candidatar-a-uma-vaga-de-programador/43523",
+    "date": "30 ago",
+    "owner": "DevMedia"
   },
   {
-    "title": "Django for Beginners 3.2 Update",
-    "description": null,
+    "title": "CSS Border GRÁTIS",
+    "description": "Nesta documentação você aprenderá sobre a propriedade CSS border, suas características e como utilizá-la no código CSS para definir a borda de um elemento HTML.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/django-for-beginners-32-update/",
-    "date": "Nov 1, 2021",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/css-border/43522",
+    "date": "30 ago",
+    "owner": "DevMedia"
   },
   {
-    "title": "Updating My Home Internet to 1.2Gb",
-    "description": null,
+    "title": "Diferenças entre programação Front-end e Back-end GRÁTIS",
+    "description": "Neste artigo vamos falar sobre as diferenças entre o desenvolvimento front-end e back-end, além de apresentar algumas das linguagens de programação mais utilizadas para cada um desses objetivos.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/updating-my-home-internet/",
-    "date": "Jul 25, 2021",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/diferencas-entre-programacao-front-end-e-back-end/43518",
+    "date": "29 ago",
+    "owner": "DevMedia"
   },
   {
-    "title": "Python 3 Installation & Setup Guide",
-    "description": null,
+    "title": "HTML Icons: utilizando ícones em páginas HTML GRÁTIS",
+    "description": "Nesta documentação de HTML falaremos sobre como utilizar ícones no HTML de maneira simples através da biblioteca Fonts Awesome, além de aprender como definir o favicon de uma página HTML.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/install-python/",
-    "date": "Jul 19, 2021",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/html-icons-utilizando-icones-em-paginas-html/43517",
+    "date": "24 ago",
+    "owner": "DevMedia"
   },
   {
-    "title": "Year in Review (2020)",
-    "description": null,
+    "title": "HTML hr: como utilizar a tag hr para criar quebras de linhas temáticas GRÁTIS",
+    "description": "Nesta documentação aprenda sobre o elemento HTML hr, como aplicar a tag hr em código HTML e como podemos utilizá-la para criar quebras de linhas temáticas.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/year-in-review-for-2020/",
-    "date": "Dec 18, 2020",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/html-hr-como-utilizar-a-tag-hr-para-criar-quebras-de-linhas-tematicas/43516",
+    "date": "24 ago",
+    "owner": "DevMedia"
   },
   {
-    "title": "Learn Tailwind CSS - A Beginner's Guide",
-    "description": null,
+    "title": "HTML Iframe GRÁTIS",
+    "description": "Nesta documentação você aprenderá sobre o elemento HTML iframe, como aplicar a tag iframe em código HTML e como podemos utilizá-la para adicionar conteúdos de uma página externa na página atual.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/learn-tailwind-css-beginners-guide/",
-    "date": "Nov 23, 2020",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/html-iframe/43515",
+    "date": "24 ago",
+    "owner": "DevMedia"
   },
   {
-    "title": "The E-Myth Revisited by Michael E. Gerber - Book Review",
-    "description": null,
+    "title": "HTML DOCTYPE GRÁTIS",
+    "description": "Nesta documentação aprenda sobre o !DOCTYPE html, como aplicar a declaração no código HTML e como podemos utilizá-la para informar ao navegador a versão do documento HTML.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/emyth-revisited-book-review/",
-    "date": "Nov 16, 2020",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/html-doctype/43514",
+    "date": "22 ago",
+    "owner": "DevMedia"
   },
   {
-    "title": "A Year in the Life of a DSF Board Member",
-    "description": null,
+    "title": "HTML HREF: referenciando URLs externas no HTML GRÁTIS",
+    "description": "Nesta documentação de HTML falaremos sobre o atributo href, utilizado por algumas tags HTML para fazer referência a URLs externas, sejam elas arquivos ou links.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/a-year-in-the-life-of-a-dsf-board-member/",
-    "date": "Oct 20, 2020",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/html-href-referenciando-urls-externas-no-html/43513",
+    "date": "22 ago",
+    "owner": "DevMedia"
   },
   {
-    "title": "How to Contribute to Django Docs",
-    "description": null,
+    "title": "CSS Important GRÁTIS",
+    "description": "Nesta documentação você aprenderá sobre a regra !important e como utilizá-la no CSS para substituir estilos anteriores de um determinado elemento.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/how-to-contribute-to-django-docs/",
-    "date": "Sep 30, 2020",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/css-important/43512",
+    "date": "19 ago",
+    "owner": "DevMedia"
   },
   {
-    "title": "Working in Public by Nadia Eghbal - Book Review",
-    "description": null,
+    "title": "HTML Footer: delimitando os conteúdos de rodapé no HTML GRÁTIS",
+    "description": "Nesta documentação de HTML aprenderemos um pouco sobre o que é um rodapé em uma página web e como podemos delimitá-lo através da tag footer.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/working-in-public-book-review/",
-    "date": "Sep 10, 2020",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/html-footer-delimitando-os-conteudos-de-rodape-no-html/43511",
+    "date": "19 ago",
+    "owner": "DevMedia"
   },
   {
-    "title": "What Happens When You Type in a URL",
-    "description": null,
+    "title": "HTML Header: crie o cabeçalho da página com a tag header GRÁTIS",
+    "description": "Nesta documentação aprenda sobre o elemento HTML Header, como aplicar a tag header em código HTML e como utilizar para configurar um cabeçalho para a sua página web.",
     "thumbnail": null,
-    "url": "https://wsvincent.com/what-happens-when-url/",
-    "date": "Sep 8, 2020",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/html-header-crie-o-cabecalho-da-pagina-com-a-tag-header/43510",
+    "date": "18 ago",
+    "owner": "DevMedia"
   },
   {
-    "title": "A Month in the Life of a DSF Board Member",
-    "description": null,
+    "title": "Programar do zero: descubra o caminho mais inteligente! GRÁTIS",
+    "description": "Configura nesse artigo um caminho muito mais consciente para você ser um programador de sucesso e no tempo ideal. Confira!",
     "thumbnail": null,
-    "url": "https://wsvincent.com/a-month-in-the-life-of-a-dsf-board-member/",
-    "date": "Apr 14, 2020",
-    "owner": "wsvincent"
+    "url": "https://www.devmedia.com.br/programar-do-zero-descubra-o-caminho-mais-inteligente/43509",
+    "date": "18 ago",
+    "owner": "DevMedia"
   }
 ]
