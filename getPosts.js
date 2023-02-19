@@ -70,7 +70,8 @@ function getPostsInfo(html) {
       'emersonbroga': 'article.card-blog',
       'felipefialhorssfeed': '[class*="styled__BlogItem"]',
       'gabsferreira': 'ol.posts li',
-      'khalilstemmler': '.article-card:not(:empty)'
+      'khalilstemmler': '.article-card:not(:empty)',
+      'kentcdodds': '.col-span-4.mb-10, .relative.grid.grid-cols-4.gap-x-4.mx-auto.max-w-7xl.group.rounded-lg.pb-6.pt-14'
     };
 
     return map[getSitename(html)];
@@ -90,6 +91,9 @@ function getPostsInfo(html) {
     if (title) return title;
 
     title = postElement.querySelector('a')?.innerText;
+    if (title) return title;
+
+    title = postElement.querySelector('.font-medium.text-black')?.innerText;
     if (title) return title;
 
     return null;
@@ -145,6 +149,9 @@ function getPostsInfo(html) {
     thumbnail = postElement.querySelector('img')?.src;
     if (thumbnail) return thumbnail;
 
+    thumbnail = postElement.querySelector('.transition-opacity')?.src;
+    if (thumbnail) return thumbnail;
+
     let url = postElement.querySelector('a')?.href;
     if (url?.includes('joshwcomeau')) return 'https://www.joshwcomeau.com/assets/me-light.webp';
 
@@ -178,6 +185,12 @@ function getPostsInfo(html) {
     if (date) return date;
 
     date = postElement.querySelector('.artigo-date')?.innerText;
+    if (date) return date;
+
+    date = postElement.querySelector('.mt-6.text-xl.font-medium.text-slate-500')?.innerText;
+    if (date) return date;
+
+    date = postElement.querySelector('.mt-8.text-xl.font-medium.text-slate-500')?.innerText;
     if (date) return date;
 
     return null;
@@ -265,8 +278,8 @@ function getPostsInfo(html) {
     // 'https://emersonbroga.com/',
     // 'https://www.felipefialho.com/blog/',
     // 'http://gabsferreira.com/#open',
-    'https://khalilstemmler.com/articles',
-    // 'https://kentcdodds.com/blog',
+    // 'https://khalilstemmler.com/articles',
+    'https://kentcdodds.com/blog',
     // 'https://www.lambda3.com.br/blog/',
     // 'https://medium.com/?feed=following',
     // 'https://neilpatel.com/br/blog/',
