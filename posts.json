@@ -1,122 +1,162 @@
 [
   {
-    "title": "Boas práticas para devs em início de carreira",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/author/felipe/",
-    "url": "https://blog.rocketseat.com.br/author/felipe/",
-    "date": "há 9 meses",
-    "owner": "Blog da Rocketseat"
+    "title": "Simara Conceição: da ThoughtWorks ao quero ser dev",
+    "description": "Devs front-end que você precisa conhecer",
+    "thumbnail": "https://tableless.com.br/simara-conceicao/",
+    "url": "https://tableless.com.br/simara-conceicao/",
+    "date": null,
+    "owner": "tableless"
   },
   {
-    "title": "Comunidade: guia prático de como contribuir para o ecossistema de tecnologia",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/author/felipe/",
-    "url": "https://blog.rocketseat.com.br/author/felipe/",
-    "date": "há 9 meses",
-    "owner": "Blog da Rocketseat"
+    "title": "Rafa Ballerini",
+    "description": "Devs front-end que você precisa conhecer",
+    "thumbnail": "https://tableless.com.br/rafa-ballerini/",
+    "url": "https://tableless.com.br/rafa-ballerini/",
+    "date": null,
+    "owner": "tableless"
   },
   {
-    "title": "Next Level Week: os caminhos que trilhamos até aqui",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/author/felipe/",
-    "url": "https://blog.rocketseat.com.br/author/felipe/",
-    "date": "há 10 meses",
-    "owner": "Blog da Rocketseat"
+    "title": "FRONTIN Elas Programam 2022",
+    "description": "As comunidades tech FRONTIN e Elas Programam se unem para criar evento exclusivo para mulheres programadoras",
+    "thumbnail": "https://tableless.com.br/frontin-elas-programam-2022/",
+    "url": "https://tableless.com.br/frontin-elas-programam-2022/",
+    "date": null,
+    "owner": "tableless"
   },
   {
-    "title": "Prisma: uma das melhores coisas que já aconteceu no ecossistema?",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/author/felipe/",
-    "url": "https://blog.rocketseat.com.br/author/felipe/",
-    "date": "há 10 meses",
-    "owner": "Blog da Rocketseat"
+    "title": "Tableless by FRONTIN",
+    "description": "O tradicional blog Tableless se une à comunidade FRONTIN para continuar produzindo conteúdo sobre programação e tecnologia",
+    "thumbnail": "https://tableless.com.br/tableless-by-frontin/",
+    "url": "https://tableless.com.br/tableless-by-frontin/",
+    "date": null,
+    "owner": "tableless"
   },
   {
-    "title": "Código Limpo: reflexão e prática",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/author/felipe/",
-    "url": "https://blog.rocketseat.com.br/author/felipe/",
-    "date": "há um ano",
-    "owner": "Blog da Rocketseat"
+    "title": "Como e porquê organizar a sua pirâmide de testes",
+    "description": "Como organizo minha pirâmide de testes para meus projetos front-end no BEES Brasil.",
+    "thumbnail": "https://tableless.com.br/como-e-porqu%C3%AA-organizar-a-sua-pir%C3%A2mide-de-testes/",
+    "url": "https://tableless.com.br/como-e-porqu%C3%AA-organizar-a-sua-pir%C3%A2mide-de-testes/",
+    "date": null,
+    "owner": "tableless"
   },
   {
-    "title": "Boas práticas para devs em início de carreira",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/05/Boas_praticas_para_devs_em_inicio_de_carreira.png",
-    "url": "https://blog.rocketseat.com.br/boas-praticas-para-devs-em-inicio-de-carreira/",
-    "date": "há 9 meses",
-    "owner": "Blog da Rocketseat"
+    "title": "Por que criar um site empresarial?",
+    "description": "Ter presença digital não se trata de um adereço, mas de uma necessidade.",
+    "thumbnail": "https://tableless.com.br/por-que-criar-um-site-empresarial-1/",
+    "url": "https://tableless.com.br/por-que-criar-um-site-empresarial-1/",
+    "date": null,
+    "owner": "tableless"
   },
   {
-    "title": "Comunidade: guia prático de como contribuir para o ecossistema de tecnologia",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/05/blog-rocketseat-guia_pratico_de_como_contribuir_em_comunidade.png",
-    "url": "https://blog.rocketseat.com.br/comunidade-guia-pratico-de-como-contribuir-para-o-ecossistema-de-tecnologia/",
-    "date": "há 9 meses",
-    "owner": "Blog da Rocketseat"
+    "title": "Sequelize - A solução para seus relacionamentos!",
+    "description": "Nesse artigo vamos focar em como fazer relacionamentos entre tabelas, usando Sequelize ORM e Node.js.",
+    "thumbnail": "https://tableless.com.br/sequelize-a-solu%C3%A7%C3%A3o-para-seus-relacionamentos/",
+    "url": "https://tableless.com.br/sequelize-a-solu%C3%A7%C3%A3o-para-seus-relacionamentos/",
+    "date": null,
+    "owner": "tableless"
   },
   {
-    "title": "Next Level Week: os caminhos que trilhamos até aqui",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/04/nlw-next-level-week-blog-rocketseat.png",
-    "url": "https://blog.rocketseat.com.br/o-que-e-next-level-week/",
-    "date": "há 10 meses",
-    "owner": "Blog da Rocketseat"
+    "title": "UX/UI & Skething nas rotas do Design",
+    "description": "Sobre a área de design com foco em suas terminologia no passado e no presente",
+    "thumbnail": "https://tableless.com.br/ux-ui-skething-nas-rotas-do-design/",
+    "url": "https://tableless.com.br/ux-ui-skething-nas-rotas-do-design/",
+    "date": null,
+    "owner": "tableless"
   },
   {
-    "title": "Prisma: uma das melhores coisas que já aconteceu no ecossistema?",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/04/prisma-rocketseat-blog.png",
-    "url": "https://blog.rocketseat.com.br/prisma-uma-das-melhores-coisa-que-ja-aconteceu-no-ecossistema/",
-    "date": "há 10 meses",
-    "owner": "Blog da Rocketseat"
+    "title": "Sympla está contratando front-ends",
+    "description": "Quer trabalhar em uma empresa que vai te valorizar? Entra pra Sympla.",
+    "thumbnail": "https://tableless.com.br/estamos-contratando-vagas-front-end-sympla/",
+    "url": "https://tableless.com.br/estamos-contratando-vagas-front-end-sympla/",
+    "date": null,
+    "owner": "tableless"
   },
   {
-    "title": "Código Limpo: reflexão e prática",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/02/cleancode-rocketseat-blog.png",
-    "url": "https://blog.rocketseat.com.br/codigo-livre/",
-    "date": "há um ano",
-    "owner": "Blog da Rocketseat"
+    "title": "Da reconstrução do código-fonte ao melhoramento de efeitos sonoros e visuais, Overwatch 2 tem todo potencial para ser um jogo quase perfeito",
+    "description": "Overwatch e potencial de jogo perfeito",
+    "thumbnail": "https://tableless.com.br/da-reconstru%C3%A7%C3%A3o-do-c%C3%B3digo-fonte-ao-melhoramento-de-efeitos-sonoros-e-visuais-overwatch-2-tem-todo-potencial-para-ser-um-jogo-quase-perfeito/",
+    "url": "https://tableless.com.br/da-reconstru%C3%A7%C3%A3o-do-c%C3%B3digo-fonte-ao-melhoramento-de-efeitos-sonoros-e-visuais-overwatch-2-tem-todo-potencial-para-ser-um-jogo-quase-perfeito/",
+    "date": null,
+    "owner": "tableless"
   },
   {
-    "title": "npm: pacotes, pacotes e pacotes",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/02/npm-linguagem-rocketseat-blog.png",
-    "url": "https://blog.rocketseat.com.br/npm-pacotes-pacotes-e-pacotes/",
-    "date": "há um ano",
-    "owner": "Blog da Rocketseat"
+    "title": "Gerenciando equipes de alta performance em meio ao crescimento",
+    "description": "Mantendo a alta performance tendo a contratação como uma opção e não como regra.",
+    "thumbnail": "https://tableless.com.br/gerenciando-equipes-de-alta-performance/",
+    "url": "https://tableless.com.br/gerenciando-equipes-de-alta-performance/",
+    "date": null,
+    "owner": "tableless"
   },
   {
-    "title": "TypeScript: por trás do superset de JavaScript",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/02/typescript-linguagem-rocketseat-blog.png",
-    "url": "https://blog.rocketseat.com.br/typescript-um-superset-de-javascript-que-adicionou-tipagem-e-novos-recursos-na-linguagem/",
-    "date": "há um ano",
-    "owner": "Blog da Rocketseat"
+    "title": "PMs decidem negócio?",
+    "description": "A responsabilidade de uma PM é o direcionamento do produto, não do negócio",
+    "thumbnail": "https://tableless.com.br/productmanagers-nao-decidem-negocio/",
+    "url": "https://tableless.com.br/productmanagers-nao-decidem-negocio/",
+    "date": null,
+    "owner": "tableless"
   },
   {
-    "title": "Python: linguagem popular com berço na comédia inglesa",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/02/python-linguagem-rocketseat-blog.png",
-    "url": "https://blog.rocketseat.com.br/python-linguagem-popular-com-berco-na-comedia-inglesa/",
-    "date": "há um ano",
-    "owner": "Blog da Rocketseat"
+    "title": "O que é UX e qual a sua importância? ",
+    "description": "Entendendo qual a importância do UX em grandes sites.",
+    "thumbnail": "https://tableless.com.br/o-que-%C3%A9-ux-e-qual-a-sua-import%C3%A2ncia/",
+    "url": "https://tableless.com.br/o-que-%C3%A9-ux-e-qual-a-sua-import%C3%A2ncia/",
+    "date": null,
+    "owner": "tableless"
   },
   {
-    "title": "Elixir: por trás da linguagem de programação brasileira",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/02/elixir-linguagem-rocketseat-blog.png",
-    "url": "https://blog.rocketseat.com.br/elixir-por-tras-da-linguagem-de-programacao-brasileira/",
-    "date": "há um ano",
-    "owner": "Blog da Rocketseat"
+    "title": "Como criar um conteúdo que indexa entre os primeiros do Google",
+    "description": "Descubra como obter uma classificação mais alta no Google e o que fazer se seu tráfego cair em alguma atualização.",
+    "thumbnail": "https://tableless.com.br/como-criar-um-conteudo-que-indexa-entre-os-primeiros-do-google/",
+    "url": "https://tableless.com.br/como-criar-um-conteudo-que-indexa-entre-os-primeiros-do-google/",
+    "date": null,
+    "owner": "tableless"
   },
   {
-    "title": "JAMstack: geleia de JavaScript, API e Markup",
-    "description": null,
-    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/02/Rocketseat-JAMstack-blog.png",
-    "url": "https://blog.rocketseat.com.br/jamstack-geleia-de-javascript-api-e-markup/",
-    "date": "há um ano",
-    "owner": "Blog da Rocketseat"
+    "title": "Não tem um PC gamer? Conheça 5 jogos leves para você se divertir em 2020",
+    "description": "Se você deseja um equipamento top de linha, não há limite para a quantia de dinheiro que você pode gastar para montar um PC para jogos, o famoso “PC gamer”.",
+    "thumbnail": "https://tableless.com.br/nao-tem-um-pc-gamer-conheca-5-jogos-leves-para-voce-se-divertir-em-2020/",
+    "url": "https://tableless.com.br/nao-tem-um-pc-gamer-conheca-5-jogos-leves-para-voce-se-divertir-em-2020/",
+    "date": null,
+    "owner": "tableless"
+  },
+  {
+    "title": "Popularização de transmissões ao vivo pela internet incrementa democracia nas redes",
+    "description": "Popularização de transmissões ao vivo pela internet incrementa democracia nas redes",
+    "thumbnail": "https://tableless.com.br/populariza%C3%A7%C3%A3o-de-transmiss%C3%B5es-ao-vivo-pela-internet-incrementa-democracia-nas-redes/",
+    "url": "https://tableless.com.br/populariza%C3%A7%C3%A3o-de-transmiss%C3%B5es-ao-vivo-pela-internet-incrementa-democracia-nas-redes/",
+    "date": null,
+    "owner": "tableless"
+  },
+  {
+    "title": "Construtor de sites x web designer: qual opção escolher para criar o site da sua empresa",
+    "description": "construtor de sites x web designer: qual opção escolher para criar o site da sua empresa",
+    "thumbnail": "https://tableless.com.br/construtor-de-sites-x-web-designer-qual-op%C3%A7%C3%A3o-escolher-para-criar-o-site-da-sua-empresa/",
+    "url": "https://tableless.com.br/construtor-de-sites-x-web-designer-qual-op%C3%A7%C3%A3o-escolher-para-criar-o-site-da-sua-empresa/",
+    "date": null,
+    "owner": "tableless"
+  },
+  {
+    "title": "Trabalho remoto e cassinos: uma combinação que tem dado cada vez mais certo",
+    "description": "Trabalho remoto e cassinos: uma combinação que tem dado cada vez mais certo",
+    "thumbnail": "https://tableless.com.br/trabalho-remoto-e-cassinos-uma-combina%C3%A7%C3%A3o-que-tem-dado-cada-vez-mais-certo/",
+    "url": "https://tableless.com.br/trabalho-remoto-e-cassinos-uma-combina%C3%A7%C3%A3o-que-tem-dado-cada-vez-mais-certo/",
+    "date": null,
+    "owner": "tableless"
+  },
+  {
+    "title": "Por que criar um site empresarial?",
+    "description": "Sua empresa ou pequeno negócio precisa de um site profissional para alavancar vendas",
+    "thumbnail": "https://tableless.com.br/por-que-criar-um-site-empresarial/",
+    "url": "https://tableless.com.br/por-que-criar-um-site-empresarial/",
+    "date": null,
+    "owner": "tableless"
+  },
+  {
+    "title": "Quando usar TypeScript",
+    "description": "Aperfeiçoado e amadurecendo: quando usar TypeScript?",
+    "thumbnail": "https://tableless.com.br/quando-usar-typescript/",
+    "url": "https://tableless.com.br/quando-usar-typescript/",
+    "date": null,
+    "owner": "tableless"
   }
 ]

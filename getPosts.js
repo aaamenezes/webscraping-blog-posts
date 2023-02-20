@@ -38,6 +38,22 @@ function getPostsInfo(html) {
       .split('|')
       .join('');
     if (siteName) return siteName;
+    
+    siteName = html.querySelector('meta[name="twitter:site"]')?.getAttribute('content')?.
+      replace('@', '')
+      .toLowerCase()
+      .trim()
+      .split(' ')
+      .join('')
+      .split('-')
+      .join('')
+      .split('ê')
+      .join('e')
+      .split('ô')
+      .join('o')
+      .split('|')
+      .join('');
+    if (siteName) return siteName;
 
     siteName = html.querySelector('link[rel="canonical"]')?.href
       .split('.com')[0]
@@ -81,7 +97,8 @@ function getPostsInfo(html) {
       'lambda3': '.post-item.item',
       'neilpatel': '.post-first.hentry, .post.type-post.status-publish',
       'reinaldoferraz': 'article.post',
-      'blogdarocketseat': 'article.m-featured-article, article.m-article-card.post'
+      'blogdarocketseat': 'article.m-featured-article, article.m-article-card.post',
+      'tableless': '.tb-list-all-posts .tb-list-item'
     };
 
     return map[getSitename(html)];
@@ -137,6 +154,8 @@ function getPostsInfo(html) {
     description = postElement.querySelector('p')?.innerText;
     if (description) return description;
 
+    let title = document.querySelector('h2')?.nextElementSibling.innerText;
+
     return null;
   }
 
@@ -174,8 +193,11 @@ function getPostsInfo(html) {
     let url = postElement.querySelector('a')?.href;
     if (url?.includes('joshwcomeau')) return 'https://www.joshwcomeau.com/assets/me-light.webp';
 
-    let siteName = html.querySelector('meta[property="og:site_name"]')?.content
-    if (siteName === 'Gabs Ferreira') return 'http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg'
+    let siteName = html.querySelector('meta[property="og:site_name"]')?.content;
+    if (siteName === 'Gabs Ferreira') return 'http://gabsferreira.com/content/images/2021/03/159618622_3758044027596962_8077086665797277201_n.jpg';
+
+    siteName = html.querySelector('meta[property="twitter:site"]')?.content;
+    if (siteName === 'tableless') return 'https://tableless.com.br/images/logo.svg';
 
     thumbnail = postElement.querySelector('a')?.href;
     if (thumbnail) return thumbnail;
@@ -237,7 +259,7 @@ function getPostsInfo(html) {
       .replace('www.', '');
     if (owner) return owner;
 
-    siteName = html.querySelector('link[type="application/rss+xml"]')?.getAttribute('title')?.
+    owner = html.querySelector('link[type="application/rss+xml"]')?.getAttribute('title')?.
       toLowerCase()
       .trim()
       .split(' ')
@@ -246,7 +268,10 @@ function getPostsInfo(html) {
       .join('')
       .split('|')
       .join('');
-    if (siteName) return siteName;
+    if (owner) return owner;
+    
+    owner = html.querySelector('meta[name="twitter:site"]')?.getAttribute('content')?.replace('@', '')
+    if (owner) return owner;
 
     return null;
   }
@@ -313,8 +338,8 @@ function getPostsInfo(html) {
     // 'https://kentcdodds.com/blog',
     // 'https://www.lambda3.com.br/blog/',
     // 'https://reinaldoferraz.com.br/',
-    'https://blog.rocketseat.com.br/',
-    // 'https://tableless.com.br/todos-os-posts/',
+    // 'https://blog.rocketseat.com.br/',
+    'https://tableless.com.br/todos-os-posts/',
     // 'https://viverdeblog.com/',
     // 'https://willianjusten.com.br/',
     // 'https://blog.globalcode.com.br/',
