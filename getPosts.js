@@ -98,7 +98,8 @@ function getPostsInfo(html) {
       'neilpatel': '.post-first.hentry, .post.type-post.status-publish',
       'reinaldoferraz': 'article.post',
       'blogdarocketseat': 'article.m-featured-article, article.m-article-card.post',
-      'tableless': '.tb-list-all-posts .tb-list-item'
+      'tableless': '.tb-list-all-posts .tb-list-item',
+      'viverdeblog': '.featured-posts .col-md-6.col-sm-12, .vdb-card.simple'
     };
 
     return map[getSitename(html)];
@@ -112,6 +113,12 @@ function getPostsInfo(html) {
     if (title) return title;
 
     title = postElement.querySelector('h3')?.innerText;
+    if (title) return title;
+
+    title = postElement.querySelector('h4')?.innerText;
+    if (title) return title;
+
+    title = postElement.querySelector('h5')?.innerText;
     if (title) return title;
 
     title = postElement.querySelector('.article-card--title')?.innerText;
@@ -339,8 +346,8 @@ function getPostsInfo(html) {
     // 'https://www.lambda3.com.br/blog/',
     // 'https://reinaldoferraz.com.br/',
     // 'https://blog.rocketseat.com.br/',
-    'https://tableless.com.br/todos-os-posts/',
-    // 'https://viverdeblog.com/',
+    // 'https://tableless.com.br/todos-os-posts/',
+    'https://viverdeblog.com/blog',
     // 'https://willianjusten.com.br/',
     // 'https://blog.globalcode.com.br/',
     // 'https://wkrh.com.br/blog/',
