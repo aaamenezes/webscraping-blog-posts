@@ -1,98 +1,82 @@
 [
   {
-    "title": "Como identificar a causa raiz de um problema",
-    "description": "Não consigo identificar a causa raiz de um problema, e agora? Se deparar com problemas faz parte do trabalho diário de qualquer time.",
-    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2023/01/Blog-5-porques.png",
-    "url": "https://www.lambda3.com.br/2023/02/como-identificar-a-causa-raiz-de-um-problema/",
-    "date": "Escrito por Felipe Teixeira em 6 de fevereiro de 2023",
-    "owner": "Lambda3 |"
+    "title": "ChatGPT e Acessibilidade digital",
+    "description": "O que acontece quando pedimos ajuda sobre acessibilidade digital no ChatGPT? Fiz esse teste e o resultado foi bem interessante. O termo do momento é o ChatGPT, que permite a...",
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2023/01/thumb-gpt-610x606.jpg",
+    "url": "https://reinaldoferraz.com.br/chatgpt-e-acessibilidade-digital/",
+    "date": null,
+    "owner": "Reinaldo Ferraz"
   },
   {
-    "title": "Migração para nuvem e negócios digitais",
-    "description": "Migração para nuvem e negócios digitais: afinal, os impactos não são apenas tecnológicos As tendências capazes de direcionar o futuro do mercado da tecnologia são sempre discutidas neste período do ano.",
-    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2023/02/Tech-0202.png",
-    "url": "https://www.lambda3.com.br/2023/02/migracao-para-nuvem-e-negocios-digitais/",
-    "date": "Escrito por Leticia Kawakami em 1 de fevereiro de 2023",
-    "owner": "Lambda3 |"
+    "title": "Leitores de tela, hashtags e emojis",
+    "description": null,
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2022/09/capa-emojis-e1663341238175.jpg",
+    "url": "https://reinaldoferraz.com.br/leitores-de-tela-hashtags-e-emojis/",
+    "date": "2022-09-16T15:57:00+00:00",
+    "owner": "Reinaldo Ferraz"
   },
   {
-    "title": "Rodando Docker no Windows sem Docker Desktop",
-    "description": "Estou avaliando uma série de ferramentas para substituir o Docker Desktop.",
-    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2023/01/Blog-3001.png",
-    "url": "https://www.lambda3.com.br/2023/01/rodando-docker-no-windows-sem-docker-desktop/",
-    "date": "Escrito por Giovanni Bassi em 31 de janeiro de 2023",
-    "owner": "Lambda3 |"
+    "title": "Input type, inputmode e acessibilidade",
+    "description": null,
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2022/05/input3.jpg",
+    "url": "https://reinaldoferraz.com.br/input-type-inputmode-e-acessibilidade/",
+    "date": "2022-05-06T16:32:25+00:00",
+    "owner": "Reinaldo Ferraz"
   },
   {
-    "title": "Retrospectiva 2022 | Episódios mais ouvidos do #PodcastDaLambda",
-    "description": "Dezembro chega trazendo com ele algumas expectativas.",
-    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/12/Retro_Podcast_-_Blog.png",
-    "url": "https://www.lambda3.com.br/2022/12/retrospectiva-2022-episodios-mais-ouvidos-do-podcastdalambda/",
-    "date": "Escrito por Marketing Lambda3 em 15 de dezembro de 2022",
-    "owner": "Lambda3 |"
+    "title": "Vídeos sobre tecnologia",
+    "description": null,
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2022/03/tecnologia.jpg",
+    "url": "https://reinaldoferraz.com.br/videos-sobre-tecnologia/",
+    "date": "2022-03-04T21:02:01+00:00",
+    "owner": "Reinaldo Ferraz"
   },
   {
-    "title": "Novos negócios em Java ampliam soluções para 2023",
-    "description": "Expansão de novos negócios em Java amplia e diversifica nossa prateleira de soluções para 2023 Há 12 anos o mercado reconhece a Lambda3 como referência em tecnologia e inovação, através de um modelo ágil de entrega focado em projetos em linguagem .",
-    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/12/Java.png",
-    "url": "https://www.lambda3.com.br/2022/12/novos-negocios-em-java-ampliam-solucoes-para-2023/",
-    "date": "Escrito por Giovanni Bassi em 14 de dezembro de 2022",
-    "owner": "Lambda3 |"
+    "title": "Hello",
+    "description": null,
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2021/11/hello3.jpg",
+    "url": "https://reinaldoferraz.com.br/hello/",
+    "date": "2021-11-05T20:59:35+00:00",
+    "owner": "Reinaldo Ferraz"
   },
   {
-    "title": "Retrospectiva 2022 | Conteúdos mais lidos no Blog da Lambda3",
-    "description": "Chegou aquele momento em que a gente apresenta nossa retrospectiva de conteúdos que mais foram acessadas no #BlogDaLambda.",
-    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/12/Retro_Blog_-_Blog.png",
-    "url": "https://www.lambda3.com.br/2022/12/retrospectiva-2022-conteudos-mais-lidos-no-blog-da-lambda3/",
-    "date": "Escrito por Marketing Lambda3 em 13 de dezembro de 2022",
-    "owner": "Lambda3 |"
+    "title": "Curso de Design de Interfaces Acessíveis",
+    "description": null,
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2020/07/curso-puc4.jpg",
+    "url": "https://reinaldoferraz.com.br/curso-de-design-de-interfaces-acessiveis/",
+    "date": "2021-09-01T23:55:00+00:00",
+    "owner": "Reinaldo Ferraz"
   },
   {
-    "title": "Data Meet | Ciência de Dados do Mundo Real",
-    "description": "A área de Dados ganha cada vez mais destaque uma vez que o mercado entende a importância das informações que são geradas no dia a dia dos negócios, e os benefícios que elas podem trazer para seu crescimento estratégico, inovação e transformação.",
-    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/11/Youtube_Dados.png",
-    "url": "https://www.lambda3.com.br/2022/11/data-meet-ciencia-de-dados-do-mundo-real/",
-    "date": "Escrito por Marketing Lambda3 em 29 de novembro de 2022",
-    "owner": "Lambda3 |"
+    "title": "Plug-ins que uso para testes de acessibilidade",
+    "description": null,
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2021/07/plugins.jpg",
+    "url": "https://reinaldoferraz.com.br/plug-ins-que-uso-para-testes-de-acessibilidade/",
+    "date": "2021-07-07T22:53:53+00:00",
+    "owner": "Reinaldo Ferraz"
   },
   {
-    "title": "Há futuro para o mercado de tecnologia sem cultura organizacional diversa?",
-    "description": "“A tecnologia move o mundo”.",
-    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/09/Tech-BLOG_2.png",
-    "url": "https://www.lambda3.com.br/2022/09/ha-futuro-para-o-mercado-de-tecnologia-sem-cultura-organizacional-diversa/",
-    "date": "Escrito por Patricia Kost em 13 de setembro de 2022",
-    "owner": "Lambda3 |"
+    "title": "Conformidade com validadores automáticos em uma página com barreiras de acesso",
+    "description": null,
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2021/06/conform.jpg",
+    "url": "https://reinaldoferraz.com.br/conformidade-com-validadores-automaticos-em-uma-pagina-com-barreiras-de-acesso/",
+    "date": "2021-06-22T19:02:30+00:00",
+    "owner": "Reinaldo Ferraz"
   },
   {
-    "title": "Atingindo objetivos através de OKR",
-    "description": "O que é OKR?",
-    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/08/Blog-2608.png",
-    "url": "https://www.lambda3.com.br/2022/09/atingindo-objetivos-atraves-de-okr/",
-    "date": "Escrito por Juan Barata em 5 de setembro de 2022",
-    "owner": "Lambda3 |"
+    "title": "Como leitores de tela interpretam os tipos de campos de formulário",
+    "description": null,
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2021/05/forms-leitores.jpg",
+    "url": "https://reinaldoferraz.com.br/como-leitores-de-tela-interpretam-os-tipos-de-campos-de-formulario/",
+    "date": "2021-05-26T13:41:55+00:00",
+    "owner": "Reinaldo Ferraz"
   },
   {
-    "title": "A importância de compartilhar conhecimentos de Design dentro das empresas",
-    "description": "Designers ajudam a melhorar experiências.",
-    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/08/Artigo_Blog.png",
-    "url": "https://www.lambda3.com.br/2022/08/a-importancia-de-compartilhar-conhecimentos-de-design-dentro-das-empresas/",
-    "date": "Escrito por Sarah Barros em 29 de agosto de 2022",
-    "owner": "Lambda3 |"
-  },
-  {
-    "title": "Guia de cores para acessibilidade",
-    "description": "Não há dúvidas de que ainda há muito a se discutir sobre acessibilidade, por se tratar de um assunto bastante amplo que envolve várias áreas, como: Visual Designer, Desenvolvedores, Designer de Conteúdo e outras.",
-    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/08/BLOG-0808.png",
-    "url": "https://www.lambda3.com.br/2022/08/guia-de-cores-para-acessibilidade/",
-    "date": "Escrito por Jonatan Crespo em 15 de agosto de 2022",
-    "owner": "Lambda3 |"
-  },
-  {
-    "title": "Como evitar o comércio milionário de ataques cibernéticos",
-    "description": "Os crimes virtuais tornaram-se um negócio.",
-    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/08/Ataques_ciberneticos_blog.png",
-    "url": "https://www.lambda3.com.br/2022/08/como-evitar-o-comercio-milionario-de-ataques-ciberneticos/",
-    "date": "Escrito por Giovanni Bassi em 4 de agosto de 2022",
-    "owner": "Lambda3 |"
+    "title": "Controlar redução de movimento no CSS",
+    "description": null,
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2021/04/anima.jpg",
+    "url": "https://reinaldoferraz.com.br/controlar-reducao-de-movimento-no-css/",
+    "date": "2021-04-09T19:28:39+00:00",
+    "owner": "Reinaldo Ferraz"
   }
 ]

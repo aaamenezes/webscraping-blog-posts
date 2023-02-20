@@ -78,7 +78,9 @@ function getPostsInfo(html) {
       'gabsferreira': 'ol.posts li',
       'khalilstemmler': '.article-card:not(:empty)',
       'kentcdodds': '.col-span-4.mb-10, .relative.grid.grid-cols-4.gap-x-4.mx-auto.max-w-7xl.group.rounded-lg.pb-6.pt-14',
-      'lambda3': '.post-item.item'
+      'lambda3': '.post-item.item',
+      'neilpatel': '.post-first.hentry, .post.type-post.status-publish',
+      'reinaldoferraz': 'article.post'
     };
 
     return map[getSitename(html)];
@@ -111,6 +113,9 @@ function getPostsInfo(html) {
     if (description) return description;
 
     description = postElement.querySelector('.card-content')?.innerText;
+    if (description) return description;
+
+    description = postElement.querySelector('.hero-subheadline')?.innerText;
     if (description) return description;
 
     description = postElement.querySelector('h3')?.nextElementSibling.innerText;
@@ -272,6 +277,7 @@ function getPostsInfo(html) {
   //   console.log(`${minutes} minute and ${time - (minutes * 60)} seconds`);
   // }, 1000);
 
+  // const browser = await puppeteer.launch({ headless: false });
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
 
@@ -298,16 +304,15 @@ function getPostsInfo(html) {
     // 'http://gabsferreira.com/#open',
     // 'https://khalilstemmler.com/articles',
     // 'https://kentcdodds.com/blog',
-    'https://www.lambda3.com.br/blog/',
-    // 'https://medium.com/?feed=following',
-    // 'https://neilpatel.com/br/blog/',
-    // 'https://reinaldoferraz.com.br/',
+    // 'https://www.lambda3.com.br/blog/',
+    'https://reinaldoferraz.com.br/',
     // 'https://blog.rocketseat.com.br/',
     // 'https://tableless.com.br/todos-os-posts/',
     // 'https://viverdeblog.com/',
     // 'https://willianjusten.com.br/',
     // 'https://blog.globalcode.com.br/',
     // 'https://wkrh.com.br/blog/',
+    // 'https://neilpatel.com/br/blog/ PROBLEMÁAAAATICO',
   ];
 
   const allPosts = [];
