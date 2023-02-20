@@ -99,7 +99,8 @@ function getPostsInfo(html) {
       'reinaldoferraz': 'article.post',
       'blogdarocketseat': 'article.m-featured-article, article.m-article-card.post',
       'tableless': '.tb-list-all-posts .tb-list-item',
-      'viverdeblog': '.featured-posts .col-md-6.col-sm-12, .vdb-card.simple'
+      'viverdeblog': '.featured-posts .col-md-6.col-sm-12, .vdb-card.simple',
+      'willianjusten': '[class*="styled__PostLink"]'
     };
 
     return map[getSitename(html)];
@@ -143,7 +144,7 @@ function getPostsInfo(html) {
     description = postElement.querySelector('.hero-subheadline')?.innerText;
     if (description) return description;
 
-    description = postElement.querySelector('h3')?.nextElementSibling.innerText;
+    description = postElement.querySelector('h3')?.nextElementSibling?.innerText;
     if (description) return description;
 
     description = postElement.querySelector('[class*="excerpt"]')?.innerText;
@@ -161,7 +162,11 @@ function getPostsInfo(html) {
     description = postElement.querySelector('p')?.innerText;
     if (description) return description;
 
-    let title = document.querySelector('h2')?.nextElementSibling.innerText;
+    description = document.querySelector('h2')?.nextElementSibling?.innerText;
+    if (description) return description;
+
+    description = document.querySelector('h2')?.innerText;
+    if (description) return description;
 
     return null;
   }
@@ -197,6 +202,9 @@ function getPostsInfo(html) {
     thumbnail = postElement.querySelector('.transition-opacity')?.src;
     if (thumbnail) return thumbnail;
 
+    thumbnail = postElement.querySelector('a')?.href;
+    if (thumbnail) return thumbnail;
+
     let url = postElement.querySelector('a')?.href;
     if (url?.includes('joshwcomeau')) return 'https://www.joshwcomeau.com/assets/me-light.webp';
 
@@ -206,8 +214,8 @@ function getPostsInfo(html) {
     siteName = html.querySelector('meta[property="twitter:site"]')?.content;
     if (siteName === 'tableless') return 'https://tableless.com.br/images/logo.svg';
 
-    thumbnail = postElement.querySelector('a')?.href;
-    if (thumbnail) return thumbnail;
+    siteName = html.querySelector('meta[property="og:site_name"]')?.content;
+    if (siteName === 'Willian Justen') return 'https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75';
 
     return null;
   }
@@ -347,8 +355,8 @@ function getPostsInfo(html) {
     // 'https://reinaldoferraz.com.br/',
     // 'https://blog.rocketseat.com.br/',
     // 'https://tableless.com.br/todos-os-posts/',
-    'https://viverdeblog.com/blog',
-    // 'https://willianjusten.com.br/',
+    // 'https://viverdeblog.com/blog',
+    'https://willianjusten.com.br/',
     // 'https://blog.globalcode.com.br/',
     // 'https://wkrh.com.br/blog/',
     // 'https://neilpatel.com/br/blog/ PROBLEMÁAAAATICO',

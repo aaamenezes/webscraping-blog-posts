@@ -1,162 +1,82 @@
 [
   {
-    "title": "Como criar uma comunidade digital engajada e transformar leitores em fãs",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2022/03/comunidade-digital.png",
-    "url": "https://viverdeblog.com/comunidade-digital/",
-    "date": null,
-    "owner": "Viver de Blog"
+    "title": "Valorize suas conquistas",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/valorize-suas-conquistas",
+    "date": "18 de janeiro de 2023",
+    "owner": "Willian Justen"
   },
   {
-    "title": "7 erros ocultos de conteúdo online (e como evitá-los)",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2022/02/conteudo-online.png",
-    "url": "https://viverdeblog.com/conteudo-online/",
-    "date": null,
-    "owner": "Viver de Blog"
+    "title": "Meu ano de 2021",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/meu-ano-de-2021",
+    "date": "21 de dezembro de 2021",
+    "owner": "Willian Justen"
   },
   {
-    "title": "3 templates de Storytelling fora do comum para criar histórias que conectam e vendem",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2022/01/templates-de-storytelling.png",
-    "url": "https://viverdeblog.com/templates-de-storytelling/",
-    "date": null,
-    "owner": "Viver de Blog"
+    "title": "Criando o efeito da chuva do Matrix com JavaScript puro",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/criando-o-efeito-da-chuva-do-matrix-com-javascript-puro",
+    "date": "20 de dezembro de 2021",
+    "owner": "Willian Justen"
   },
   {
-    "title": "Como alcançar metas em 2022 com o Método S.A.V.E.R.S",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/12/como-alcancar-metas.png",
-    "url": "https://viverdeblog.com/como-alcancar-metas/",
-    "date": null,
-    "owner": "Viver de Blog"
+    "title": "Usando Netlify CMS com NextJS, Vercel e GitHub",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/usando-netlify-cms-com-nextjs-vercel-e-github",
+    "date": "06 de outubro de 2021",
+    "owner": "Willian Justen"
   },
   {
-    "title": "Como criar uma comunidade digital engajada e transformar leitores em fãs",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2022/03/comunidade-digital.png",
-    "url": "https://viverdeblog.com/comunidade-digital/",
-    "date": null,
-    "owner": "Viver de Blog"
+    "title": "Usando o Preact no NextJS para mais performance",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/usando-o-preact-no-nextjs-para-mais-performance",
+    "date": "17 de setembro de 2021",
+    "owner": "Willian Justen"
   },
   {
-    "title": "7 erros ocultos de conteúdo online (e como evitá-los)",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2022/02/conteudo-online.png",
-    "url": "https://viverdeblog.com/conteudo-online/",
-    "date": null,
-    "owner": "Viver de Blog"
+    "title": "Como mostrar trechos de código num blog com NextJS",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/como-mostrar-trechos-de-codigo-num-blog-com-nextjs",
+    "date": "16 de setembro de 2021",
+    "owner": "Willian Justen"
   },
   {
-    "title": "3 templates de Storytelling fora do comum para criar histórias que conectam e vendem",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2022/01/templates-de-storytelling.png",
-    "url": "https://viverdeblog.com/templates-de-storytelling/",
-    "date": null,
-    "owner": "Viver de Blog"
+    "title": "Como configurar o Google Analytics no NextJS em 2021",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/como-configurar-o-google-analytics-no-nextjs-em-2021",
+    "date": "15 de setembro de 2021",
+    "owner": "Willian Justen"
   },
   {
-    "title": "Como alcançar metas em 2022 com o Método S.A.V.E.R.S",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/12/como-alcancar-metas.png",
-    "url": "https://viverdeblog.com/como-alcancar-metas/",
-    "date": null,
-    "owner": "Viver de Blog"
+    "title": "Configurando 2 contas de Git no mesmo computador",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/configurando-2-contas-de-git-no-mesmo-computador",
+    "date": "14 de setembro de 2021",
+    "owner": "Willian Justen"
   },
   {
-    "title": "17 dicas de filmes e séries sobre escrita e marketing para aprender, se inspirar e se motivar",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/12/dicas-de-filmes.png",
-    "url": "https://viverdeblog.com/dicas-de-filmes/",
-    "date": null,
-    "owner": "Viver de Blog"
+    "title": "Configurando o Macbook M1 para Desenvolvimento Web",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/configurando-o-macbook-m1-para-desenvolvimento-web",
+    "date": "13 de setembro de 2021",
+    "owner": "Willian Justen"
   },
   {
-    "title": "Linha Editorial: como estruturar sua mensagem nos meios digitais",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/12/linha-editorial.png",
-    "url": "https://viverdeblog.com/linha-editorial/",
-    "date": null,
-    "owner": "Viver de Blog"
-  },
-  {
-    "title": "Como escrever copys que convertem usando o Mapa da Empatia",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/11/mapa-da-empatia.png",
-    "url": "https://viverdeblog.com/mapa-da-empatia/",
-    "date": null,
-    "owner": "Viver de Blog"
-  },
-  {
-    "title": "Como escolher os melhores temas para textos para crescer na internet",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/11/temas-para-textos.png",
-    "url": "https://viverdeblog.com/temas-para-textos/",
-    "date": null,
-    "owner": "Viver de Blog"
-  },
-  {
-    "title": "Como surgem as ideias criativas que viram tendências (e como você pode usá-las para escrever…",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/11/ideias-criativas.png",
-    "url": "https://viverdeblog.com/como-surgem-as-ideias-criativas/",
-    "date": null,
-    "owner": "Viver de Blog"
-  },
-  {
-    "title": "Os 5 passos do processo de escrita para textos persuasivos",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/11/processo-de-escrita.png",
-    "url": "https://viverdeblog.com/processo-de-escrita/",
-    "date": null,
-    "owner": "Viver de Blog"
-  },
-  {
-    "title": "10 fontes de inspiração para escrever textos memoráveis",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/11/inspiracao-para-escrever.png",
-    "url": "https://viverdeblog.com/inspiracao-para-escrever/",
-    "date": null,
-    "owner": "Viver de Blog"
-  },
-  {
-    "title": "As 4 Regras de Ouro falar em público com confiança usando a escrita",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/11/falar-em-publico.png",
-    "url": "https://viverdeblog.com/falar-em-publico/",
-    "date": null,
-    "owner": "Viver de Blog"
-  },
-  {
-    "title": "10 erros de Copywriting que você deve evitar se quiser vender",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/10/erros-de-copywriting.png",
-    "url": "https://viverdeblog.com/erros-de-copywriting/",
-    "date": null,
-    "owner": "Viver de Blog"
-  },
-  {
-    "title": "10 habilidades essenciais para se tornar um copywriter profissional",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/10/copywriter-profissional.png",
-    "url": "https://viverdeblog.com/copywriter-profissional/",
-    "date": null,
-    "owner": "Viver de Blog"
-  },
-  {
-    "title": "6 formas de monetizar seu blog",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/10/monetizar-blog.png",
-    "url": "https://viverdeblog.com/monetizar-seu-blog/",
-    "date": null,
-    "owner": "Viver de Blog"
-  },
-  {
-    "title": "Como estudar copywriting e turbinar a sua habilidade de escrever para vender",
-    "description": null,
-    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/10/como-estudar-copywriting.png",
-    "url": "https://viverdeblog.com/como-estudar-copywriting/",
-    "date": null,
-    "owner": "Viver de Blog"
+    "title": "Gatsby e NextJS: Performance e Developer Experience",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/gatsby-e-nextjs-performance-e-developer-experience",
+    "date": "06 de julho de 2021",
+    "owner": "Willian Justen"
   }
 ]
