@@ -80,7 +80,8 @@ function getPostsInfo(html) {
       'kentcdodds': '.col-span-4.mb-10, .relative.grid.grid-cols-4.gap-x-4.mx-auto.max-w-7xl.group.rounded-lg.pb-6.pt-14',
       'lambda3': '.post-item.item',
       'neilpatel': '.post-first.hentry, .post.type-post.status-publish',
-      'reinaldoferraz': 'article.post'
+      'reinaldoferraz': 'article.post',
+      'blogdarocketseat': 'article.m-featured-article, article.m-article-card.post'
     };
 
     return map[getSitename(html)];
@@ -205,6 +206,12 @@ function getPostsInfo(html) {
     date = postElement.querySelector('.artigo-date')?.innerText;
     if (date) return date;
 
+    date = postElement.querySelector('.m-article-card__timestamp > span:first-child')?.innerText;
+    if (date) return date;
+
+    date = postElement.querySelector('.m-featured-article__timestamp > span:first-child')?.innerText;
+    if (date) return date;
+
     date = postElement.querySelector('.mt-6.text-xl.font-medium.text-slate-500')?.innerText;
     if (date) return date;
 
@@ -305,8 +312,8 @@ function getPostsInfo(html) {
     // 'https://khalilstemmler.com/articles',
     // 'https://kentcdodds.com/blog',
     // 'https://www.lambda3.com.br/blog/',
-    'https://reinaldoferraz.com.br/',
-    // 'https://blog.rocketseat.com.br/',
+    // 'https://reinaldoferraz.com.br/',
+    'https://blog.rocketseat.com.br/',
     // 'https://tableless.com.br/todos-os-posts/',
     // 'https://viverdeblog.com/',
     // 'https://willianjusten.com.br/',
