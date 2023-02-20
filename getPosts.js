@@ -54,6 +54,21 @@ function getPostsInfo(html) {
       .split('|')
       .join('');
     if (siteName) return siteName;
+    
+    siteName = html.querySelector('meta[property="og:title"]')?.getAttribute('content')?.
+      toLowerCase()
+      .trim()
+      .split(' ')
+      .join('')
+      .split('-')
+      .join('')
+      .split('ê')
+      .join('e')
+      .split('ô')
+      .join('o')
+      .split('|')
+      .join('');
+    if (siteName) return siteName;
 
     siteName = html.querySelector('link[rel="canonical"]')?.href
       .split('.com')[0]
@@ -100,7 +115,8 @@ function getPostsInfo(html) {
       'blogdarocketseat': 'article.m-featured-article, article.m-article-card.post',
       'tableless': '.tb-list-all-posts .tb-list-item',
       'viverdeblog': '.featured-posts .col-md-6.col-sm-12, .vdb-card.simple',
-      'willianjusten': '[class*="styled__PostLink"]'
+      'willianjusten': '[class*="styled__PostLink"]',
+      'tdcblog': '.post-outer-container'
     };
 
     return map[getSitename(html)];
@@ -153,6 +169,9 @@ function getPostsInfo(html) {
     description = postElement.querySelector('.article--post__teaser')?.innerText;
     if (description) return description;
 
+    description = postElement.querySelector('.container.post-body.entry-content')?.innerText;
+    if (description) return description;
+
     description = postElement.querySelector('[class*="description"]')?.innerText;
     if (description) return description;
 
@@ -188,6 +207,9 @@ function getPostsInfo(html) {
     if (thumbnail) return thumbnail;
 
     thumbnail = postElement.querySelector('.entered.lazyloaded')?.src;
+    if (thumbnail) return thumbnail;
+
+    thumbnail = postElement.querySelector('.snippet-thumbnail-img')?.style.backgroundImage.split('"')[1];
     if (thumbnail) return thumbnail;
 
     thumbnail = postElement.querySelector('img')?.srcset;
@@ -284,6 +306,21 @@ function getPostsInfo(html) {
       .split('|')
       .join('');
     if (owner) return owner;
+
+    owner = html.querySelector('meta[name="og:title"]')?.getAttribute('content')?.
+      toLowerCase()
+      .trim()
+      .split(' ')
+      .join('')
+      .split('-')
+      .join('')
+      .split('ê')
+      .join('e')
+      .split('ô')
+      .join('o')
+      .split('|')
+      .join('');
+    if (owner) return owner;
     
     owner = html.querySelector('meta[name="twitter:site"]')?.getAttribute('content')?.replace('@', '')
     if (owner) return owner;
@@ -356,8 +393,8 @@ function getPostsInfo(html) {
     // 'https://blog.rocketseat.com.br/',
     // 'https://tableless.com.br/todos-os-posts/',
     // 'https://viverdeblog.com/blog',
-    'https://willianjusten.com.br/',
-    // 'https://blog.globalcode.com.br/',
+    // 'https://willianjusten.com.br/',
+    'https://blog.thedevconf.com/',
     // 'https://wkrh.com.br/blog/',
     // 'https://neilpatel.com/br/blog/ PROBLEMÁAAAATICO',
   ];

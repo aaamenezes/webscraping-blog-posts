@@ -1,82 +1,42 @@
 [
   {
-    "title": "Valorize suas conquistas",
-    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
-    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
-    "url": "https://willianjusten.com.br/valorize-suas-conquistas",
-    "date": "18 de janeiro de 2023",
-    "owner": "Willian Justen"
+    "title": "Inspire a mudança com a liderança ágil",
+    "description": "A liderança ágil é essencial para que uma organização realize mudanças de negócios significativas. Ser líder é uma tarefa desafiadora, especialmente em um cenário de constantes transformações, principalmente na forma de lidar com a relação empresa e pessoal. Pesquisas sobre liderança na era digital revelam que algumas soft skills têm sido substituídas por outras, o profundo conhecimento na área de negócio, ser referência nas tecnologias utilizadas, ter foco total no prazo e nas entregas e conhecer um arsenal de técnicas e ferramentas, têm dado espaço a habilidades, como: empatia; adaptabilidade; senso de equipe; visão e propósito; engajamento constante. A colaboração entre pessoas de todos os níveis hierárquicos são vitais, afinal, as equipes estão trabalhando para o mesmo objetivo: o encantamento e atendimento das necessidades do cliente que proporcionarão um crescimento sustentável da organização. Com propósito claro, estratégia e prioridades definidas, os times desfrutam de uma ma",
+    "thumbnail": "https://blog.thedevconf.com/2022/05/%20lideranca-agil.html",
+    "url": "https://blog.thedevconf.com/2022/05/%20lideranca-agil.html",
+    "date": "2022-09-14T11:51:00-03:00",
+    "owner": "blog.thedevconf"
   },
   {
-    "title": "Meu ano de 2021",
-    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
-    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
-    "url": "https://willianjusten.com.br/meu-ano-de-2021",
-    "date": "21 de dezembro de 2021",
-    "owner": "Willian Justen"
+    "title": "TDC Digital: o que você precisa saber para transformar sua carreira em 2022",
+    "description": "O TDC Digital é o maior evento de TI do mercado e proporciona crescimento profissional a partir de palestras com especialistas e oportunidades de networking com o mundo todo, direto da sua casa. Através da escolha individual de cada participante é possível obter experiências imersivas e transformadoras conforme o tema-chave de cada trilha.  O evento também é o lugar ideal para ajudar no desenvolvimento de carreiras, permitindo que qualquer pessoa com vontade — e um tema interessante — seja palestrante e compartilhe suas experiências e conhecimentos. Para aqueles que querem  participar como ouvinte a plataforma do TDC favorece conferências dinâmicas, e o encontro de diversas comunidades e ecossistemas de TI. E, após a escolha de uma trilha, fica mais fácil acompanhar especialistas para aprender e se inspirar. Em 2021 , o The Developer’s Conference (TDC) foi 100% digital e, em três dias de evento, contou com mais de 300 horas de conteúdos , incluindo: Agile; Testes; Design; Web e Mobile;",
+    "thumbnail": "https://blog.thedevconf.com/2022/05/TDC-digital.html",
+    "url": "https://blog.thedevconf.com/2022/05/TDC-digital.html",
+    "date": "2022-09-14T11:49:00-03:00",
+    "owner": "blog.thedevconf"
   },
   {
-    "title": "Criando o efeito da chuva do Matrix com JavaScript puro",
-    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
-    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
-    "url": "https://willianjusten.com.br/criando-o-efeito-da-chuva-do-matrix-com-javascript-puro",
-    "date": "20 de dezembro de 2021",
-    "owner": "Willian Justen"
+    "title": "Palestras do TDC Business Disponíveis Online",
+    "description": "🚨 Atenção, TDC Lovers! O TDC Business em São Paulo acabou, mas os conteúdos mal começaram!  Não pô de aproveitar a STADIUM ao vivo? Não tem problema, porque trouxemos ela até você. Todas as palestras da STADIUM, palco principal do TDC, já estão no ar e liberadas para qualquer pessoa assistir. Essa Trilha incrível conta com palestras de Trilhas Premium e temas variados de forma GRATUITA para você poder maratonar de casa!  Aproveite para prestigiar seu evento de TI favorito com pipoca direto do seu sofá. 🎥 🍿 Gravação da STADIUM, 22 a 24 de Agosto de 2022, disponível aqui: https://www.globalcode.com.br/videos/tdc-2022-business/  Todas as demais trilhas do TDC Business serão publicadas gradualmente nas próximas semanas, fique atento aos nossos e-mails, você será notificado por lá quando sua Trilha estiver disponível. Acompanhe nossas redes sociais para não perder nada e ficar por dentro de todas as novidades do TDC!",
+    "thumbnail": "https://blog.thedevconf.com/2022/09/palestras-do-tdc-business-disponiveis.html",
+    "url": "https://blog.thedevconf.com/2022/09/palestras-do-tdc-business-disponiveis.html",
+    "date": "2022-09-13T11:57:00-03:00",
+    "owner": "blog.thedevconf"
   },
   {
-    "title": "Usando Netlify CMS com NextJS, Vercel e GitHub",
-    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
-    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
-    "url": "https://willianjusten.com.br/usando-netlify-cms-com-nextjs-vercel-e-github",
-    "date": "06 de outubro de 2021",
-    "owner": "Willian Justen"
+    "title": "TDC ONLINE: SUA PLATAFORMA DE PALESTRAS GRAVADAS DO TDC DISPONÍVEL",
+    "description": "Além do conteúdo ao vivo transmitido online nas edições do TDC, agora você pode ter acesso à centenas de palestras gravadas, através da nossa nova plataforma de vídeos - o TDC Online, que reúne todas as Trilhas premium, Stadium e Salas dos Patrocinadores das edições anteriores de 2022, TDC Innovation e TDC Connections.  Para acessar, basta clicar na edição em que você participou ( TDC Innovation ou TDC Connections ); Fazer o mesmo login (com e-mail e senha) cadastrados na hora de adquirir ou resgatar o seu ingresso no TDC; E clicar na Trilha de sua opção, e de acordo com a modalidade do seu ingresso. Logo em seguida, você será direcionado para a seguinte página com a lista de todas as palestras por Trilha: Pronto! Agora você tem acesso à centenas de palestras gravadas da sua área de interesse, para assistir como e quando quiser! Caso tenha esquecido a senha, clique na opção \"Esqueci a senha\" , insira o e-mail que você realizou para o cadastro no evento, e aparecerá a op",
+    "thumbnail": "https://blog.thedevconf.com/2022/07/tdc-online-sua-plataforma-de-palestras.html",
+    "url": "https://blog.thedevconf.com/2022/07/tdc-online-sua-plataforma-de-palestras.html",
+    "date": "2022-07-28T20:04:00-03:00",
+    "owner": "blog.thedevconf"
   },
   {
-    "title": "Usando o Preact no NextJS para mais performance",
-    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
-    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
-    "url": "https://willianjusten.com.br/usando-o-preact-no-nextjs-para-mais-performance",
-    "date": "17 de setembro de 2021",
-    "owner": "Willian Justen"
-  },
-  {
-    "title": "Como mostrar trechos de código num blog com NextJS",
-    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
-    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
-    "url": "https://willianjusten.com.br/como-mostrar-trechos-de-codigo-num-blog-com-nextjs",
-    "date": "16 de setembro de 2021",
-    "owner": "Willian Justen"
-  },
-  {
-    "title": "Como configurar o Google Analytics no NextJS em 2021",
-    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
-    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
-    "url": "https://willianjusten.com.br/como-configurar-o-google-analytics-no-nextjs-em-2021",
-    "date": "15 de setembro de 2021",
-    "owner": "Willian Justen"
-  },
-  {
-    "title": "Configurando 2 contas de Git no mesmo computador",
-    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
-    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
-    "url": "https://willianjusten.com.br/configurando-2-contas-de-git-no-mesmo-computador",
-    "date": "14 de setembro de 2021",
-    "owner": "Willian Justen"
-  },
-  {
-    "title": "Configurando o Macbook M1 para Desenvolvimento Web",
-    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
-    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
-    "url": "https://willianjusten.com.br/configurando-o-macbook-m1-para-desenvolvimento-web",
-    "date": "13 de setembro de 2021",
-    "owner": "Willian Justen"
-  },
-  {
-    "title": "Gatsby e NextJS: Performance e Developer Experience",
-    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
-    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
-    "url": "https://willianjusten.com.br/gatsby-e-nextjs-performance-e-developer-experience",
-    "date": "06 de julho de 2021",
-    "owner": "Willian Justen"
+    "title": "TDC INNOVATION lança University Pass",
+    "description": "Modalidade de ingresso tem como objetivo ajudar na capacitação dos universitários Uma pesquisa realizada em 2020 pela Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom) diz que até o ano de 2024 o Brasil precisará de cerca de 420 mil profissionais na área de Tecnologia da Informação. Porém, por ano, a mesma pesquisa diz que o país forma apenas 46 mil profissionais capacitados no nicho. Pensando nisso, para ajudar na formação e capacitação desses jovens profissionais, o TDC INNOVATION, segunda edição do ano do The Developer's Conference, lança o University Pass, modalidade de ingresso que possibilita aceso digital gratuito a todas as palestras do evento, ou com 50% de desconto para quem preferir ir pessoalmente. Com o tema central “Desafios para a criação do futuro Digital”, o TDC INNOVATION ocorrerá entre 1 e 3 de junho, de forma híbrida: presencialmente no Centro de Convenções CentroSul, em Florianópolis, e com transmissão simultaneamente pela",
+    "thumbnail": "https://blog.thedevconf.com/2022/05/tdc-innovation-lanca-university-pass.html",
+    "url": "https://blog.thedevconf.com/2022/05/tdc-innovation-lanca-university-pass.html",
+    "date": "2022-05-30T12:35:00-03:00",
+    "owner": "blog.thedevconf"
   }
 ]
