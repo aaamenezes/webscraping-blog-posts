@@ -116,7 +116,8 @@ function getPostsInfo(html) {
       'tableless': '.tb-list-all-posts .tb-list-item',
       'viverdeblog': '.featured-posts .col-md-6.col-sm-12, .vdb-card.simple',
       'willianjusten': '[class*="styled__PostLink"]',
-      'tdcblog': '.post-outer-container'
+      'tdcblog': '.post-outer-container',
+      'wkjobhub': '.post-list-item'
     };
 
     return map[getSitename(html)];
@@ -265,6 +266,9 @@ function getPostsInfo(html) {
     date = postElement.querySelector('.artigo-date')?.innerText;
     if (date) return date;
 
+    date = postElement.querySelector('.post-footer-value')?.innerText;
+    if (date) return date;
+
     date = postElement.querySelector('.m-article-card__timestamp > span:first-child')?.innerText;
     if (date) return date;
 
@@ -328,7 +332,7 @@ function getPostsInfo(html) {
     return null;
   }
 
-  const postsSelector = getPostsSelector(html)
+  const postsSelector = getPostsSelector(html);
   const postsElement = [ ...html.querySelectorAll(postsSelector) ];
   const postsQuantity = 20;
   
@@ -394,9 +398,9 @@ function getPostsInfo(html) {
     // 'https://tableless.com.br/todos-os-posts/',
     // 'https://viverdeblog.com/blog',
     // 'https://willianjusten.com.br/',
-    'https://blog.thedevconf.com/',
-    // 'https://wkrh.com.br/blog/',
-    // 'https://neilpatel.com/br/blog/ PROBLEMÁAAAATICO',
+    // 'https://blog.thedevconf.com/',
+    'https://wkrh.com.br/blog/',
+    // 'https://neilpatel.com/br/blog/',
   ];
 
   const allPosts = [];
