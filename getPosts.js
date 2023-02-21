@@ -253,39 +253,39 @@ function getPostsInfo(html) {
     return null;
   }
 
-  function getDate(postElement) {
-    let date = postElement.querySelector('time')?.getAttribute('datetime');
-    if (date) return date;
+  // function getDate(postElement) {
+  //   let date = postElement.querySelector('time')?.getAttribute('datetime');
+  //   if (date) return date;
 
-    date = postElement.querySelector('time')?.innerText;
-    if (date) return date;
+  //   date = postElement.querySelector('time')?.innerText;
+  //   if (date) return date;
 
-    date = postElement.querySelector('.post-meta')?.innerText;
-    if (date) return date;
+  //   date = postElement.querySelector('.post-meta')?.innerText;
+  //   if (date) return date;
 
-    date = postElement.querySelector('.artigo-date')?.innerText;
-    if (date) return date;
+  //   date = postElement.querySelector('.artigo-date')?.innerText;
+  //   if (date) return date;
 
-    date = postElement.querySelector('.post-footer-value')?.innerText;
-    if (date) return date;
+  //   date = postElement.querySelector('.post-footer-value')?.innerText;
+  //   if (date) return date;
 
-    date = postElement.querySelector('.m-article-card__timestamp > span:first-child')?.innerText;
-    if (date) return date;
+  //   date = postElement.querySelector('.m-article-card__timestamp > span:first-child')?.innerText;
+  //   if (date) return date;
 
-    date = postElement.querySelector('.m-featured-article__timestamp > span:first-child')?.innerText;
-    if (date) return date;
+  //   date = postElement.querySelector('.m-featured-article__timestamp > span:first-child')?.innerText;
+  //   if (date) return date;
 
-    date = postElement.querySelector('.mt-6.text-xl.font-medium.text-slate-500')?.innerText;
-    if (date) return date;
+  //   date = postElement.querySelector('.mt-6.text-xl.font-medium.text-slate-500')?.innerText;
+  //   if (date) return date;
 
-    date = postElement.querySelector('.mt-8.text-xl.font-medium.text-slate-500')?.innerText;
-    if (date) return date;
+  //   date = postElement.querySelector('.mt-8.text-xl.font-medium.text-slate-500')?.innerText;
+  //   if (date) return date;
 
-    date = postElement.querySelector('small > i:first-child')?.innerText;
-    if (date) return date;
+  //   date = postElement.querySelector('small > i:first-child')?.innerText;
+  //   if (date) return date;
 
-    return null;
-  }
+  //   return null;
+  // }
 
   function getOwner(html) {
     let owner = html.querySelector('meta[property="og:site_name"]')?.getAttribute('content');
@@ -380,38 +380,48 @@ function getPostsInfo(html) {
   const blogsUrl = [
     'https://www.alura.com.br/artigos/front-end',
     'https://www.alura.com.br/artigos/programacao',
-    'https://www.agenciamestre.com/categoria/seo/',
-    'https://www.agenciamestre.com/categoria/redes-sociais/',
-    'https://www.agenciamestre.com/categoria/marketing-de-conteudo/',
-    'https://www.agenciamestre.com/categoria/geral/',
-    'https://www.agenciamestre.com/categoria/ferramentas/',
-    'https://css-tricks.com/',
-    'https://www.joshwcomeau.com/latest/',
-    'https://blog.lsantos.dev/',
-    'https://blog.rdstation.com/',
-    'https://rockcontent.com/br/blog/recentes/',
-    'https://shopify.engineering/',
-    'https://www.smashingmagazine.com/articles/',
-    'https://www.tabnews.com.br/',
-    'https://wsvincent.com/',
-    'https://www.devmedia.com.br/artigos/',
-    'https://emersonbroga.com/',
-    'https://www.felipefialho.com/blog/',
-    'http://gabsferreira.com/#open',
-    'https://khalilstemmler.com/articles',
-    'https://kentcdodds.com/blog',
-    'https://www.lambda3.com.br/blog/',
-    'https://reinaldoferraz.com.br/',
-    'https://blog.rocketseat.com.br/',
-    'https://tableless.com.br/todos-os-posts/',
-    'https://viverdeblog.com/blog',
-    'https://willianjusten.com.br/',
-    'https://blog.thedevconf.com/',
-    'https://wkrh.com.br/blog/',
+    // 'https://www.agenciamestre.com/categoria/seo/',
+    // 'https://www.agenciamestre.com/categoria/redes-sociais/',
+    // 'https://www.agenciamestre.com/categoria/marketing-de-conteudo/',
+    // 'https://www.agenciamestre.com/categoria/geral/',
+    // 'https://www.agenciamestre.com/categoria/ferramentas/',
+    // 'https://css-tricks.com/',
+    // 'https://www.joshwcomeau.com/latest/',
+    // 'https://blog.lsantos.dev/',
+    // 'https://blog.rdstation.com/',
+    // 'https://rockcontent.com/br/blog/recentes/',
+    // 'https://shopify.engineering/',
+    // 'https://www.smashingmagazine.com/articles/',
+    // 'https://www.tabnews.com.br/',
+    // 'https://wsvincent.com/',
+    // 'https://www.devmedia.com.br/artigos/',
+    // 'https://emersonbroga.com/',
+    // 'https://www.felipefialho.com/blog/',
+    // 'http://gabsferreira.com/#open',
+    // 'https://khalilstemmler.com/articles',
+    // 'https://kentcdodds.com/blog',
+    // 'https://www.lambda3.com.br/blog/',
+    // 'https://reinaldoferraz.com.br/',
+    // 'https://blog.rocketseat.com.br/',
+    // 'https://tableless.com.br/todos-os-posts/',
+    // 'https://viverdeblog.com/blog',
+    // 'https://willianjusten.com.br/',
+    // 'https://blog.thedevconf.com/',
+    // 'https://wkrh.com.br/blog/',
     // 'https://neilpatel.com/br/blog/',
   ];
 
-  const allPosts = [];
+  // Ler arquivos oldPosts.json e newPosts.json
+  // Colocar o conteúdo deles na const oldPosts
+  const oldPosts = [];
+  [ 'oldPosts.json', 'newPosts.json'].forEach(file => {
+    fs.readFile(file, null, (error, data) => {
+      if (error) throw new Error('Something went wrong:', error);
+      oldPosts.push(...JSON.parse(data));
+    });
+  });
+
+  const newPosts = [];
 
   for (let i = 0; i < blogsUrl.length; i++) {
     console.log(' ');
@@ -421,7 +431,7 @@ function getPostsInfo(html) {
     // await page.setDefaultNavigationTimeout(0);
     await page.goto(blogsUrl[i]);
     const postsInfo = await page.$eval('html', getPostsInfo);
-    allPosts.push(postsInfo);
+    newPosts.push(...postsInfo);
     console.log(' ');
     console.log(`Finished URL: ${blogsUrl[i]}`);
     console.log(`URL: ${i + 1} of ${blogsUrl.length}`);
@@ -429,20 +439,33 @@ function getPostsInfo(html) {
     console.log('---');
   }
   
-  const allPostsSpread = allPosts.reduce((list, sub) => list.concat(sub), []);
+  // Todos os itens presentes nas duas listas, remove do newPosts
+  // for (let i = 0; i < oldPosts.length; i++) {
+  //   const currentOldPostTitle = oldPosts[i].title;
+  //   const repeatedPostInNewPosts = newPosts.find(
+  //     post => post.title === currentOldPostTitle
+  //   );
+
+  //   if (repeatedPostInNewPosts) {
+  //     const itemToRemoveIndex = newPosts.indexOf('');
+  //     const firstPartList = newPosts.slice(0, itemToRemoveIndex);
+  //     const lastPartList = newPosts.slice(itemToRemoveIndex+1, newPosts.length);
+  //     const newList = [ ...firstPartList, ...lastPartList]
+  //   }
+  // }
 
   fs.writeFile(
-    './posts.json',
-    JSON.stringify(allPostsSpread, null, 2),
+    './newPosts.json',
+    JSON.stringify(newPosts, null, 2),
     error => {
       if (error) throw new Error('Something went wrong:', error);
     }
   );
-  
+
   // clearInterval(interval);
   console.log('Finished!');
-  console.log('Total posts:', allPostsSpread.length);
+  console.log('Total posts:', newPosts.length);
   
-  console.timeEnd();
   await browser.close();
+  console.timeEnd();
 })();

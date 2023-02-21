@@ -1,4 +1,4 @@
-import posts from './posts.json' assert { type: 'json' };
+import posts from './newPosts.json' assert { type: 'json' };
 
 const postsList = document.querySelector('.posts-list');
 const postItemTemplate = document.querySelector('.post-template');
@@ -16,9 +16,9 @@ function loadPosts(page) {
   clearPosts();
   const firstPostIndex = +page * postsPerPage;
   const lastPostIndex = (+page + 1) * postsPerPage;
-  const currentPosts = posts.slice(firstPostIndex, lastPostIndex);
+  const newPosts = posts.slice(firstPostIndex, lastPostIndex);
 
-  currentPosts.forEach(post => {
+  newPosts.forEach(post => {
     const postItemClone = postItemTemplate.content.cloneNode(true);
     postItemClone.querySelector('.post-link').href = post.url;
     postItemClone.querySelector('.post-title').innerText = post.title;

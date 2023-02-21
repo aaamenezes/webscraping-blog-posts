@@ -1,0 +1,254 @@
+[
+  {
+    "title": "JavaScript: o que é, como aprender e um Guia da linguagem mais popular do mundo",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/javascript/javascript-js-alura.png",
+    "url": "https://www.alura.com.br/artigos/javascript",
+    "owner": "Alura"
+  },
+  {
+    "title": "React: o que é, como funciona e um Guia dessa popular ferramenta JS",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/react-js/react-js.jpg",
+    "url": "https://www.alura.com.br/artigos/react-js",
+    "owner": "Alura"
+  },
+  {
+    "title": "Como deixar multi linguagem/i18n uma aplicação React?",
+    "description": "FRONT-END",
+    "thumbnail": "https://i.ytimg.com/vi/xrRy3RI3HE4/maxresdefault.jpg",
+    "url": "https://www.alura.com.br/artigos/002-como-i18n-multi-linguagem-em-uma-aplicacao-react-dicas-de-react",
+    "owner": "Alura"
+  },
+  {
+    "title": "JavaScript: o que é, como aprender e um Guia da linguagem mais popular do mundo",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/javascript/javascript-js-alura.png",
+    "url": "https://www.alura.com.br/artigos/javascript",
+    "owner": "Alura"
+  },
+  {
+    "title": "React: o que é, como funciona e um Guia dessa popular ferramenta JS",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/react-js/react-js.jpg",
+    "url": "https://www.alura.com.br/artigos/react-js",
+    "owner": "Alura"
+  },
+  {
+    "title": "Boas práticas ao escrever código em React js",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/boas-praticas-escrever-codigo-react-js/boas-praticas-escrever-codigo-react-js.jpg",
+    "url": "https://www.alura.com.br/artigos/boas-praticas-escrever-codigo-react-js",
+    "owner": "Alura"
+  },
+  {
+    "title": "Prototype: descubra como quase tudo no JavaScript é um Objeto",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/prototype-quase-tudo-no-javascript-e-um-objeto/prototype-quase-tudo-no-javascript-e-um-objeto.jpg",
+    "url": "https://www.alura.com.br/artigos/prototype-quase-tudo-no-javascript-e-um-objeto",
+    "owner": "Alura"
+  },
+  {
+    "title": "React e Context API: testes de unidade",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/react-context-api-testes-de-unidade/react-context-api-testes-de-unidade.png",
+    "url": "https://www.alura.com.br/artigos/react-context-api-testes-de-unidade",
+    "owner": "Alura"
+  },
+  {
+    "title": "React: lidando com colisão de nomes de componentes",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/react-colisao-de-nomes-de-componentes/react-colisao-de-nomes-de-componentes.png",
+    "url": "https://www.alura.com.br/artigos/react-colisao-de-nomes-de-componentes",
+    "owner": "Alura"
+  },
+  {
+    "title": "Live coding de CSS com a Alura Star Natália F. Dev",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/live-coding-css-com-alura-star-natalia-f-dev/live-coding-css-com-alura-star-natalia-f-dev.jpg",
+    "url": "https://www.alura.com.br/artigos/live-coding-css-com-alura-star-natalia-f-dev",
+    "owner": "Alura"
+  },
+  {
+    "title": "Armazenadores de dados do navegador",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/armazenadores-de-dados-do-navegador/armazenadores-de-dados-do-navegador.jpg",
+    "url": "https://www.alura.com.br/artigos/armazenadores-de-dados-do-navegador",
+    "owner": "Alura"
+  },
+  {
+    "title": "Sexta-feira livre no Discord com CSS",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/sexta-feira-livre-discord-com-css/sexta-feira-livre-discord-com-css.jpg",
+    "url": "https://www.alura.com.br/artigos/sexta-feira-livre-discord-com-css",
+    "owner": "Alura"
+  },
+  {
+    "title": "Sexta-feira livre no Discord com Marco Bruno",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/sexta-feira-livre-discord-com-marco-bruno/sexta-feira-livre-discord-com-marco-bruno.jpg",
+    "url": "https://www.alura.com.br/artigos/sexta-feira-livre-discord-com-marco-bruno",
+    "owner": "Alura"
+  },
+  {
+    "title": "Requisições HTTP utilizando o AXIOS",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/requisicoes-http-utilizando-axios/requisicoes-http-utilizando-axios.png",
+    "url": "https://www.alura.com.br/artigos/requisicoes-http-utilizando-axios",
+    "owner": "Alura"
+  },
+  {
+    "title": "Autenticação, autorização e segurança no front-end",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/autenticacao-autorizacao-seguranca-no-front-end/autenticacao-autorizacao-seguranca-no-front-end.png",
+    "url": "https://www.alura.com.br/artigos/autenticacao-autorizacao-seguranca-no-front-end",
+    "owner": "Alura"
+  },
+  {
+    "title": "Angular: como funciona um componente?",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/angular-como-funciona-um-componente/angular-como-funciona-um-componente.png",
+    "url": "https://www.alura.com.br/artigos/angular-como-funciona-um-componente",
+    "owner": "Alura"
+  },
+  {
+    "title": "A função Math.random() no JavaScript na criação de números pseudoaleatórios",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/funcao-math-random-javascript-numeros-pseudoaleatorios/funcao-math-random-javascript-numeros-pseudoaleatorios.jpg",
+    "url": "https://www.alura.com.br/artigos/funcao-math-random-javascript-numeros-pseudoaleatorios",
+    "owner": "Alura"
+  },
+  {
+    "title": "O que é o DOM?",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/o-que-e-o-dom/o-que-e-o-dom.png",
+    "url": "https://www.alura.com.br/artigos/o-que-e-o-dom",
+    "owner": "Alura"
+  },
+  {
+    "title": "Node.JS: o que é, como funciona esse ambiente de execução JavaScript e um Guia para iniciar",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/node-js/node-js-alura.png",
+    "url": "https://www.alura.com.br/artigos/node-js",
+    "owner": "Alura"
+  },
+  {
+    "title": "O que é Python? História, Sintaxe e um Guia para iniciar na Linguagem",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/python/python.jpg",
+    "url": "https://www.alura.com.br/artigos/python",
+    "owner": "Alura"
+  },
+  {
+    "title": "Java: o que é, linguagem e um Guia para iniciar na tecnologia",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/java/java.jpg",
+    "url": "https://www.alura.com.br/artigos/java",
+    "owner": "Alura"
+  },
+  {
+    "title": "Node.JS: o que é, como funciona esse ambiente de execução JavaScript e um Guia para iniciar",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/node-js/node-js-alura.png",
+    "url": "https://www.alura.com.br/artigos/node-js",
+    "owner": "Alura"
+  },
+  {
+    "title": "O que é Python? História, Sintaxe e um Guia para iniciar na Linguagem",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/python/python.jpg",
+    "url": "https://www.alura.com.br/artigos/python",
+    "owner": "Alura"
+  },
+  {
+    "title": "JVM: conhecendo o processo de execução de código",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/jvm-conhecendo-processo-execucao-de-codigo/jvm-conhecendo-processo-execucao-de-codigo.jpg",
+    "url": "https://www.alura.com.br/artigos/jvm-conhecendo-processo-execucao-de-codigo",
+    "owner": "Alura"
+  },
+  {
+    "title": "PHP: da instalação ao primeiro código",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/php-instalacao-primeiro-codigo/php-instalacao-primeiro-codigo.jpg",
+    "url": "https://www.alura.com.br/artigos/php-instalacao-primeiro-codigo",
+    "owner": "Alura"
+  },
+  {
+    "title": "Programação na comunidade da Alura: uma semana de aprendizado e conexão no Discord",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/programacao-comunidade-alura-semana-conexao-discord/programacao-comunidade-alura-semana-conexao-discord.jpg",
+    "url": "https://www.alura.com.br/artigos/programacao-comunidade-alura-semana-conexao-discord",
+    "owner": "Alura"
+  },
+  {
+    "title": "Arquitetura do Node.js: o Node.js é single-threaded?",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/arquitetura-node-js-single-threaded/arquitetura-node-js-single-threaded.jpg",
+    "url": "https://www.alura.com.br/artigos/arquitetura-node-js-single-threaded",
+    "owner": "Alura"
+  },
+  {
+    "title": "Arquitetura do Node.js: entenda o que são threads e processos",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/arquitetura-node-js-threads-e-processos/arquitetura-node-js-threads-e-processos.jpg",
+    "url": "https://www.alura.com.br/artigos/arquitetura-node-js-threads-e-processos",
+    "owner": "Alura"
+  },
+  {
+    "title": "Arquitetura do Node.js: conheça seus componentes",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/arquitetura-node-js-seus-componentes/arquitetura-node-js-seus-componentes.jpg",
+    "url": "https://www.alura.com.br/artigos/arquitetura-node-js-seus-componentes",
+    "owner": "Alura"
+  },
+  {
+    "title": "Arquitetura do Node.js: entenda o loop de eventos",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/arquitetura-node-js-entenda-loop-de-eventos/arquitetura-node-js-entenda-loop-de-eventos.jpg",
+    "url": "https://www.alura.com.br/artigos/arquitetura-node-js-entenda-loop-de-eventos",
+    "owner": "Alura"
+  },
+  {
+    "title": "Agenda de Atividades no Discord: Uma Semana de Aprendizado e Conectividades",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/agenda-atividades-discord-semana-aprendizado-conectividades/agenda-atividades-discord-semana-aprendizado-conectividades.jpg",
+    "url": "https://www.alura.com.br/artigos/agenda-atividades-discord-semana-aprendizado-conectividades",
+    "owner": "Alura"
+  },
+  {
+    "title": "Como formatar datas, horas e moedas em JavaScript?",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/formatar-datas-horas-moedas-javascript/formatar-datas-horas-moedas-javascript.jpg",
+    "url": "https://www.alura.com.br/artigos/formatar-datas-horas-moedas-javascript",
+    "owner": "Alura"
+  },
+  {
+    "title": "PHP: validação de Dados Nacionais (BR)",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/php-validacao-dados-nacionais-br/php-validacao-dados-nacionais-br.jpg",
+    "url": "https://www.alura.com.br/artigos/php-validacao-dados-nacionais-br",
+    "owner": "Alura"
+  },
+  {
+    "title": "Cronograma de eventos no Discord de janeiro e fevereiro",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/cronograma-eventos-discord-janeiro-fevereiro/cronograma-eventos-discord-janeiro-fevereiro.jpg",
+    "url": "https://www.alura.com.br/artigos/cronograma-eventos-discord-janeiro-fevereiro",
+    "owner": "Alura"
+  },
+  {
+    "title": "Guia básico de manuseio do computador",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/guia-basico-manuseio-computador/guia-basico-manuseio-computador.jpg",
+    "url": "https://www.alura.com.br/artigos/guia-basico-manuseio-computador",
+    "owner": "Alura"
+  },
+  {
+    "title": "O que são ambientes?",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/o-que-sao-ambientes/o-que-sao-ambientes.jpg",
+    "url": "https://www.alura.com.br/artigos/o-que-sao-ambientes",
+    "owner": "Alura"
+  }
+]

@@ -22,6 +22,18 @@ const mailOptions = {
   html: '<h2>Agora vai</h2><p>Texto</p>'
 };
 
+/**
+ * Destinatário: todo+yx0fgeaprkt3@mail.ticktick.com
+ * Assunto: Título da página ~Blogs
+ * Corpo: URL
+ * 
+ * Ou
+ * 
+ * Destinatário: todo+yx0fgeaprkt3@mail.ticktick.com
+ * Assunto: URL ~Blogs
+ * Corpo: (nada)
+ */
+
 transporter.sendMail(mailOptions, function(error, info){
   if (error) {
     console.log(error);
