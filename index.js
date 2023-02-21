@@ -24,7 +24,7 @@ function loadPosts(page) {
     postItemClone.querySelector('.post-title').innerText = post.title;
     postItemClone.querySelector('.post-description').innerText = post.description;
     postItemClone.querySelector('img').src = post.thumbnail;
-    postItemClone.querySelector('time').innerText = post.date;
+    // postItemClone.querySelector('time').innerText = post.date;
     postItemClone.querySelector('.post-owner').innerText = post.owner;
     postsList.appendChild(postItemClone);
   });

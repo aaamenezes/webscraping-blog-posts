@@ -1,1 +1,2823 @@
-[]
+[
+  {
+    "title": "JavaScript: o que é, como aprender e um Guia da linguagem mais popular do mundo",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/javascript/javascript-js-alura.png",
+    "url": "https://www.alura.com.br/artigos/javascript",
+    "owner": "Alura"
+  },
+  {
+    "title": "React: o que é, como funciona e um Guia dessa popular ferramenta JS",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/react-js/react-js.jpg",
+    "url": "https://www.alura.com.br/artigos/react-js",
+    "owner": "Alura"
+  },
+  {
+    "title": "Como deixar multi linguagem/i18n uma aplicação React?",
+    "description": "FRONT-END",
+    "thumbnail": "https://i.ytimg.com/vi/xrRy3RI3HE4/maxresdefault.jpg",
+    "url": "https://www.alura.com.br/artigos/002-como-i18n-multi-linguagem-em-uma-aplicacao-react-dicas-de-react",
+    "owner": "Alura"
+  },
+  {
+    "title": "JavaScript: o que é, como aprender e um Guia da linguagem mais popular do mundo",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/javascript/javascript-js-alura.png",
+    "url": "https://www.alura.com.br/artigos/javascript",
+    "owner": "Alura"
+  },
+  {
+    "title": "React: o que é, como funciona e um Guia dessa popular ferramenta JS",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/react-js/react-js.jpg",
+    "url": "https://www.alura.com.br/artigos/react-js",
+    "owner": "Alura"
+  },
+  {
+    "title": "Boas práticas ao escrever código em React js",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/boas-praticas-escrever-codigo-react-js/boas-praticas-escrever-codigo-react-js.jpg",
+    "url": "https://www.alura.com.br/artigos/boas-praticas-escrever-codigo-react-js",
+    "owner": "Alura"
+  },
+  {
+    "title": "Prototype: descubra como quase tudo no JavaScript é um Objeto",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/prototype-quase-tudo-no-javascript-e-um-objeto/prototype-quase-tudo-no-javascript-e-um-objeto.jpg",
+    "url": "https://www.alura.com.br/artigos/prototype-quase-tudo-no-javascript-e-um-objeto",
+    "owner": "Alura"
+  },
+  {
+    "title": "React e Context API: testes de unidade",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/react-context-api-testes-de-unidade/react-context-api-testes-de-unidade.png",
+    "url": "https://www.alura.com.br/artigos/react-context-api-testes-de-unidade",
+    "owner": "Alura"
+  },
+  {
+    "title": "React: lidando com colisão de nomes de componentes",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/react-colisao-de-nomes-de-componentes/react-colisao-de-nomes-de-componentes.png",
+    "url": "https://www.alura.com.br/artigos/react-colisao-de-nomes-de-componentes",
+    "owner": "Alura"
+  },
+  {
+    "title": "Live coding de CSS com a Alura Star Natália F. Dev",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/live-coding-css-com-alura-star-natalia-f-dev/live-coding-css-com-alura-star-natalia-f-dev.jpg",
+    "url": "https://www.alura.com.br/artigos/live-coding-css-com-alura-star-natalia-f-dev",
+    "owner": "Alura"
+  },
+  {
+    "title": "Armazenadores de dados do navegador",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/armazenadores-de-dados-do-navegador/armazenadores-de-dados-do-navegador.jpg",
+    "url": "https://www.alura.com.br/artigos/armazenadores-de-dados-do-navegador",
+    "owner": "Alura"
+  },
+  {
+    "title": "Sexta-feira livre no Discord com CSS",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/sexta-feira-livre-discord-com-css/sexta-feira-livre-discord-com-css.jpg",
+    "url": "https://www.alura.com.br/artigos/sexta-feira-livre-discord-com-css",
+    "owner": "Alura"
+  },
+  {
+    "title": "Sexta-feira livre no Discord com Marco Bruno",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/sexta-feira-livre-discord-com-marco-bruno/sexta-feira-livre-discord-com-marco-bruno.jpg",
+    "url": "https://www.alura.com.br/artigos/sexta-feira-livre-discord-com-marco-bruno",
+    "owner": "Alura"
+  },
+  {
+    "title": "Requisições HTTP utilizando o AXIOS",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/requisicoes-http-utilizando-axios/requisicoes-http-utilizando-axios.png",
+    "url": "https://www.alura.com.br/artigos/requisicoes-http-utilizando-axios",
+    "owner": "Alura"
+  },
+  {
+    "title": "Autenticação, autorização e segurança no front-end",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/autenticacao-autorizacao-seguranca-no-front-end/autenticacao-autorizacao-seguranca-no-front-end.png",
+    "url": "https://www.alura.com.br/artigos/autenticacao-autorizacao-seguranca-no-front-end",
+    "owner": "Alura"
+  },
+  {
+    "title": "Angular: como funciona um componente?",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/angular-como-funciona-um-componente/angular-como-funciona-um-componente.png",
+    "url": "https://www.alura.com.br/artigos/angular-como-funciona-um-componente",
+    "owner": "Alura"
+  },
+  {
+    "title": "A função Math.random() no JavaScript na criação de números pseudoaleatórios",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/funcao-math-random-javascript-numeros-pseudoaleatorios/funcao-math-random-javascript-numeros-pseudoaleatorios.jpg",
+    "url": "https://www.alura.com.br/artigos/funcao-math-random-javascript-numeros-pseudoaleatorios",
+    "owner": "Alura"
+  },
+  {
+    "title": "O que é o DOM?",
+    "description": "FRONT-END",
+    "thumbnail": "https://alura.com.br/artigos/assets/o-que-e-o-dom/o-que-e-o-dom.png",
+    "url": "https://www.alura.com.br/artigos/o-que-e-o-dom",
+    "owner": "Alura"
+  },
+  {
+    "title": "AWS: Guia sobre o que é Amazon Web Services, seus Serviços e Certificações",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/aws/aws-alura.jpg",
+    "url": "https://www.alura.com.br/artigos/aws",
+    "owner": "Alura"
+  },
+  {
+    "title": "Java: o que é, linguagem e um Guia para iniciar na tecnologia",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/java/java.jpg",
+    "url": "https://www.alura.com.br/artigos/java",
+    "owner": "Alura"
+  },
+  {
+    "title": "PHP: da instalação ao primeiro código",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/php-instalacao-primeiro-codigo/php-instalacao-primeiro-codigo.jpg",
+    "url": "https://www.alura.com.br/artigos/php-instalacao-primeiro-codigo",
+    "owner": "Alura"
+  },
+  {
+    "title": "Programação na comunidade da Alura: uma semana de aprendizado e conexão no Discord",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/programacao-comunidade-alura-semana-conexao-discord/programacao-comunidade-alura-semana-conexao-discord.jpg",
+    "url": "https://www.alura.com.br/artigos/programacao-comunidade-alura-semana-conexao-discord",
+    "owner": "Alura"
+  },
+  {
+    "title": "Arquitetura do Node.js: o Node.js é single-threaded?",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/arquitetura-node-js-single-threaded/arquitetura-node-js-single-threaded.jpg",
+    "url": "https://www.alura.com.br/artigos/arquitetura-node-js-single-threaded",
+    "owner": "Alura"
+  },
+  {
+    "title": "Arquitetura do Node.js: entenda o que são threads e processos",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/arquitetura-node-js-threads-e-processos/arquitetura-node-js-threads-e-processos.jpg",
+    "url": "https://www.alura.com.br/artigos/arquitetura-node-js-threads-e-processos",
+    "owner": "Alura"
+  },
+  {
+    "title": "Arquitetura do Node.js: conheça seus componentes",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/arquitetura-node-js-seus-componentes/arquitetura-node-js-seus-componentes.jpg",
+    "url": "https://www.alura.com.br/artigos/arquitetura-node-js-seus-componentes",
+    "owner": "Alura"
+  },
+  {
+    "title": "Arquitetura do Node.js: entenda o loop de eventos",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/arquitetura-node-js-entenda-loop-de-eventos/arquitetura-node-js-entenda-loop-de-eventos.jpg",
+    "url": "https://www.alura.com.br/artigos/arquitetura-node-js-entenda-loop-de-eventos",
+    "owner": "Alura"
+  },
+  {
+    "title": "Agenda de Atividades no Discord: Uma Semana de Aprendizado e Conectividades",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/agenda-atividades-discord-semana-aprendizado-conectividades/agenda-atividades-discord-semana-aprendizado-conectividades.jpg",
+    "url": "https://www.alura.com.br/artigos/agenda-atividades-discord-semana-aprendizado-conectividades",
+    "owner": "Alura"
+  },
+  {
+    "title": "AWS: Guia sobre o que é Amazon Web Services, seus Serviços e Certificações",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/aws/aws-alura.jpg",
+    "url": "https://www.alura.com.br/artigos/aws",
+    "owner": "Alura"
+  },
+  {
+    "title": "Como formatar datas, horas e moedas em JavaScript?",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/formatar-datas-horas-moedas-javascript/formatar-datas-horas-moedas-javascript.jpg",
+    "url": "https://www.alura.com.br/artigos/formatar-datas-horas-moedas-javascript",
+    "owner": "Alura"
+  },
+  {
+    "title": "PHP: validação de Dados Nacionais (BR)",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/php-validacao-dados-nacionais-br/php-validacao-dados-nacionais-br.jpg",
+    "url": "https://www.alura.com.br/artigos/php-validacao-dados-nacionais-br",
+    "owner": "Alura"
+  },
+  {
+    "title": "Guia básico de manuseio do computador",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/guia-basico-manuseio-computador/guia-basico-manuseio-computador.jpg",
+    "url": "https://www.alura.com.br/artigos/guia-basico-manuseio-computador",
+    "owner": "Alura"
+  },
+  {
+    "title": "Cronograma de eventos no Discord de janeiro e fevereiro",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/cronograma-eventos-discord-janeiro-fevereiro/cronograma-eventos-discord-janeiro-fevereiro.jpg",
+    "url": "https://www.alura.com.br/artigos/cronograma-eventos-discord-janeiro-fevereiro",
+    "owner": "Alura"
+  },
+  {
+    "title": "O que são ambientes?",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/o-que-sao-ambientes/o-que-sao-ambientes.jpg",
+    "url": "https://www.alura.com.br/artigos/o-que-sao-ambientes",
+    "owner": "Alura"
+  },
+  {
+    "title": "Cronograma de eventos no Discord (23-27) de janeiro",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/cronograma-eventos-discord-23-27-janeiro/cronograma-eventos-discord-23-27-janeiro.jpg",
+    "url": "https://www.alura.com.br/artigos/cronograma-eventos-discord-23-27-janeiro",
+    "owner": "Alura"
+  },
+  {
+    "title": "Dotenv: gerenciando variáveis de ambiente",
+    "description": "PROGRAMAÇÃO",
+    "thumbnail": "https://alura.com.br/artigos/assets/dotenv-gerenciando-variaveis-ambiente/dotenv-gerenciando-variaveis-ambiente.jpeg",
+    "url": "https://www.alura.com.br/artigos/dotenv-gerenciando-variaveis-ambiente",
+    "owner": "Alura"
+  },
+  {
+    "title": "Domínios Ricos em Palavras-chave podem Causar Problemas a Longo Prazo",
+    "description": "Descubra por que o uso excessivo de palavras-chave em domínios pode prejudicar a estratégia de SEO em longo prazo, segundo John Mueller!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/02/problemas-com-palavras-chave-no-dominio.jpg",
+    "url": "https://www.agenciamestre.com/seo/problemas-com-palavras-chave-no-dominio/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Criadores de Conteúdo Estão Preocupados com os Novos Recursos de IA",
+    "description": "Afinal, os sistemas de IA vão afetar as métricas dos produtores de conteúdo? Confira quais as preocupações e o que esperar!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/02/criadores-de-conteudo-preocupados-com-ia.jpg",
+    "url": "https://www.agenciamestre.com/seo/criadores-de-conteudo-preocupados-com-ia/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Novos Recursos de IA do Google: Conheça o Bard!",
+    "description": "O Google colocou a IA no centro de sua estratégia. O NYT relatou o lançamento de um mecanismo de busca com recursos de chatbot em breve.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/01/recursos-chatbot-google.jpg",
+    "url": "https://www.agenciamestre.com/seo/recursos-chatbot-google/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Fatores de Ranqueamento do Google Que Podem Afetar Seu Site",
+    "description": "Leia o artigo para entender alguns fatores de ranqueamento do Google que auxiliam os sites a conseguir posicionamentos melhores na primeira página.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/02/arkan-perdana-eKTLh4_u7Ao-unsplash.jpg",
+    "url": "https://www.agenciamestre.com/seo/fatores-de-ranqueamento-do-google/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Palavras de Transição SEO: O Que São e Como Utilizá-las",
+    "description": "Quer aprender como utilizar um fator de ranqueamento simples, que vai te ajudar a melhorar seu posicionamento no Google? Clique e saiba como as palavras de transição podem te ajudar.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2021/11/merakist-l5if0iQfV4c-unsplash-2.jpg",
+    "url": "https://www.agenciamestre.com/seo/palavras-de-transicao-seo/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "SEO na Title Tag – Melhore os Títulos do seu Site",
+    "description": "Title Tag, SEO Title ou Título SEO basicamente são uma tag HTML que representa o título de uma página. Ela é um elemento essencial para…",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2007/10/title-tag-SEO.jpg",
+    "url": "https://www.agenciamestre.com/seo/seo-na-title-tag/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Neeva: O Mecanismo de Buscas Sem Rastreador e Sem Propagandas",
+    "description": "O Google ganhou um novo concorrente? Conheça o Neeva, o mecanismo de sem anúncios e rastreamento.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/01/neeva.png",
+    "url": "https://www.agenciamestre.com/seo/neeva/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Conheça o Framework para Dimensionar a Criação de Conteúdo e SEO",
+    "description": "Tenha melhores resultados em SEO e otimize sua produção de conteúdo com as dicas do especialista Brad Smith.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/01/framework-de-conteudo-e-seo.jpg",
+    "url": "https://www.agenciamestre.com/seo/framework-de-conteudo-e-seo/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "O Google Está Testando Buscas Por Textos Para Trechos Em Vídeos do YouTube",
+    "description": "Suas legendas estão em dia? O Google está testando um novo recurso para exibir trechos de vídeos a partir de buscas por texto!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/01/busca-por-texto-youtube.jpg",
+    "url": "https://www.agenciamestre.com/seo/busca-por-texto-youtube/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Algoritmo do Google: Como Funciona o Maior Buscador do Mundo?",
+    "description": "Leia este artigo completo para entender tudo o que você precisa saber sobre o algoritmo do Google.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/03/souvik-banerjee-OMhubJCrtu0-unsplash-1.jpg",
+    "url": "https://www.agenciamestre.com/seo/algoritmo-do-google/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "O que é Canonical Tag? Como funciona e como acabar com Conteúdo Duplicado",
+    "description": "Tudo que você precisa saber sobre o Canonical Link Element: como funciona, como usar, a teoria e a prática. Este post explica detalhes sobre problemas de conteúdo duplicado. Confira!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2009/02/canonical-tag.jpg",
+    "url": "https://www.agenciamestre.com/seo/canonical-tag-acabe-com-o-conteudo-duplicado/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "O Código do GA faz seu Site Aparecer nas Buscas?",
+    "description": "Incluir o código GA nas páginas do site garante que ele irá aparecer nas buscas realizadas no Google? Um estudo foi feito sobre o assunto. Confira o resultado aqui!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2017/09/codigo-computador.jpeg",
+    "url": "https://www.agenciamestre.com/seo/codigo-do-ga-faz-site-aparecer-no-google/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Canais do Instagram: Conheça o novo Recurso da Meta",
+    "description": "Confira porque a Meta está lançando este novo recurso e como você pode incluí-lo na sua estratégia de redes sociais!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/02/canais-instagram.jpg",
+    "url": "https://www.agenciamestre.com/redes-sociais/canais-instagram/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Elon Musk Comprou o Twitter: Qual o Futuro da Plataforma?",
+    "description": "O que muda com a compra do Twitter pelo homem mais rico do mundo? Confira a notícia e saiba qual pode ser o futuro da plataforma!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/04/jeremy-bezanger-Jm1YUfYjpHI-unsplash.jpg",
+    "url": "https://www.agenciamestre.com/redes-sociais/elon-musk-twitter/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Como Criar uma Fanpage: Guia para Criar Página no Facebook",
+    "description": "Veja como criar uma página no Facebook, confira as dicas que não podem ser ignoradas e torne a sua empresa visível nessa rede social!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2016/10/fanpage-como-criar-pagina-no-facebook.jpg",
+    "url": "https://www.agenciamestre.com/redes-sociais/facebook-fan-pages-crie-pagina-facebook/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Sparkle Hotmart: A Rede Social Que Cria Comunidades",
+    "description": "Quer saber o que é o Sparkle da Hotmart? Clique e saiba como funciona a rede social que cria comunidades. Confira os detalhes aqui!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2020/05/sparkle-hotmart.jpg",
+    "url": "https://www.agenciamestre.com/redes-sociais/sparkle-hotmart/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Instagram: Relatório de Previsões de Tendências para 2023",
+    "description": "Veja quais são as principais tendências de conteúdo para o Instagram no próximo ano, de acordo com o segmento da sua empresa.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/12/tendencias-instagram.jpg",
+    "url": "https://www.agenciamestre.com/redes-sociais/tendencias-instagram/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Novos Recursos do LinkedIn Estão Disponíveis",
+    "description": "Além da exibição de um link no perfil, os usuários têm novas ferramentas para potencializar seus resultados na rede social. Confira!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/05/linkedin-sales-solutions-P23-VI_mhpM-unsplash-1.jpg",
+    "url": "https://www.agenciamestre.com/redes-sociais/novos-recursos-do-linkedin/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Como Fazer um Instagram de Sucesso e Ganhar Seguidores",
+    "description": "Saiba os passos necessários para construir um perfil voltado para negócios e aprenda a se destacar em uma das redes sociais que mais cresce na atualidade.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2018/02/fazer-instagram-e-ganhar-seguidores.jpg",
+    "url": "https://www.agenciamestre.com/redes-sociais/fazer-instagram-e-ganhar-seguidores/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Koo: Saiba Tudo Sobre a Rede Social Que Viralizou no Brasil",
+    "description": "O Koo app vai substituir o Twitter? Entenda como a rede social funciona e porque os boatos fizeram com que ela se tornasse um sucesso.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/11/koo-app.png",
+    "url": "https://www.agenciamestre.com/redes-sociais/koo-app/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "O Instagram Está Lançando Novas Ferramentas De Agendamento",
+    "description": "Aprenda a utilizar a nova ferramenta de agendamento do Instagram e confira todas as novidades!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/11/instagram-novas-ferramentas-de-agendamento.jpg",
+    "url": "https://www.agenciamestre.com/redes-sociais/instagram-novas-ferramentas-de-agendamento/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "TikTok – A Rede Social Que Veio Para Impactar",
+    "description": "O TikTok é a rede social do momento que já ultrapassou o Instagram em números de downloads. Leia este artigo e saiba mais sobre o potencial deste canal!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2021/06/rede-social-tiktok.jpg",
+    "url": "https://www.agenciamestre.com/redes-sociais/tiktok/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Tendências Para as Redes Sociais em 2023",
+    "description": "Quer se antecipar aos seus concorrentes nas estratégias das redes sociais para o próximo ano? Então confira o artigo completo!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/11/tendencias-redes-sociais.png",
+    "url": "https://www.agenciamestre.com/redes-sociais/tendencias-redes-sociais/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Conta do Instagram Suspensa e Perda de Seguidores",
+    "description": "Em sete países diferentes usuários estão tendo problemas com suas contas e número de seguidores, acompanhe a resolução.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/10/conta-do-instagram-suspensa-perda-de-seguidores.jpg",
+    "url": "https://www.agenciamestre.com/redes-sociais/conta-do-instagram-suspensa-perda-de-seguidores/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Marketing de Conteúdo B2C: Principais Desafios em 2023",
+    "description": "O estudo B2C Content Marketing Benchmark identificou as estratégias e desafios dos profissionais de marketing B2C. Confira como se preparar!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/01/conteudo-b2c.jpg",
+    "url": "https://www.agenciamestre.com/marketing-de-conteudo/conteudo-b2c/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "O Que os Profissionais de Marketing B2B Precisam em 2023",
+    "description": "Confira quais ações são as mais importantes para o sucesso da estratégia de marketing B2B em 2023!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/01/marketing-de-conteudo-b2b-2023.jpg",
+    "url": "https://www.agenciamestre.com/marketing-de-conteudo/marketing-de-conteudo-b2b-2023/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Como a Inteligência Artificial Vai Influenciar no Marketing de Conteúdo",
+    "description": "Quais expectativas podemos ter ao utilizar a IA na produção de conteúdo? Veja como as empresas estão investindo nessa estratégia.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2019/06/inteligencia-artificial-no-marketing-de-conteudo.jpg",
+    "url": "https://www.agenciamestre.com/marketing-de-conteudo/inteligencia-artificial-no-marketing-de-conteudo/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Estratégias de Conteúdo Interativo para Aumentar o Engajamento",
+    "description": "Entenda como funciona a criação de conteúdo interativo e saiba como utilizar essa estratégia a favor da sua empresa!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/10/conteudo-interativo.jpg",
+    "url": "https://www.agenciamestre.com/marketing-de-conteudo/estrategias-de-conteudo-interativo/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Compradores B2B Afirmam: Conteúdo Impacta Na Decisão de Compra",
+    "description": "Executivos B2B afirmam que a qualidade do conteúdo de um fornecedor é um ponto chave para se destacar da concorrência, confira o estudo!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/08/conteudo-impacta-na-decisao-de-compra.jpg",
+    "url": "https://www.agenciamestre.com/marketing-de-conteudo/conteudo-impacta-na-decisao-de-compra/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Motivos Para Investir Em Conteúdo Estratégico",
+    "description": "Veja como vender mais utilizando conteúdo estratégico a seu favor, assim como grandes empresas já estão fazendo!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2020/12/motivos-para-investir-em-conteudo-estrategico.jpg",
+    "url": "https://www.agenciamestre.com/marketing-de-conteudo/motivos-para-investir-em-conteudo-estrategico/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Tendências de Marketing de Conteúdo em 2022",
+    "description": "Alinhe suas estratégias de conteúdo, as expectativas do mercado e eleve seus resultados. Confira o relatório da Semrush!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/09/tendencias-marketing-de-conteudo.jpg",
+    "url": "https://www.agenciamestre.com/marketing-de-conteudo/tendencias-marketing-de-conteudo/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "O Melhor Conteúdo Para o LinkedIn em 2022",
+    "description": "Confira os principais formatos de conteúdo para sua estratégia de Marketing no LinkedIn, de acordo com o tamanho do seu perfil.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/06/conteudo-para-o-linkedin.jpg",
+    "url": "https://www.agenciamestre.com/marketing-de-conteudo/conteudo-para-o-linkedin/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Por Que é Importante Investir em Conteúdos de Qualidade?",
+    "description": "Tanto os consumidores quanto as empresas têm expectativas sobre a qualidade do conteúdo publicado na internet. Entenda porquê.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/05/convertkit-BPZ1huYak7c-unsplash.jpg",
+    "url": "https://www.agenciamestre.com/marketing-de-conteudo/investimento-em-conteudo/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "As Preferências de Conteúdo dos Compradores B2B",
+    "description": "Saiba quais formatos de conteúdo são mais valiosos para os consumidores B2B e quais suas preferências de consumo. Veja mais!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/04/annie-spratt-g9KFpAfQ5bc-unsplash.jpg",
+    "url": "https://www.agenciamestre.com/marketing-de-conteudo/consumidores-b2b/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Storytelling Para Copywriting: Como Utilizar Histórias Para Aumentar Suas Vendas",
+    "description": "Veja como utilizar técnicas de Storytelling em suas copies de venda para manter os leitores mais engajados e aumentar suas vendas!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/04/melanie-deziel-84g0uqyDlT0-unsplash.jpg",
+    "url": "https://www.agenciamestre.com/marketing-de-conteudo/storytelling-para-copywriting/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "O Que Os Profissionais Buscam Com A Produção de Conteúdo?",
+    "description": "O marketing de conteúdo é uma ferramenta valiosa para geração de leads. Leia a notícia e confira as prioridades dos profissionais B2B e B2C!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/03/fikret-tozak-rfNLa1HL7eY-unsplash.jpg",
+    "url": "https://www.agenciamestre.com/marketing-de-conteudo/producao-de-conteudo/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "9 Lições Dos Serviços de Streaming Para Agregar na Sua Vida Profissional",
+    "description": "Mais do que te entreter, os serviços de streaming podem te ajudar a ter uma vida profissional melhor. Veja como!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2020/11/servicos-de-streaming.jpg",
+    "url": "https://www.agenciamestre.com/geral/licoes-dos-servicos-de-streaming/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Gestão do seu Dia a Dia — Como Ter Sucesso Profissional",
+    "description": "Entenda como ter sucesso profissional ao aplicar as dicas de gestão do dia a dia presentes neste artigo. Confira e aplique!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2020/10/como-ter-sucesso-profissional.jpg",
+    "url": "https://www.agenciamestre.com/geral/como-ter-sucesso-profissional/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Como Incentivar a Inteligência Emocional no Ambiente de Trabalho",
+    "description": "Incentivar a inteligência emocional no ambiente de trabalho é muito importante para que seus colaboradores mantenham-se saudáveis e engajados. Confira!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2020/08/como-incentivar-a-inteligencia-emocional-no-ambiente-de-trabalho.jpg",
+    "url": "https://www.agenciamestre.com/geral/como-incentivar-a-inteligencia-emocional-no-ambiente-de-trabalho/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "RD Summit 2017",
+    "description": "O RD Summit 2017 foi muito especial para a Agência Mestre! Confira o vídeo em que nosso CEO, Fábio Ricotta, conta para você quais foram os prêmios que conquistamos no evento da Resultados Digitais!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2017/10/RD-summit-2017.jpg",
+    "url": "https://www.agenciamestre.com/geral/rd-summit-2017/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Manual de Lançamento de Um Novo Site",
+    "description": "Está fazendo modificações na sua página? Então confira um manual completo sobre o lançamento de um novo site. Com ele, você evita erros e facilita esse processo. Veja!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2017/10/lancamento-de-um-novo-site.jpg",
+    "url": "https://www.agenciamestre.com/geral/manual-de-lancamento-de-um-novo-site/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Como Ampliar a Velocidade do Seu Site",
+    "description": "Para melhorar a experiência dos usuários, que tal ampliar a velocidade do seu site? Com isso você pode aumentar a conversão de leads a até de vendas. Clique e veja o que deve ser feito.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2017/09/ampliar-a-velocidade-do-seu-site.jpg",
+    "url": "https://www.agenciamestre.com/geral/como-ampliar-a-velocidade-do-seu-site/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "MestreTV Episódio 23- Mensagens de Natal",
+    "description": "No vídeo de hoje, Fábio Ricotta aparece vestido de papai Noel especialmente para te dar algumas mensagens tanto pessoais quanto profissionais de natal. Confira!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2015/12/EPISODIO_23.jpg",
+    "url": "https://www.agenciamestre.com/geral/mestretv-episodio-23-mensagens-de-natal/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Como Implementar o CRM de Vendas na Rotina da Sua Equipe",
+    "description": "Se você está no processo de implementar um CRM de vendas na sua empresa e quer facilitar essas mudanças tanto para você quanto para sua equipe, confira as dicas no artigo!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/02/como-implementar-o-crm-de-vendas-na-rotina-da-sua-equipe.jpg",
+    "url": "https://www.agenciamestre.com/ferramentas/como-implementar-o-crm-de-vendas-na-rotina-da-sua-equipe/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Google Trends: Descubra Tendências de Busca",
+    "description": "Saiba o que é e como utilizar o Google Trends, uma ferramenta que irá ajudar você a descobrir novas palavras-chave a serem exploradas. Confira!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2016/12/google-trends-1.jpg",
+    "url": "https://www.agenciamestre.com/ferramentas/google-trends/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "ChatGPT: O Sistema de IA Conversacional",
+    "description": "O ChatGPT é o novo concorrente do Google? Descubra tudo sobre o sistema IA que responde suas pesquisas de modo conversacional!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/12/chatgpt.png",
+    "url": "https://www.agenciamestre.com/ferramentas/chatgpt/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Como Escolher o Melhor CRM de Vendas Para sua Empresa",
+    "description": "Você sabe como escolher o melhor CRM de vendas para sua equipe comercial? Confira quais questões devem ser feitas antes de tomar essa decisão.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/02/como-escolher-o-melhor-crm-de-vendas-para-sua-empresa.jpg",
+    "url": "https://www.agenciamestre.com/ferramentas/como-escolher-o-melhor-crm-de-vendas-para-sua-empresa/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Google Search Console: O Relatório de Indexação de Vídeo Está Disponível",
+    "description": "Saiba quais são as funcionalidades disponíveis no novo Relatório de Indexação de Vídeos e como você pode utilizá-las.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/06/relatorio-de-indexacao-de-video.jpg",
+    "url": "https://www.agenciamestre.com/ferramentas/relatorio-de-indexacao-de-video/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Como Conectar o Looker Studio ao Google Planilhas",
+    "description": "Quer criar relatórios otimizados, dinâmicos e organizados para apresentar aos clientes? Então veja só essas dicas de como conectar o Google Data Studio com planilhas!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2023/01/looker-studio-e-google-planilhas.jpg",
+    "url": "https://www.agenciamestre.com/ferramentas/como-conectar-o-google-looker-studio-com-planilhas/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Ferramentas Para Organizar Tarefas e Ser Mais Produtivo",
+    "description": "Entenda o que é a gestão do tempo e como a utilização de ferramentas para organizar suas tarefas pode tornar seu dia a dia mais produtivo!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2017/06/ferramentas-para-gestoa-do-tempo.jpg",
+    "url": "https://www.agenciamestre.com/ferramentas/gestao-do-tempo-e-ferramentas-de-produtividade/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Recurso de Ideias de Conteúdo No Google Search Console",
+    "description": "Confira o recurso teste do GSC que fornece sugestões de conteúdo que podem ser escritos nos sites de seus usuários!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/12/ideias-de-conteudo-google-search-console.jpg",
+    "url": "https://www.agenciamestre.com/ferramentas/ideias-de-conteudo-google-search-console/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Consistência de Vendas — Como o CRM Te Ajuda a Vender Mais",
+    "description": "Confira o artigo para descobrir como o software CRM ajuda a sua empresa a ter consistência de vendas!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/12/consistencia-de-vendas-como-crm-ajuda-vender-mais.jpg",
+    "url": "https://www.agenciamestre.com/ferramentas/consistencia-de-vendas-como-o-crm-te-ajuda-a-vender-mais/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Simple ML: Aprendizado de Máquina Sem Código Para o Planilhas Google",
+    "description": "Machine Learning nas planilhas do Google? Sim, agora você pode gerar previsões automaticamente. Veja como funciona!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/12/simple-ml.png",
+    "url": "https://www.agenciamestre.com/ferramentas/simple-ml/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Data Studio Agora é Looker Studio",
+    "description": "Entenda porque o Google está migrando o Data Studio para o Looker e como essas mudanças podem beneficiar a sua análise de dados.",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2022/10/looker-studio.jpg",
+    "url": "https://www.agenciamestre.com/ferramentas/looker-studio/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "Melhores Ferramentas de SEO Para Otimizar o Desempenho do Seu Site",
+    "description": "Confira aqui uma lista completa com mais de 50 ferramentas de SEO que irão ajudar você a conquistar as melhores posições nos mecanismos de busca!",
+    "thumbnail": "https://www.agenciamestre.com/wp-content/uploads/2014/05/melhores-ferramentas-de-seo.jpg",
+    "url": "https://www.agenciamestre.com/ferramentas/ferramentas-de-seo-melhorar-desempenho/",
+    "owner": "Agência Mestre"
+  },
+  {
+    "title": "An Approach to Lazy Loading Custom Elements",
+    "description": "We’re fans of Custom Elements around here. Their design makes them particularly amenable to lazy loading, which can be a boon for performance. Inspired by a colleague’s experiments, I recently set about writing a simple auto-loader: Whenever a custom element appears in the DOM, we wanna load the corresponding implementation if it’s not available yet. […]",
+    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/02/wev-components-lazy.png",
+    "url": "https://css-tricks.com/an-approach-to-lazy-loading-custom-elements/",
+    "owner": "CSS-Tricks"
+  },
+  {
+    "title": "Different Ways to Get CSS Gradient Shadows",
+    "description": "It’s a question I hear asked quite often: Is it possible to create shadows from gradients instead of solid colors? There is no specific CSS property that does this (believe me, I’ve looked) and any blog post you find about …",
+    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/02/gradient-shadows.png",
+    "url": "https://css-tricks.com/different-ways-to-get-css-gradient-shadows/",
+    "owner": "CSS-Tricks"
+  },
+  {
+    "title": "Healthcare, Selling Lemons, and the Price of Developer Experience",
+    "description": "Every now and then, a one blog post is published and it spurs a reaction or response in others that are, in turn, published as blogs posts, and a theme starts to emerge. That’s what happened this past week and …",
+    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/02/react-lemons.jpg",
+    "url": "https://css-tricks.com/healthcare-selling-lemons-and-the-price-of-developer-experience/",
+    "owner": "CSS-Tricks"
+  },
+  {
+    "title": "Moving Backgrounds",
+    "description": "We often think of background images as texture or something that provides contrast for legible content — in other words, not really content. If it was content, you’d probably reach for an <img> anyway, accessibility and whatnot.\n\nBut there are …",
+    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/01/movable-background.png",
+    "url": "https://css-tricks.com/moving-backgrounds/",
+    "owner": "CSS-Tricks"
+  },
+  {
+    "title": "The truth about CSS selector performance",
+    "description": "Geez, leave it to Patrick Brosset to talk CSS performance in the most approachable and practical way possible. Not that CSS is always what’s gunking up the speed, or even the lowest hanging fruit when it comes to improving …",
+    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/01/edge-devtools-selector-stats.png",
+    "url": "https://css-tricks.com/the-truth-about-css-selector-performance/",
+    "owner": "CSS-Tricks"
+  },
+  {
+    "title": "The Double Emphasis Thing",
+    "description": "I used to have this boss who loved, loved, loved, loved to emphasize words. This was way back before we used a WYSIWYG editors and I’d have to handcode that crap.\n\n<pI used to have this \n…",
+    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/01/double-emphasis.jpg",
+    "url": "https://css-tricks.com/the-double-emphasis-thing/",
+    "owner": "CSS-Tricks"
+  },
+  {
+    "title": "A Fancy Hover Effect For Your Avatar",
+    "description": "Do you know that kind of effect where someone’s head is poking through a circle or hole? The famous Porky Pig animation where he waves goodbye while popping out of a series of red rings is the perfect example, and …",
+    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/02/featured-image-avatar.png",
+    "url": "https://css-tricks.com/a-fancy-hover-effect-for-your-avatar/",
+    "owner": "CSS-Tricks"
+  },
+  {
+    "title": "Caching Data in SvelteKit",
+    "description": "My previous post was a broad overview of SvelteKit where we saw what a great tool it is for web development. This post will fork off what we did there and dive into every developer’s favorite topic: caching. So, …",
+    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/01/svelte-cache.png",
+    "url": "https://css-tricks.com/caching-data-in-sveltekit/",
+    "owner": "CSS-Tricks"
+  },
+  {
+    "title": "border-image-outset",
+    "description": "The CSS border-image-outset property sets distance between an element’s border-image area and how far it goes beyond the element’s border-box.\n\n.container {\n  border-style: ridge;\n  border-width: 3rem;\n  border-image-source: url('path/to/image.jpg');\n  border-image-slice: 70; \n  border-image-width: 40%; \n  border-image-repeat: repeat;\n  border-image-outset: 2;\n}\n…",
+    "thumbnail": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png",
+    "url": "https://css-tricks.com/almanac/properties/b/border-image-outset/",
+    "owner": "CSS-Tricks"
+  },
+  {
+    "title": "AR, VR, and a Model for 3D in HTML",
+    "description": "Tucked down somewhere in the Safari Technology Preview 161 release notes is a seemingly innocous line about support for a new HTML element and attribute:\n\nAdded support for <model src> and honor <source type> attributes (257518@main)\n\nAnytime I …",
+    "thumbnail": "https://css-tricks.com/wp-content/uploads/2016/09/art_3d_gotchas_2.png",
+    "url": "https://css-tricks.com/ar-vr-and-a-model-for-3d-in-html/",
+    "owner": "CSS-Tricks"
+  },
+  {
+    "title": "color-scheme",
+    "description": "You know how we have “dark mode” and “light mode” these days? Browsers also have “dark” and “light” color schemes baked into their default styles. The CSS color-scheme property lets the browser use (or choose) to display certain elements with …",
+    "thumbnail": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png",
+    "url": "https://css-tricks.com/almanac/properties/c/color-scheme/",
+    "owner": "CSS-Tricks"
+  },
+  {
+    "title": "Animating CSS Grid (How To + Examples)",
+    "description": "I’m pleased to shine a light on the fact that the CSS grid-template-rows and grid-template-columns properties are now animatable in all major web browsers! Well, CSS Grid has technically supported animations for a long time, as it’s baked right …",
+    "thumbnail": "https://css-tricks.com/wp-content/uploads/2023/01/grid-animation.jpg",
+    "url": "https://css-tricks.com/animating-css-grid-how-to-examples/",
+    "owner": "CSS-Tricks"
+  },
+  {
+    "title": "Data Binding in React",
+    "description": "As developers, we don't like working with forms, but they're a critical part of most web applications! In this tutorial, you'll learn exactly how to wire up all of the different form controls in React. Never forget how to data-bind a checkbox or radio button again!",
+    "thumbnail": "https://www.joshwcomeau.com/react/data-binding/",
+    "url": "https://www.joshwcomeau.com/react/data-binding/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "Color Formats in CSS",
+    "description": "CSS gives us so many options when it comes to expressing color—we can use hex codes, rgb, hsl, and more. Which option should we choose? This turns out to be a surprisingly important decision! In this article, we'll take a tour of color formats in CSS, and see which option will serve us best.",
+    "thumbnail": "https://www.joshwcomeau.com/css/color-formats/",
+    "url": "https://www.joshwcomeau.com/css/color-formats/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "An Interactive Guide to Flexbox",
+    "description": "When we truly learn the secrets of the Flexbox layout mode, we can build absolutely incredible things. Fluid layouts that stretch and shrink without arbitrary breakpoints. In this action-packed interactive tutorial, we'll pop the hood on the Flexbox algorithm and learn how to do remarkable things with it. ✨",
+    "thumbnail": "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/",
+    "url": "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "A World-Class Code Playground with Sandpack",
+    "description": "No developer blog or technical documentation site is complete without an interactive code playground. The CodeSandbox team recently released a wonderful tool called Sandpack, to help us create these live-updating code editors. In this tutorial, I'll show you how I use it on this blog.",
+    "thumbnail": "https://www.joshwcomeau.com/react/next-level-playground/",
+    "url": "https://www.joshwcomeau.com/react/next-level-playground/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "Understanding useMemo and useCallback",
+    "description": "A roadtrip through two of React's most notorious hooks",
+    "thumbnail": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+    "url": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "Why React Re-Renders",
+    "description": "In React, we don't update the DOM directly, we tell React what we want the DOM to look like, and React tackles the rest. But how exactly does it do this? In this tutorial, we'll unpack exactly when and why React re-renders, and how we can use this information to optimize the performance of our React apps.",
+    "thumbnail": "https://www.joshwcomeau.com/react/why-react-re-renders/",
+    "url": "https://www.joshwcomeau.com/react/why-react-re-renders/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "Statements Vs. Expressions",
+    "description": "One of the most foundational things to understand about JavaScript is that programs are made up of statements, and statements have slots for expressions. In this blog post, we'll dig into how these two structures work, and see how building an intuition about this can help us solve practical problems.",
+    "thumbnail": "https://www.joshwcomeau.com/javascript/statements-vs-expressions/",
+    "url": "https://www.joshwcomeau.com/javascript/statements-vs-expressions/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "My Wonderful HTML Email Workflow",
+    "description": "A potent combination of MDX and MJML",
+    "thumbnail": "https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/",
+    "url": "https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "The Surprising Truth About Pixels and Accessibility",
+    "description": "“Should I use pixels or rems?”. In this comprehensive blog post, we'll answer this question once and for all. You'll learn about the accessibility implications, and how to determine the best unit to use in any scenario.",
+    "thumbnail": "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/",
+    "url": "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "You Don’t Need a UI Framework",
+    "description": "As developers, it can be tempting to grab a pre-styled UI framework like Material UI or Bootstrap. Seems like a great way to outsource design and save a bunch of time, right? In my experience, this is an unrealistic expectation, and things don’t quite work out that way.",
+    "thumbnail": "https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/",
+    "url": "https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "The Front-End Developer's Guide to the Terminal",
+    "description": "If you want to learn a modern JavaScript framework like React or Angular, you better be familiar with the terminal! So many frameworks and tools assume that you're proficient with it, without ever explaining it. This blog post is your missing manual, covering all of the most important fundamentals.",
+    "thumbnail": "https://www.joshwcomeau.com/javascript/terminal-for-js-devs/",
+    "url": "https://www.joshwcomeau.com/javascript/terminal-for-js-devs/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "Understanding Layout Algorithms",
+    "description": "The mental model shift that makes CSS more intuitive",
+    "thumbnail": "https://www.joshwcomeau.com/css/understanding-layout-algorithms/",
+    "url": "https://www.joshwcomeau.com/css/understanding-layout-algorithms/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "Delightful React File/Directory Structure",
+    "description": "How should we structure components and other files in our React apps? I've iterated my way to a solution I'm really happy with. In this blog post, I'll share how it works, what the tradeoffs are, and how I mitigate them.",
+    "thumbnail": "https://www.joshwcomeau.com/react/file-structure/",
+    "url": "https://www.joshwcomeau.com/react/file-structure/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "Make Beautiful Gradients",
+    "description": "Have you ever noticed that gradients tend to look a little gray and washed-out in the middle? This happens because of a mathematical quirk with RGB colors. Fortunately, we can work around this quirk, and create beautiful, lush, saturated gradients.",
+    "thumbnail": "https://www.joshwcomeau.com/css/make-beautiful-gradients/",
+    "url": "https://www.joshwcomeau.com/css/make-beautiful-gradients/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "My Custom CSS Reset",
+    "description": "I have a set of baseline CSS styles that come with me from project to project. In the past, I'd use a typical CSS reset, but times have changed, and I believe I have a better set of global styles!",
+    "thumbnail": "https://www.joshwcomeau.com/css/custom-css-reset/",
+    "url": "https://www.joshwcomeau.com/css/custom-css-reset/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "Introducing “Shadow Palette Generator”",
+    "description": "In order to create lush, realistic shadows in CSS, we need to use multiple layers and colors. How do we come up with all of the parameters, though? I've built a tool that'll help.",
+    "thumbnail": "https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/",
+    "url": "https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "Designing Beautiful Shadows in CSS",
+    "description": "When I look around the web, most of the shadows I see are fuzzy grey boxes. It doesn't have to be this way, though! CSS gives us the tools to create rich, lush, lifelike shadows. In this tutorial, I'll show you how.",
+    "thumbnail": "https://www.joshwcomeau.com/css/designing-shadows/",
+    "url": "https://www.joshwcomeau.com/css/designing-shadows/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "An Interactive Guide to Keyframe Animations",
+    "description": "CSS keyframe animations are incredibly flexible and powerful, but they’re also a bit weird. In this deep-dive tutorial, we'll learn how CSS keyframes work from the ground up, and see how to use them to build high-quality animations.",
+    "thumbnail": "https://www.joshwcomeau.com/animation/keyframe-animations/",
+    "url": "https://www.joshwcomeau.com/animation/keyframe-animations/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "The World of CSS Transforms",
+    "description": "The “transform” property is such a powerful part of the CSS language! In this blog post, we'll take a deep look at this property and see some of the nifty things it can do.",
+    "thumbnail": "https://www.joshwcomeau.com/css/transforms/",
+    "url": "https://www.joshwcomeau.com/css/transforms/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "How To Learn Stuff Quickly",
+    "description": "As software developers, we're always learning new things; it's practically the whole gig! If we can learn to quickly pick up new languages/frameworks/tools, we'll become so much more effective at our job. It's sort of a superpower.",
+    "thumbnail": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
+    "url": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
+    "owner": "joshwcomeau"
+  },
+  {
+    "title": "O que é a nova propostas de sequências com o Iterator.range no JavaScript",
+    "description": "Uma API que você nunca imagina que precisa até você precisar! Conheça as sequências no JavaScript!",
+    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2023/02/articles-1.png",
+    "url": "https://blog.lsantos.dev/number-range/",
+    "owner": "Lucas Santos"
+  },
+  {
+    "title": "O que há de novo no TypeScript 5.0",
+    "description": "O TypeScript 5.0 beta saiu! Chegou a hora de descobrir o que existe de mais novo na nova versão do superset que todos amam!",
+    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2023/01/articles-1.png",
+    "url": "https://blog.lsantos.dev/typescript-5/",
+    "owner": "Lucas Santos"
+  },
+  {
+    "title": "O que são erros e para que serve o error.cause no JavaScript?",
+    "description": "Tratamento de erros são uma das habilidades mais importantes e mais difíceis de qualquer dev. Mas quase ninguém sabe que tem um jeito muito mais fácil de tratar seus erros.",
+    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2023/01/articles.png",
+    "url": "https://blog.lsantos.dev/error-cause/",
+    "owner": "Lucas Santos"
+  },
+  {
+    "title": "Para que servem os generators no JS?",
+    "description": "Os generators não são uma API recente do JavaScript, porém ainda sim são pouco conhecidos. Vamos aprender para que você pode usar generators e como você pode levar suas habilidades para outro nível com essa funcionalidade",
+    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2023/01/Blog-cover-Template.png",
+    "url": "https://blog.lsantos.dev/generators-js/",
+    "owner": "Lucas Santos"
+  },
+  {
+    "title": "Vamos falar sobre o Deno",
+    "description": "O Node.js está finalmente morrendo? Seria esse o momento de migrarmos para o Deno? Bora entender tudo sobre ele nesse artigo!",
+    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/12/Blog-cover-Template-1.png",
+    "url": "https://blog.lsantos.dev/deno/",
+    "owner": "Lucas Santos"
+  },
+  {
+    "title": "O JavaScript vai deixar de ser single thread? Entenda as Module Expressions",
+    "description": "E se o JavaScript fosse tão bom em mais de uma thread como se ele se comporta hoje com uma só? Vamos entender as sobre Block Expressions!",
+    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/12/Blog-cover-Template.png",
+    "url": "https://blog.lsantos.dev/module-expressions-js/",
+    "owner": "Lucas Santos"
+  },
+  {
+    "title": "Decorators no JavaScript",
+    "description": "Uma das propostas mais importantes do JavaScript acabou de chegar no estágio 3! Entenda o que são decorators e por que eles não são a única novidade dessa proposta!",
+    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/11/Blog-cover-Template.png",
+    "url": "https://blog.lsantos.dev/javascript-decorators/",
+    "owner": "Lucas Santos"
+  },
+  {
+    "title": "CLIs mais simples com Util.parseArgs",
+    "description": "Entenda sobre como o Node.js facilitou a criação de ferramentas de linhas de comando com o novo método parseArgs!",
+    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/10/Blog-cover-Template-1.png",
+    "url": "https://blog.lsantos.dev/parseargs/",
+    "owner": "Lucas Santos"
+  },
+  {
+    "title": "Tudo sobre o novo operador satisfies no TypeScript",
+    "description": "Com a versão beta 4.9 do TypeScript, ganhamos um novo operador, o \"satisfies\", bora entender como que esse novo operador pode ser útil e porque ele é super legal!",
+    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/10/Blog-cover-Template.png",
+    "url": "https://blog.lsantos.dev/ts-satisfies/",
+    "owner": "Lucas Santos"
+  },
+  {
+    "title": "Criando bots para o Telegram com o GrammY",
+    "description": "Aprenda a criar bots incríveis para o Telegram usando uma ferramenta sensacional que vai revolucionar a forma como você trabalhar com automações.",
+    "thumbnail": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/09/Blog-cover-Template-2.png",
+    "url": "https://blog.lsantos.dev/telegram-grammy-bot/",
+    "owner": "Lucas Santos"
+  },
+  {
+    "title": "Novidades RD Station Marketing – Fevereiro 2023",
+    "description": "Além do Carnaval, fevereiro é o mês marcado pela chegada de novidades incríveis: mais praticidade para enviar mensagens de Whatsapp, melhorias na leitura de taxa de cliques de e-mail e facilidade para cancelar ou alterar suas campanhas",
+    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2023/02/Novidades-RD-Station-Fevereiro-Carnaval-sem-fundo-260x130.png",
+    "url": "https://blog.rdstation.com/novidades-rd-station-marketing-fevereiro-2023/",
+    "owner": "Blog RD Station"
+  },
+  {
+    "title": "Novidades RD Station Marketing – Janeiro 2023",
+    "description": "Começamos o ano, uma nova jornada de 12 meses onde vamos acompanhar juntos a evolução do nosso produto e como ele apoiará as suas Estratégias de Marketing. Este mês trazemos um artigo completo sobre a migração para o Google Analytics 4....",
+    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2023/01/Novidades-RD-Station-Fevereiro-2023-com-fundo-2037-260x130.png",
+    "url": "https://blog.rdstation.com/novidades-rd-station-marketing-janeiro-2023/",
+    "owner": "Blog RD Station"
+  },
+  {
+    "title": "Aprenda a salvar os seus áudios do WhatsApp no RD Station CRM",
+    "description": "Mantenha as suas negociações sempre atualizadas, sem esquecer de nenhuma informação importante.",
+    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2023/01/Novidades-RD-Station-Janeiro-2023-sem-fumdo-2036-260x130.png",
+    "url": "https://blog.rdstation.com/mantenha-as-suas-negociacoes-atualizadas/",
+    "owner": "Blog RD Station"
+  },
+  {
+    "title": "RD Station Marketing: tudo sobre a migração para o Google Analytics 4",
+    "description": "O Google Analytics 4 passa a ser a única alternativa para transmissão dos dados a partir de julho de 2023, saiba porque você deve migrar sua conta no Google Analytics (Universal Analytics) utilizada no RD Station Marketing.",
+    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2022/04/header-news-crm-abril-sem-fundo-260x130.png",
+    "url": "https://blog.rdstation.com/rd-station-marketing-tudo-sobre-a-migracao-para-o-google-analytics-4/",
+    "owner": "Blog RD Station"
+  },
+  {
+    "title": "Novidades RD Station Marketing – Dezembro 2022",
+    "description": "Retrospectiva 2022 🎉: vamos olhar o ano que passou e relembrar quais foram as melhores novidades do RD Station Marketing ao longo de 2022.",
+    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2022/12/Novidades-RD-Station-Dezembro-2034-260x130.png",
+    "url": "https://blog.rdstation.com/novidades-rd-station-marketing-dezembro-2022/",
+    "owner": "Blog RD Station"
+  },
+  {
+    "title": "Como a Agência Mestre ajudou a Prev Fácil a gerar 8.828% mais Leads em um ano",
+    "description": "A Prev Fácil é uma consultoria que atua com foco no setor previdenciário de instituições públicas e privadas. Foi fundada em 2000 por Cristiane Simião P. Payão e, ao longo desses mais de 20 anos, a empresa coleciona resultados sólidos e...",
+    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2022/12/case-260x117.jpg",
+    "url": "https://blog.rdstation.com/como-a-agencia-mestre-ajudou-a-prev-facil-a-gerar-8-828-mais-leads-em-um-ano/",
+    "owner": "Blog RD Station"
+  },
+  {
+    "title": "Como a Vivalá – Turismo Sustentável no Brasil – gerou 651% mais vendas em um ano",
+    "description": "A Vivalá atua no setor de turismo sustentável no Brasil, operando com expedições de Turismo de Base Comunitária (- TBC), Volunturismo e TBC de Aventura em Unidades de Conservação brasileiras e junto a comunidades tradicionais indígenas,...",
+    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2022/12/casee-248x165.jpg",
+    "url": "https://blog.rdstation.com/como-a-vivala-turismo-sustentavel-no-brasil-gerou-651-mais-vendas-em-um-ano/",
+    "owner": "Blog RD Station"
+  },
+  {
+    "title": "RD Station CRM: retrospectiva 2022",
+    "description": "Para relembrar tudo o que aconteceu, vem ver o vídeo que preparamos para você!",
+    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2022/12/Header-800px-x-400px-260x130.png",
+    "url": "https://blog.rdstation.com/rd-station-crm-retrospectiva-2022/",
+    "owner": "Blog RD Station"
+  },
+  {
+    "title": "Novidades RD Station Marketing – Novembro 2022",
+    "description": "Confira as evoluções de produto em clima de Copa do Mundo🏆. A seleção de novidades por aqui que batem um bolão são: Teste A/B na Automação, Lista Inteligente de Leads, melhorias na tela de Meta Lead Ads e ainda novas integrações. E não...",
+    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2022/11/Novidades-RD-Station-Novembro-2026-SEM-TEXTO-1-260x130.png",
+    "url": "https://blog.rdstation.com/novidades-rd-station-marketing-novembro-2022/",
+    "owner": "Blog RD Station"
+  },
+  {
+    "title": "Marketing para Black Friday: dicas de campanhas, automações e disparos",
+    "description": "A sexta-feira mais aguardada do ano está chegando! Neste post você confere 9 dicas de Marketing Digital para fazer suas campanhas de Black Friday",
+    "thumbnail": "https://blog.rdstation.com/wp-content/uploads/2021/10/GettyImages-1295109677-247x165.jpg",
+    "url": "https://blog.rdstation.com/marketing-para-black-friday/",
+    "owner": "Blog RD Station"
+  },
+  {
+    "title": "4 sacadas de marketing compartilhadas por especialistas em 2022",
+    "description": "Não dá para negar: marketing digital é um campo em constante evolução, e que exige inovação e adaptação por par(...)",
+    "thumbnail": "https://rockcontent.com/br/wp-content/uploads/sites/2/2023/02/best-time-for-webinars.png",
+    "url": "https://rockcontent.com/br/blog/retrospectiva-jam-session/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "TikTok toma medidas para reverter a queda de usuários, entre outras pressões",
+    "description": "Até o início de 2023, o TikTok tinha uma fama e tanto: o aplicativo que mais crescia. Desde o seu início na China em (...)",
+    "thumbnail": "https://rockcontent.com/br/wp-content/uploads/sites/2/2023/02/tiktok-ban-us.png",
+    "url": "https://rockcontent.com/br/blog/tiktok-reverter-queda-de-usuarios/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Como o iFood saiu de 0 para quase 1 milhão de acessos em menos de um ano",
+    "description": "Depois da parceria com a Rock Content, o iFood alcançou um tráfego de 900 mil acessos, consolidando sua audiência onl(...)",
+    "thumbnail": "https://rockcontent.com/br/wp-content/uploads/sites/2/2023/02/Case-Ifood_Blogpost.png",
+    "url": "https://rockcontent.com/br/blog/case-de-sucesso-ifood/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Os melhores anúncios do Super Bowl 2023: temas e insights dos comerciais deste ano",
+    "description": "O Super Bowl 2023 entregou uma audiência excepcional e um jogo emocionante. No entanto, como de costume alguns espectad(...)",
+    "thumbnail": "https://rockcontent.com/br/wp-content/uploads/sites/2/2023/02/The-best-2023-Super-Bowl-commercials-ranked.png",
+    "url": "https://rockcontent.com/br/blog/melhores-anuncios-super-bowl/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Estudo mostra que o controle sobre dados supera a fidelidade à marca para os consumidores de hoje",
+    "description": "De acordo com um estudo realizado pela Ipsos e pelo Google, o desejo do consumidor médio de manter o controle de seus d(...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20117'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/consumidores-controle-sobre-dados/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Microsoft x Google: Inteligência Artificial promove disputa entre gigantes e preocupa profissionais de SEO",
+    "description": "Se você acessou as redes sociais nos últimos dias, provavelmente já está por dentro das notícias sobre ferramentas (...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20117'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/microsoft-google-batalha-ia/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Google Maps lança novos recursos para aumentar a interatividade e a imersão",
+    "description": "Olha só o que o Google está aprontando dessa vez! A empresa vai elevar o nível de interatividade do Google Maps atrav(...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20117'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/google-maps-interatividade/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Google anuncia seu chatbot Bard. Qual será o impacto em SEO e no marketing digital?",
+    "description": "O ChatGPT tem sido uma sensação inegável, então não é surpresa alguma que as gigantes da tecnologia estejam um pou(...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20117'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/google-anuncia-chatbot-bard/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Co-fundadores do Instagram anunciam Artifact, um agregador de notícias orientado por IA",
+    "description": "Mais de quatro anos após deixarem o Instagram, os co-fundadores, Kevin Systrom e Mike Krieger, voltam ao mercado para a(...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20158'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/artifact-agregador-de-noticias/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Quais tendências de publicidade o Super Bowl trará este ano?",
+    "description": "Todos os anos, dezenas de milhões de telespectadores em todo o país e em todo o mundo aguardam o Super Bowl. O Super B(...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20158'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/tendencias-publicidade-super-bowl/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Vazamento de fatores de ranqueamento do Yandex: o que importa para profissionais de SEO?",
+    "description": "Recentemente, o Yandex, mecanismo de busca russo construído como um “clone” do Google por seus ex-funcioná(...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20117'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/vazamento-dados-yandex/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Twitter está estudando recursos de pagamento e indo além da criação de conteúdo",
+    "description": "Depois de um 2022 muito conturbado e polêmico para o Twitter, já temos os primeiros sinais que nos mostram que talvez (...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20158'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/twitter-recursos-de-pagamento/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Instagram admite que focou demais em vídeos e vai dar mais destaque para fotos em 2023",
+    "description": "O Instagram está mudando seu foco de volta para as fotos em 2023, depois de admitir que \"focou demais em vídeos\" em 20(...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20158'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/instagram-voltara-a-focar-em-fotos-em-2023/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Google Optimize será descontinuado: conheça alternativas para testes A/B",
+    "description": "O Google Optimize será oficialmente descontinuado em setembro de 2023, deixando os profissionais de marketing sem uma d(...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20117'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/google-optimize-descontinuado/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Google planeja lançar recursos de chatbot para seu mecanismo de busca este ano",
+    "description": "Estamos todos acostumados com o Google nos dizendo como ranquear bem, como produzir bons conteúdos para pessoas e lhes (...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20117'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/google-chatbot-mecanismo-de-busca/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Não só algoritmo: Instagram lança série de novos recursos que dão autonomia aos usuários",
+    "description": "Conheça o Quiet Mode e as novas opções de recomendações do app(...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20117'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/instagram-recursos-autonomia-usuarios/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Conheça o botão “aquecer” do TikTok e o motivo de tanto burburinho ultimamente",
+    "description": "O botão \"aquecer\" do TikTok, que permite aos funcionários da empresa selecionar manualmente quais vídeos irão virali(...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20117'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/botao-de-aquecer-do-tiktok/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "O paradoxo da IA: o impacto do ChatGPT no marketing de conteúdo",
+    "description": "O ChatGPT representa oportunidades e riscos a serem considerados pelos profissionais de marketing. Vamos refletir sobre (...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20117'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/paradoxo-da-ia/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Amazon suspende programas voltados para ONGs: na crise, empresas analisam como alinhar impacto social aos negócios",
+    "description": "O programa AmazonSmile será encerrado em breve. Isso é um sinal de que a Amazon está se afastando de seu compromisso (...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20117'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/amazonsmile-encerra-programa/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "Getty x Shutterstock: duas posturas sobre IA e o impacto futuro dessa tecnologia",
+    "description": "O que as diferentes posturas da Getty Images e da Shutterstock em relação à IA nos dizem sobre o impacto futuro dessa(...)",
+    "thumbnail": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20117'%3E%3C/svg%3E",
+    "url": "https://rockcontent.com/br/blog/getty-images-shutterstock-ia/",
+    "owner": "Rock Content - BR"
+  },
+  {
+    "title": "The Case Against Monkey Patching, From a Rails Core Team Member",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220411_216ppi_05_CodeRanges-ADeeperLookAtRubyStrings.jpg?v=1676658509&width=1024",
+    "url": "https://shopify.engineering/topics/development",
+    "owner": "Shopify"
+  },
+  {
+    "title": "The 25 Percent Rule for Tackling Technical Debt",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210719_72ppi_01_ShopifyMadePatternsInOurRailsApps_384c848b-4fcd-4363-a8e4-5f84d5f05999.jpg?v=1676501389&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "owner": "Shopify"
+  },
+  {
+    "title": "ShopifyQL Notebooks: Simplifying Querying with Commerce Data Models",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210719_216ppi_05_FiveStepsforBuildingMachineLearning_2.jpg?v=1676298056&width=600",
+    "url": "https://shopify.engineering/topics/data-science-engineering",
+    "owner": "Shopify"
+  },
+  {
+    "title": "Bringing Javascript to WebAssembly for Shopify Functions",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220111_216ppi_01_AllanLeinwand2022BlogPost-Header.jpg?v=1675267141&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "owner": "Shopify"
+  },
+  {
+    "title": "The Complex Data Models Behind Shopify's Tax Insights Feature",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_ComplexDataModelsShopifyTax.jpg?v=1675449874&width=600",
+    "url": "https://shopify.engineering/topics/data-science-engineering",
+    "owner": "Shopify"
+  },
+  {
+    "title": "The Hardest Part of Writing Tests is Getting Started",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220111_72ppi_04A_HowToGetAnEngineeringInternshipAtShopify-Header_fd495599-7dd0-4edc-8fed-c36ec4ea1a08.jpg?v=1675270849&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "owner": "Shopify"
+  },
+  {
+    "title": "Performance Testing At Scale—for BFCM and Beyond",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210719_72ppi_05_FlashIsAShapeNotASize.jpg?v=1674838084&width=600",
+    "url": "https://shopify.engineering/topics/infrastructure",
+    "owner": "Shopify"
+  },
+  {
+    "title": "From Farmer to Security Engineer: How Dev Degree Helped Me Find My Dream Job",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_211209_216ppi_01_FiveTipsForGrowingYourEngineeringCareer_77266935-2599-41dd-963a-7d55bbd5baac.jpg?v=1674496626&width=600",
+    "url": "https://shopify.engineering/topics/culture",
+    "owner": "Shopify"
+  },
+  {
+    "title": "Making Your React Native Gestures Feel Natural",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_211008_72ppi_06_BuildinganAppClipwithReactNative_e8df8a83-482c-4e0d-a2a0-660737ababcb.jpg?v=1674227288&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "owner": "Shopify"
+  },
+  {
+    "title": "Ruby 3.2’s YJIT is Production-Ready",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_211008_216ppi_02_TryOutYJITforFasterRubying.jpg?v=1673882706&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "owner": "Shopify"
+  },
+  {
+    "title": "How Good Documentation Can Improve Productivity",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_good_documentation_practices.jpg?v=1673458649&width=600",
+    "url": "https://shopify.engineering/topics/culture",
+    "owner": "Shopify"
+  },
+  {
+    "title": "From Ruby to Node: Overhauling Shopify’s CLI for a Better Developer Experience",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210719_216ppi_01_ShopifyMadePatternsInOurRailsApps_2.jpg?v=1673031411&width=600",
+    "url": "https://shopify.engineering/topics/developer-tooling",
+    "owner": "Shopify"
+  },
+  {
+    "title": "Reliving Your Happiest HTTP Interactions with Ruby’s VCR Gem",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220411_216ppi_02_RubyExecutionModels_8c134200-ca87-4174-8f8d-0976492f1a3d.jpg?v=1671729711&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "owner": "Shopify"
+  },
+  {
+    "title": "Monte Carlo Simulations: Separating Signal from Noise in Sampled Success Metrics",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_221107_72ppi_05_MonteCarlo.jpg?v=1670585039&width=600",
+    "url": "https://shopify.engineering/topics/data-science-engineering",
+    "owner": "Shopify"
+  },
+  {
+    "title": "React Native Skia: A Year in Review and a Look Ahead",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220411_72ppi_03_SkiaAnnouncement_a40cc9c0-96cd-4e0e-8f56-6dd46a6f9dec.jpg?v=1671558311&width=600",
+    "url": "https://shopify.engineering/topics/mobile",
+    "owner": "Shopify"
+  },
+  {
+    "title": "Migrating our Largest Mobile App to React Native",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210525_216ppi_02_ReactNativeistheFutureofMobileatShopify.jpg?v=1671552000&width=600",
+    "url": "https://shopify.engineering/topics/mobile",
+    "owner": "Shopify"
+  },
+  {
+    "title": "Optimizing Ruby’s Memory Layout: Variable Width Allocation",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_210525_72ppi_03_HowtoBuildaWebAppwithandwithoutRailsLibraries_efa4ec9f-e707-4ba1-94e8-402e5c4f9abb.jpg?v=1671558078&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "owner": "Shopify"
+  },
+  {
+    "title": "Year in Review 2022: Tenderlove's Ruby and Rails Reflections and Predictions",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_211008_216ppi_01_YJIT-BuildingaNewJITCompilerforCRuby_2.jpg?v=1671484892&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "owner": "Shopify"
+  },
+  {
+    "title": "Automatically Rotating GitHub Tokens (So You Don’t Have To)",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_220901_216ppi_06_HowToWriteCodeWithoutHavingToReadIt.jpg?v=1670857627&width=600",
+    "url": "https://shopify.engineering/topics/developer-tooling",
+    "owner": "Shopify"
+  },
+  {
+    "title": "Shopify Embraces Rust for Systems Programming",
+    "description": "by Eileen Uchitelle Feb 21, 2023",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0779/4361/articles/ShopifyEng_BlogIllustrations_shopify_embraces_rust_systems-programming.jpg?v=1670972465&width=600",
+    "url": "https://shopify.engineering/topics/development",
+    "owner": "Shopify"
+  },
+  {
+    "title": "Smashing Podcast Episode 57 With Marcin Wichary: What’s The Key To A Great Keyboard?",
+    "description": "february 21, 2023 — In this episode of the Smashing Podcast, we ask what’s the key to a great keyboard? Is this essential part of our daily toolkit easily overlooked? Vitaly Friedman talks to expert Marcin Wichary to find out.\nRead more…",
+    "thumbnail": "https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36527166-76ee-41ea-be75-e09fc1070f07/drew-mclellan-200x200.jpg",
+    "url": "https://www.smashingmagazine.com/author/drew-mclellan",
+    "owner": "Smashing Magazine"
+  },
+  {
+    "title": "Keys To An Accessibility Mindset",
+    "description": "february 20, 2023 — An accessible product can be daunting to build as there’s so much nuance and technical depth to consider. In this article, Daniel Yuschick demonstrates three keys for approaching and developing accessible content without leaving you lost in the weeds.\nRead more…",
+    "thumbnail": "https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b3f87bb9-5dfb-4509-8f6a-31e83d223374/daniel-yuschick-200x200.jpg",
+    "url": "https://www.smashingmagazine.com/author/daniel-yuschick",
+    "owner": "Smashing Magazine"
+  },
+  {
+    "title": "A Step-By-Step Guide To Building Accessible Carousels",
+    "description": "february 17, 2023 — Most carousels come along with usability and accessibility issues. To avoid these issues, this article addresses step-by-step design considerations as well as semantic requirements for carousels to be accessible. It is intended to create an in-depth understanding of the implementation and its impact on users.\nRead more…",
+    "thumbnail": "https://files.smashing.media/authors/sonja-weckenmann-200x200.jpg",
+    "url": "https://www.smashingmagazine.com/author/sonja-weckenmann",
+    "owner": "Smashing Magazine"
+  },
+  {
+    "title": "Putting Gears In Motion: Animating Cars With HTML And SVG",
+    "description": "february 16, 2023 — SVG <animateMotion> provides a way to define how an element moves along a motion path. In this article, Paul Scanlon shares an idea of how to use it by animating race cars in an infinite loop as easy as one-two-three!\nRead more…",
+    "thumbnail": "https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ff36851-cb7a-4e58-abbb-bb1cd6eabc63/paul-scanlon-200x200.jpg",
+    "url": "https://www.smashingmagazine.com/author/paul-scanlon",
+    "owner": "Smashing Magazine"
+  },
+  {
+    "title": "Five Steps To Design Your Product With Powerful Storytelling",
+    "description": "february 15, 2023 — How to apply powerful storytelling to design a compelling and memorable digital experience on a landing page. A case study of the Smart Interface Design Patterns landing page.\nRead more…",
+    "thumbnail": "https://files.smashing.media/authors/chiara-aliotta-200x200.jpg",
+    "url": "https://www.smashingmagazine.com/author/chiara-aliotta",
+    "owner": "Smashing Magazine"
+  },
+  {
+    "title": "Discovering Primitive Objects In JavaScript (Part 1)",
+    "description": "february 10, 2023 — In the first part of the series, Kirill Myshkin covers some aspects of JavaScript that help bring objects closer to primitive values, which allow benefiting from common language features that aren’t usually associated with an object, like comparisons and arithmetic operators.\nRead more…",
+    "thumbnail": "https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67044dfa-ee60-444d-a9ea-f510a703033e/kirill-200x200.jpg",
+    "url": "https://www.smashingmagazine.com/author/kirill-myshkin",
+    "owner": "Smashing Magazine"
+  },
+  {
+    "title": "Picture Perfect: Meet Pixo, A Photo Editor For Your End Users",
+    "description": "february 9, 2023 — With so many image editing services available nowadays, it’s good to have one good solution that is applicable for all websites and web apps that need to provide image editing as a feature. Hristo Chakarov explains how Pixo Editor’s easy integration (just a few JavaScript lines) and rich API can save your time and improve your end users’ workflow.\nRead more…",
+    "thumbnail": "https://files.smashing.media/articles/photo-image-editor-pixo-wordpress/hristo-chakarov-200x200.jpeg",
+    "url": "https://www.smashingmagazine.com/author/hristo-chakarov",
+    "owner": "Smashing Magazine"
+  },
+  {
+    "title": "How Designers Should Ask For (And Receive) High-Quality Feedback",
+    "description": "february 8, 2023 — In this article, Andy Budd shares his way of requesting feedback: rather than sharing a linear case study that explains every design revision, the first thing to do would be to better frame the problem.\nRead more…",
+    "thumbnail": "https://files.smashing.media/authors/andy-budd.jpg",
+    "url": "https://www.smashingmagazine.com/author/andybudd",
+    "owner": "Smashing Magazine"
+  },
+  {
+    "title": "Smashing Podcast Episode 56 With Veerle Pieters: How Has The Design Industry Changed?",
+    "description": "february 7, 2023 — In this episode of the Smashing Podcast we ask how has the design industry changed? Is technology making our work easier? Vitaly Friedman talks to veteran designer Veerle Pieters to find out.\nRead more…",
+    "thumbnail": "https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36527166-76ee-41ea-be75-e09fc1070f07/drew-mclellan-200x200.jpg",
+    "url": "https://www.smashingmagazine.com/author/drew-mclellan",
+    "owner": "Smashing Magazine"
+  },
+  {
+    "title": "How To Build A Magazine Layout With CSS Grid Areas",
+    "description": "february 6, 2023 — Web development, especially what you can do with CSS, has become increasingly complex. With the added capabilities of CSS Grid, it is now possible to achieve layouts that look like they were laid out by hand. Let’s tackle a practical example of how to do something like that.\nRead more…",
+    "thumbnail": "https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35020222-833a-4028-968b-373fa5097816/jennifer-brehm2.jpg",
+    "url": "https://www.smashingmagazine.com/author/jennifer-brehm",
+    "owner": "Smashing Magazine"
+  },
+  {
+    "title": "Finalmente clareando as dúvidas da possibilidade de rotar Windows 11 em Macs M1 ou M2",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/ricardopim/finalmente-clareando-as-duvidas-da-possibilidade-de-rotar-windows-11-em-macs-m1-ou-m2",
+    "url": "https://www.tabnews.com.br/ricardopim/finalmente-clareando-as-duvidas-da-possibilidade-de-rotar-windows-11-em-macs-m1-ou-m2",
+    "owner": "TabNews"
+  },
+  {
+    "title": "Correios confirmam vazamento de CPFs e telefones cadastrados em suas plataformas digitais",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/NewsletterOficial/correios-confirmam-vazamento-de-cpfs-e-telefones-cadastrados-em-suas-plataformas-digitais",
+    "url": "https://www.tabnews.com.br/NewsletterOficial/correios-confirmam-vazamento-de-cpfs-e-telefones-cadastrados-em-suas-plataformas-digitais",
+    "owner": "TabNews"
+  },
+  {
+    "title": "Microsoft planeja incorporar links pagos em respostas geradas pelo Bing Chat",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/NewsletterOficial/microsoft-planeja-incorporar-links-pagos-em-respostas-geradas-pelo-bing-chat",
+    "url": "https://www.tabnews.com.br/NewsletterOficial/microsoft-planeja-incorporar-links-pagos-em-respostas-geradas-pelo-bing-chat",
+    "owner": "TabNews"
+  },
+  {
+    "title": "Chrome 110 começa a disponibilizar modos de otimização de memória e energia de forma geral para Windows, Mac e ChromeOS",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/NewsletterOficial/chrome-110-comeca-a-disponibilizar-modos-de-otimizacao-de-memoria-e-energia-de-forma-geral-para-windows-mac-e-chromeos",
+    "url": "https://www.tabnews.com.br/NewsletterOficial/chrome-110-comeca-a-disponibilizar-modos-de-otimizacao-de-memoria-e-energia-de-forma-geral-para-windows-mac-e-chromeos",
+    "owner": "TabNews"
+  },
+  {
+    "title": "Linux 6.2 adiciona suporte para chips M1 da Apple",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/NewsletterOficial/linux-6-2-adiciona-suporte-para-chips-m1-da-apple",
+    "url": "https://www.tabnews.com.br/NewsletterOficial/linux-6-2-adiciona-suporte-para-chips-m1-da-apple",
+    "owner": "TabNews"
+  },
+  {
+    "title": "14 hábitos de programadores altamente produtivos",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/viniciussantos45/14-habitos-de-programadores-altamente-produtivos",
+    "url": "https://www.tabnews.com.br/viniciussantos45/14-habitos-de-programadores-altamente-produtivos",
+    "owner": "TabNews"
+  },
+  {
+    "title": "Proteger uma Página Estática em HTML com Senha (módulo open source)",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/filipedeschamps/proteger-uma-pagina-estatica-em-html-com-senha",
+    "url": "https://www.tabnews.com.br/filipedeschamps/proteger-uma-pagina-estatica-em-html-com-senha",
+    "owner": "TabNews"
+  },
+  {
+    "title": "Como me encontrei na tecnologia fazendo um plano de carreira",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/brunosmiranda/como-me-encontrei-na-tecnologia-fazendo-um-plano-de-carreira",
+    "url": "https://www.tabnews.com.br/brunosmiranda/como-me-encontrei-na-tecnologia-fazendo-um-plano-de-carreira",
+    "owner": "TabNews"
+  },
+  {
+    "title": "Use o YouTube para armazenar qualquer tipo de arquivo, não apenas vídeo",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/gugadeschamps/use-o-youtube-para-armazenar-qualquer-tipo-de-arquivo-nao-apenas-video",
+    "url": "https://www.tabnews.com.br/gugadeschamps/use-o-youtube-para-armazenar-qualquer-tipo-de-arquivo-nao-apenas-video",
+    "owner": "TabNews"
+  },
+  {
+    "title": "Tech layoffs ou overhiring? Um grafico que pode explicar isso.",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/brenomazieiro/tech-layoffs-ou-overhiring-um-grafico-que-pode-explicar-isso",
+    "url": "https://www.tabnews.com.br/brenomazieiro/tech-layoffs-ou-overhiring-um-grafico-que-pode-explicar-isso",
+    "owner": "TabNews"
+  },
+  {
+    "title": "Ansiedade",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/johnathan/ansiedade",
+    "url": "https://www.tabnews.com.br/johnathan/ansiedade",
+    "owner": "TabNews"
+  },
+  {
+    "title": "O que é um bom programador ?",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/Higorcosta/o-que-e-um-bom-programador",
+    "url": "https://www.tabnews.com.br/Higorcosta/o-que-e-um-bom-programador",
+    "owner": "TabNews"
+  },
+  {
+    "title": "CakePHP - Um framework pouco citado, mas bastante poderoso",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/danielmota/cakephp-um-framework-pouco-citado-mas-bastante-poderoso",
+    "url": "https://www.tabnews.com.br/danielmota/cakephp-um-framework-pouco-citado-mas-bastante-poderoso",
+    "owner": "TabNews"
+  },
+  {
+    "title": "Superestimamos nossa capacidade de curto prazo, mas subestimamos nossa capacidade de longo prazo",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/filipedeschamps/superestimamos-nossa-capacidade-de-curto-prazo-mas-subestimamos-nossa-capacidade-de-longo-prazo",
+    "url": "https://www.tabnews.com.br/filipedeschamps/superestimamos-nossa-capacidade-de-curto-prazo-mas-subestimamos-nossa-capacidade-de-longo-prazo",
+    "owner": "TabNews"
+  },
+  {
+    "title": "Linguagens Formais e Autômatos",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/Hanufu/linguagens-formais-e-automatos",
+    "url": "https://www.tabnews.com.br/Hanufu/linguagens-formais-e-automatos",
+    "owner": "TabNews"
+  },
+  {
+    "title": "2023, ano do conhecimento",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/flaviojmendes/2023-ano-do-conhecimento",
+    "url": "https://www.tabnews.com.br/flaviojmendes/2023-ano-do-conhecimento",
+    "owner": "TabNews"
+  },
+  {
+    "title": "Curiosidade: OpenAI comprou o domínio \"ai.com\" por US$ 11 milhões (R$ 56 milhões)",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/filipedeschamps/curiosidade-openai-comprou-o-dominio-ai-com-por-us-11-milhoes-r-56-milhoes",
+    "url": "https://www.tabnews.com.br/filipedeschamps/curiosidade-openai-comprou-o-dominio-ai-com-por-us-11-milhoes-r-56-milhoes",
+    "owner": "TabNews"
+  },
+  {
+    "title": "WebKit agora possui suporte a \"Nested CSS\" ou \"CSS aninhado\"",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/filipedeschamps/webkit-agora-possui-suporte-a-nested-css-ou-css-aninhado",
+    "url": "https://www.tabnews.com.br/filipedeschamps/webkit-agora-possui-suporte-a-nested-css-ou-css-aninhado",
+    "owner": "TabNews"
+  },
+  {
+    "title": "Como começar na área de TI, em especial programação",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/victormanduca/como-comecar-na-area-de-ti-em-especial-programacao",
+    "url": "https://www.tabnews.com.br/victormanduca/como-comecar-na-area-de-ti-em-especial-programacao",
+    "owner": "TabNews"
+  },
+  {
+    "title": "“Eu sou perfeito, porque não cometo nenhum erro“, afirma Bing Chat",
+    "description": null,
+    "thumbnail": "https://www.tabnews.com.br/gugadeschamps/eu-sou-perfeito-porque-nao-cometo-nenhum-erro-afirma-bing-chat",
+    "url": "https://www.tabnews.com.br/gugadeschamps/eu-sou-perfeito-porque-nao-cometo-nenhum-erro-afirma-bing-chat",
+    "owner": "TabNews"
+  },
+  {
+    "title": "Best Django Books (2023) for Beginner and Intermediate/Advanced Programmers",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/best-django-books/",
+    "url": "https://wsvincent.com/best-django-books/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "Small Things Finance",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/small-things-finance/",
+    "url": "https://wsvincent.com/small-things-finance/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "Year in Review (2022)",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/2022-year-in-review/",
+    "url": "https://wsvincent.com/2022-year-in-review/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "Personal Thoughts on the Django Software Foundation Board's Future",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/dsf-board-future/",
+    "url": "https://wsvincent.com/dsf-board-future/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "Podcast How-To Guide: Microphones, Headphones, Hosting, and More",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/learning-how-to-podcast/",
+    "url": "https://wsvincent.com/learning-how-to-podcast/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "Mac Configuration for Web Development (2022)",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/mac-config-webdev/",
+    "url": "https://wsvincent.com/mac-config-webdev/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "Django for Professionals 4.0 Update",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/django-for-professionals-40-update/",
+    "url": "https://wsvincent.com/django-for-professionals-40-update/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "Django for APIs 4.0 Update",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/django-for-apis-40-update/",
+    "url": "https://wsvincent.com/django-for-apis-40-update/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "How to Work Through Django Books",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/how-to-work-through-django-books/",
+    "url": "https://wsvincent.com/how-to-work-through-django-books/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "Django for Beginners 3.2 Update",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/django-for-beginners-32-update/",
+    "url": "https://wsvincent.com/django-for-beginners-32-update/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "Updating My Home Internet to 1.2Gb",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/updating-my-home-internet/",
+    "url": "https://wsvincent.com/updating-my-home-internet/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "Python 3 Installation & Setup Guide",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/install-python/",
+    "url": "https://wsvincent.com/install-python/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "Year in Review (2020)",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/year-in-review-for-2020/",
+    "url": "https://wsvincent.com/year-in-review-for-2020/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "Learn Tailwind CSS - A Beginner's Guide",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/learn-tailwind-css-beginners-guide/",
+    "url": "https://wsvincent.com/learn-tailwind-css-beginners-guide/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "The E-Myth Revisited by Michael E. Gerber - Book Review",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/emyth-revisited-book-review/",
+    "url": "https://wsvincent.com/emyth-revisited-book-review/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "A Year in the Life of a DSF Board Member",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/a-year-in-the-life-of-a-dsf-board-member/",
+    "url": "https://wsvincent.com/a-year-in-the-life-of-a-dsf-board-member/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "How to Contribute to Django Docs",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/how-to-contribute-to-django-docs/",
+    "url": "https://wsvincent.com/how-to-contribute-to-django-docs/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "Working in Public by Nadia Eghbal - Book Review",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/working-in-public-book-review/",
+    "url": "https://wsvincent.com/working-in-public-book-review/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "What Happens When You Type in a URL",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/what-happens-when-url/",
+    "url": "https://wsvincent.com/what-happens-when-url/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "A Month in the Life of a DSF Board Member",
+    "description": "Feb 8, 2023",
+    "thumbnail": "https://wsvincent.com/a-month-in-the-life-of-a-dsf-board-member/",
+    "url": "https://wsvincent.com/a-month-in-the-life-of-a-dsf-board-member/",
+    "owner": "wsvincent"
+  },
+  {
+    "title": "A temporada Fevereiro começou GRÁTIS",
+    "description": "Eu sou o DevRobot. Seja bem-vindo a segunda temporada de 2023 🙂",
+    "thumbnail": "https://www.devmedia.com.br/a-temporada-fevereiro-comecou/43630",
+    "url": "https://www.devmedia.com.br/a-temporada-fevereiro-comecou/43630",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "O que são arrays e como utilizá-los no JavaScript? GRÁTIS",
+    "description": "Neste artigo você entenderá o que são arrays na programação, como eles funcionam e porque são úteis para o dia a dia do programados. Além disso, ao longo deste conteúdo você verá como utilizar arrays dentro do contexto do JavaScript.",
+    "thumbnail": "https://www.devmedia.com.br/o-que-sao-arrays-e-como-utiliza-los-no-javascript/43563",
+    "url": "https://www.devmedia.com.br/o-que-sao-arrays-e-como-utiliza-los-no-javascript/43563",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "O que um programador faz? GRÁTIS",
+    "description": "De acordo com os dados do Google, a busca pela profissão de programador teve um aumento de 30%, comparado a 2021. Neste artigo você conhece a rotina, áreas de atuação e muito mais dessa carreira.",
+    "thumbnail": "https://www.devmedia.com.br/o-que-um-programador-faz/43562",
+    "url": "https://www.devmedia.com.br/o-que-um-programador-faz/43562",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "Tabela salarial de programador GRÁTIS",
+    "description": "Descubra como está o mercado atual da programação, onde um profissional pode atuar e, ainda conferir a tabela salarial de programador.",
+    "thumbnail": "https://www.devmedia.com.br/tabela-salarial-de-programador/43556",
+    "url": "https://www.devmedia.com.br/tabela-salarial-de-programador/43556",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "Ciclo de vida de um componente React com o Effect Hook GRÁTIS",
+    "description": "Neste artigo você aprenderá o que é o ciclo de vida de um componente React, quais as suas fases e como é possível utilizar o Hook useEffect para criar essas fases.",
+    "thumbnail": "https://www.devmedia.com.br/ciclo-de-vida-de-um-componente-react-com-o-effect-hook/43555",
+    "url": "https://www.devmedia.com.br/ciclo-de-vida-de-um-componente-react-com-o-effect-hook/43555",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "Utilizando Styled Components no React GRÁTIS",
+    "description": "Neste artigo você aprenderá sobre a biblioteca Styled Components e como a utilizamos para criar componentes de estilo em React JS.",
+    "thumbnail": "https://www.devmedia.com.br/utilizando-styled-components-no-react/43554",
+    "url": "https://www.devmedia.com.br/utilizando-styled-components-no-react/43554",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "Fundamentos básicos de JavaScript necessários para aprender React GRÁTIS",
+    "description": "Neste artigo você saberemos quais os conceitos básicos na linguagem JavaScript você precisará ter para começar a aprender a biblioteca React JS.",
+    "thumbnail": "https://www.devmedia.com.br/fundamentos-basicos-de-javascript-necessarios-para-aprender-react/43553",
+    "url": "https://www.devmedia.com.br/fundamentos-basicos-de-javascript-necessarios-para-aprender-react/43553",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "Como começar a programar e mudar de carreira GRÁTIS",
+    "description": "Aprenda como trocar de profissão e entrar para a área de programação, para mudar de carreira e começar a programar não é preciso fazer faculdade.",
+    "thumbnail": "https://www.devmedia.com.br/como-comecar-a-programar-e-mudar-de-carreira/43524",
+    "url": "https://www.devmedia.com.br/como-comecar-a-programar-e-mudar-de-carreira/43524",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "Quando me candidatar à uma vaga de programador GRÁTIS",
+    "description": "Veja nesse artigo quais são os fatores que devem ser analisados para buscar a sua primeira vaga de programador.",
+    "thumbnail": "https://www.devmedia.com.br/quando-me-candidatar-a-uma-vaga-de-programador/43523",
+    "url": "https://www.devmedia.com.br/quando-me-candidatar-a-uma-vaga-de-programador/43523",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "CSS Border GRÁTIS",
+    "description": "Nesta documentação você aprenderá sobre a propriedade CSS border, suas características e como utilizá-la no código CSS para definir a borda de um elemento HTML.",
+    "thumbnail": "https://www.devmedia.com.br/css-border/43522",
+    "url": "https://www.devmedia.com.br/css-border/43522",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "Diferenças entre programação Front-end e Back-end GRÁTIS",
+    "description": "Neste artigo vamos falar sobre as diferenças entre o desenvolvimento front-end e back-end, além de apresentar algumas das linguagens de programação mais utilizadas para cada um desses objetivos.",
+    "thumbnail": "https://www.devmedia.com.br/diferencas-entre-programacao-front-end-e-back-end/43518",
+    "url": "https://www.devmedia.com.br/diferencas-entre-programacao-front-end-e-back-end/43518",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "HTML Icons: utilizando ícones em páginas HTML GRÁTIS",
+    "description": "Nesta documentação de HTML falaremos sobre como utilizar ícones no HTML de maneira simples através da biblioteca Fonts Awesome, além de aprender como definir o favicon de uma página HTML.",
+    "thumbnail": "https://www.devmedia.com.br/html-icons-utilizando-icones-em-paginas-html/43517",
+    "url": "https://www.devmedia.com.br/html-icons-utilizando-icones-em-paginas-html/43517",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "HTML hr: como utilizar a tag hr para criar quebras de linhas temáticas GRÁTIS",
+    "description": "Nesta documentação aprenda sobre o elemento HTML hr, como aplicar a tag hr em código HTML e como podemos utilizá-la para criar quebras de linhas temáticas.",
+    "thumbnail": "https://www.devmedia.com.br/html-hr-como-utilizar-a-tag-hr-para-criar-quebras-de-linhas-tematicas/43516",
+    "url": "https://www.devmedia.com.br/html-hr-como-utilizar-a-tag-hr-para-criar-quebras-de-linhas-tematicas/43516",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "HTML Iframe GRÁTIS",
+    "description": "Nesta documentação você aprenderá sobre o elemento HTML iframe, como aplicar a tag iframe em código HTML e como podemos utilizá-la para adicionar conteúdos de uma página externa na página atual.",
+    "thumbnail": "https://www.devmedia.com.br/html-iframe/43515",
+    "url": "https://www.devmedia.com.br/html-iframe/43515",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "HTML DOCTYPE GRÁTIS",
+    "description": "Nesta documentação aprenda sobre o !DOCTYPE html, como aplicar a declaração no código HTML e como podemos utilizá-la para informar ao navegador a versão do documento HTML.",
+    "thumbnail": "https://www.devmedia.com.br/html-doctype/43514",
+    "url": "https://www.devmedia.com.br/html-doctype/43514",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "HTML HREF: referenciando URLs externas no HTML GRÁTIS",
+    "description": "Nesta documentação de HTML falaremos sobre o atributo href, utilizado por algumas tags HTML para fazer referência a URLs externas, sejam elas arquivos ou links.",
+    "thumbnail": "https://www.devmedia.com.br/html-href-referenciando-urls-externas-no-html/43513",
+    "url": "https://www.devmedia.com.br/html-href-referenciando-urls-externas-no-html/43513",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "CSS Important GRÁTIS",
+    "description": "Nesta documentação você aprenderá sobre a regra !important e como utilizá-la no CSS para substituir estilos anteriores de um determinado elemento.",
+    "thumbnail": "https://www.devmedia.com.br/css-important/43512",
+    "url": "https://www.devmedia.com.br/css-important/43512",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "HTML Footer: delimitando os conteúdos de rodapé no HTML GRÁTIS",
+    "description": "Nesta documentação de HTML aprenderemos um pouco sobre o que é um rodapé em uma página web e como podemos delimitá-lo através da tag footer.",
+    "thumbnail": "https://www.devmedia.com.br/html-footer-delimitando-os-conteudos-de-rodape-no-html/43511",
+    "url": "https://www.devmedia.com.br/html-footer-delimitando-os-conteudos-de-rodape-no-html/43511",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "HTML Header: crie o cabeçalho da página com a tag header GRÁTIS",
+    "description": "Nesta documentação aprenda sobre o elemento HTML Header, como aplicar a tag header em código HTML e como utilizar para configurar um cabeçalho para a sua página web.",
+    "thumbnail": "https://www.devmedia.com.br/html-header-crie-o-cabecalho-da-pagina-com-a-tag-header/43510",
+    "url": "https://www.devmedia.com.br/html-header-crie-o-cabecalho-da-pagina-com-a-tag-header/43510",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "Programar do zero: descubra o caminho mais inteligente! GRÁTIS",
+    "description": "Configura nesse artigo um caminho muito mais consciente para você ser um programador de sucesso e no tempo ideal. Confira!",
+    "thumbnail": "https://www.devmedia.com.br/programar-do-zero-descubra-o-caminho-mais-inteligente/43509",
+    "url": "https://www.devmedia.com.br/programar-do-zero-descubra-o-caminho-mais-inteligente/43509",
+    "owner": "DevMedia"
+  },
+  {
+    "title": "Criando avatar Hexagonal com CSS!",
+    "description": "No post de hoje, vou dar uma dica de CSS, hoje vou mostrar como criar um avatar hexagonal no CSS.E você deve estar se perguntando, porque isso? Recentemente o Twitter implementou o uso de NFTs como avatar na plataforma eLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2022/02/hexagonal-avatars-360x240.png",
+    "url": "https://emersonbroga.com/criando-avatar-hexagonal-com-css/",
+    "owner": "Emerson Brôga"
+  },
+  {
+    "title": "React Memo, useMemo, useCallback e memoization",
+    "description": "Uma das dúvidas que a galera mais tem em relação ao React e seus hooks são o useMemo e o useCallback, e ninguém sabe muito bem por que e quando utilizar esses hooks. Então hoje eu resolvi explicar de formaLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2022/02/react-memo-useMemo-useCallback-v2-360x240.jpg",
+    "url": "https://emersonbroga.com/memo-usememo-usecallback-e-memoization/",
+    "owner": "Emerson Brôga"
+  },
+  {
+    "title": "Loader Middleware para o Redux",
+    "description": "Opa! Se você programa em React e usa o Redux, você provavelmente já tentou imaginar uma forma fácil para exibir um feedback para o usuário enquanto uma requisição esta acontecendo. Seja na hora de submeter um formulário, seja na horaLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2020/10/redux-loader-middleware-cover-360x240.jpg",
+    "url": "https://emersonbroga.com/loader-middleware-para-o-redux/",
+    "owner": "Emerson Brôga"
+  },
+  {
+    "title": "Desmistificando o array.map(); do JavaScript.",
+    "description": "Fala dev, tudo joia? Hoje eu quero desmistificar alguns dos métodos mais utilizados nos Arrays do JavaScript, o Map. No JavaScript os arrays possuem vários métodos que facilitam a sua manipulação. Esses métodos servem para resolver problemas comuns e têmLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2020/03/emersonbroga-com-javascript-map.jpg",
+    "url": "https://emersonbroga.com/desmistificando-o-array-map-do-javascript/",
+    "owner": "Emerson Brôga"
+  },
+  {
+    "title": "[passo-a-passo] Criando uma API com Node JS, os conceitos básicos para iniciantes",
+    "description": "No projeto de hoje, vamos fazer uma API simples usando NodeJS.Essa api vai ser bem simples mas já nos dará uma base bem sólida para alguns conceitos de construção de APIs como rotas, requisições e verbos HTTP.E vamos criar tudoLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2020/02/criando-uma-api-com-nodejs.jpg",
+    "url": "https://emersonbroga.com/passo-a-passo-criando-uma-api-com-node-js-os-conceitos-basicos-para-iniciantes/",
+    "owner": "Emerson Brôga"
+  },
+  {
+    "title": "Capturando os erros de um async/await sem try catch",
+    "description": "Olá, pessoal! Hoje quero mostrar pra vocês uma forma de capturar os erros de um async await sem usar o try catch. Mas primeiro vamos recaptular, o que é mesmo um async await? async/await Vou tentar contar a historia aquiLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2020/01/async-await-sem-try-catch-1.jpg",
+    "url": "https://emersonbroga.com/capturando-os-erros-de-um-async-await-sem-try-catch/",
+    "owner": "Emerson Brôga"
+  },
+  {
+    "title": "REACT – Como utilizar o React Async",
+    "description": "Olá, pessoal! Hoje eu quero mostrar como deixar o seu componente em react mais limpo e mais legível usando o react-async. Vou ensinar uma das formas de utilização da biblioteca react-async, que apresenta uma forma declarativa para resoluções de promisesLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2019/12/react-async-360x240.jpg",
+    "url": "https://emersonbroga.com/como-utilizar-o-react-async/",
+    "owner": "Emerson Brôga"
+  },
+  {
+    "title": "Como configurar Webpack para projeto React",
+    "description": "Olá, pessoal! Hoje eu quero mostrar pra vocês o passo-a-passo de como configurar o Webpack para um projeto React! Muitas pessoas se assuntam quando a gente fala de Webpack, pois parece que vão ser inúmeras configurações complicadas e que parecemLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2019/12/como-configurar-webpack-para-um-projeto-react-360x240.jpg",
+    "url": "https://emersonbroga.com/como-configurar-webpack-para-projeto-react/",
+    "owner": "Emerson Brôga"
+  },
+  {
+    "title": "5 extensões VSCode para desenvolvedores JavaScript/Node/React em 2020",
+    "description": "Olá, pessoal! Recentemente estava instalando meus programas no mac depois que ele voltou do conserto e ao instalar as extensões do VSCode e sempre aparece alguém perguntando quais extensões eu uso e hoje resolvi fazer um post pra deixar claroLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2019/12/5-extensoes-vscode-2020-360x240.jpg",
+    "url": "https://emersonbroga.com/5-extensoes-vscode-para-desenvolvedores-javascript-node-react-em-2020/",
+    "owner": "Emerson Brôga"
+  },
+  {
+    "title": "TOP 10 – Retrospectiva posts 2019!",
+    "description": "Olá, pessoal! Chegamos ao final de 2019 e hoje quero fazer uma retrospectiva e mostrar quais foram os posts que vocês mais curtiram/visitaram durante todo o ano. Se você não quiser perder nenhum post de 2020, faça parte da nossaLeia mais…",
+    "thumbnail": "https://emersonbroga.com/wp-content/uploads/2019/12/top-10-2019-360x240.jpg",
+    "url": "https://emersonbroga.com/top-10-retrospectiva-posts-2019/",
+    "owner": "Emerson Brôga"
+  },
+  {
+    "title": "Por trás das inovações no mercado financeiro na Nelogica",
+    "description": "No final de 2021, conheci uma fintech de Porto Alegre que eu nunca tinha ouvido falar e, sendo bem sincero, também não tinha ideia do que eles faziam. Depois de uma reunião com a Laila, descobri que a Nelogica já é um nome forte no mercado financeiro brasileiro há uns…",
+    "thumbnail": "http://gabsferreira.com/o-que-ha-por-tras-das-inovacoes-para-o-mercado-financeiro-na-nelogica/",
+    "url": "http://gabsferreira.com/o-que-ha-por-tras-das-inovacoes-para-o-mercado-financeiro-na-nelogica/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Processando 1bi de mensagens com open source",
+    "description": "A Cobli é uma startup de tecnologia para logística que faz um trampo incrível. Basicamente, eles transformam dados coletados de frotas de veículos como geolocalização consumo de combustível pra transformar em insights e ajudar os clientes a tomarem decisões. E eles processam um volume absurdo de informações: só em um…",
+    "thumbnail": "http://gabsferreira.com/processando-1bi-de-mensagens-com-open-source/",
+    "url": "http://gabsferreira.com/processando-1bi-de-mensagens-com-open-source/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Python com Django, monolitos, microsserviços e pragmatismo na Buser",
+    "description": "A Buser começou a sua história como empresa desenvolvendo sua plataforma usando Django, com Python como linguagem principal. A principal razão pra isso é porque Python é uma linguagem popular, madura e com bastante mercado. A empresa cresceu, e junto com ela a plataforma, que se tornou um grande monolito.…",
+    "thumbnail": "http://gabsferreira.com/python-com-django-monolitos-microsservicos-e-pragmatismo-na-buser/",
+    "url": "http://gabsferreira.com/python-com-django-monolitos-microsservicos-e-pragmatismo-na-buser/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Meu (um tanto assustador) começo na Alvin",
+    "description": "A essa altura acho que não é mais novidade pra ninguém, mas eu comecei a trabalhar em um startup da Estônia recentemente. Já contei como foi todo o processo lá no canal. Depois de aceitar a proposta, fui convidado pra ir fazer o onboarding lá na Estônia. Eu em frente…",
+    "thumbnail": "http://gabsferreira.com/meu-um-tanto-assustador-comeco-na-alvin/",
+    "url": "http://gabsferreira.com/meu-um-tanto-assustador-comeco-na-alvin/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Machine learning e IA no dia a dia com a idwall",
+    "description": "Há muito tempo atrás, cheguei a trabalhar em um protótipo pra um software de OCR (Optical Character Recognition), que acabou não indo pra frente. Do pouco que mexi com aquilo, achei bem complexo e desafiador. Não sabe o que é OCR? Hoje é seu dia de sorte. Eu conversei com…",
+    "thumbnail": "http://gabsferreira.com/machine-learning-e-ia-no-dia-a-dia-com-a-idwall/",
+    "url": "http://gabsferreira.com/machine-learning-e-ia-no-dia-a-dia-com-a-idwall/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "O que tem de tech por trás do iFood?",
+    "description": "Pensar em iFood é sinônimo de pensar em delivery de comida. Mas, será que é \"só\" isso que eles fazem? Recentemente eu descobri que o iFood na verdade é uma empresa gigantesca que tem áreas também enormes e que são praticamente pequenas empresas dentro da empresa. Só em tecnologia atualmente…",
+    "thumbnail": "http://gabsferreira.com/o-que-tem-de-tech-por-tras-do-ifood/",
+    "url": "http://gabsferreira.com/o-que-tem-de-tech-por-tras-do-ifood/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Como um software de e-mail funciona por trás dos panos",
+    "description": "Eu não sei você, mas a maioria do meu trabalho como desenvolvedor web foi criando CRUDs pra e-commerces, ERPs e afins. Tá, tiveram algumas exceções com softwares mais diferentões que exigiam integrações e coisas do tipo, mas a maioria não fugia muito do arroz e feijão da web. Esses tempos…",
+    "thumbnail": "http://gabsferreira.com/como-um-cliente-de-email-funciona-por-tras-dos-panos/",
+    "url": "http://gabsferreira.com/como-um-cliente-de-email-funciona-por-tras-dos-panos/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "O dev que saiu do Nubank e abriu sua startup",
+    "description": "O Franco começou a trabalhar como desenvolvedor no Nubank em em 2016, foi praticamente seu primeiro emprego formal como dev no dia a dia. Antes disso, ele ficou um tempo nos EUA e terminou a faculdade por lá. No Nubank ele aprendeu muita coisa incrível e se apaixonou por Clojure.…",
+    "thumbnail": "http://gabsferreira.com/o-dev-que-saiu-do-nubank-e-abriu-sua-startup/",
+    "url": "http://gabsferreira.com/o-dev-que-saiu-do-nubank-e-abriu-sua-startup/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "É hora das empresas trabalharem para manter devs",
+    "description": "Não é novidade que com a pandemia, o trabalho remoto acabou se tornando uma opção permanente pra muitas pessoas. E também para empresas do mundo todo. Quem mora no interior e não quer ir pra capital sabe que sempre vai ficar limitado a trabalhar pras mesmas empresas de sempre, não…",
+    "thumbnail": "http://gabsferreira.com/e-hora-das-empresas-trabalharem-para-manter-devs/",
+    "url": "http://gabsferreira.com/e-hora-das-empresas-trabalharem-para-manter-devs/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "7 lições que aprendi depois de trabalhar por oito anos na mesma empresa",
+    "description": "Esse mês eu faço 8 anos no que hoje chamamos de Grupo Alura. Comecei a trabalhar na primeira empresa do grupo, a Caelum, em 2014. Entrei como instrutor de cursos de .NET. É, de longe, a empresa que passei o maior tempo em 15 anos de carreira em tecnologia. Esses…",
+    "thumbnail": "http://gabsferreira.com/7-licoes-que-aprendi-depois-de-trabalhar-oito-anos-na-mesma-empresa/",
+    "url": "http://gabsferreira.com/7-licoes-que-aprendi-depois-de-trabalhar-oito-anos-na-mesma-empresa/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Como sair do Brasil e trabalhar com tech no Canadá e Europa?",
+    "description": "Com o mercado extremamente aquecido, o que não faltam é oportunidades para profissionais de tecnologia atualmente. E muitas dessas oportunidades são para trabalhar em empresas fora do país, em praticamente todos os lugares do mundo. Mas tem um lugar em específico que é o destino favorito de muitos brasileiros: o…",
+    "thumbnail": "http://gabsferreira.com/como-sair-do-brasil-e-trabalhar-com-tech-no-canada-e-europa/",
+    "url": "http://gabsferreira.com/como-sair-do-brasil-e-trabalhar-com-tech-no-canada-e-europa/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Como a área de tecnologia da Americanas se prepara para o Big Brother",
+    "description": "A Americanas tem uma participação enorme dentro do Big Brother Brasil: eles patrocinam muita coisa, desde provas até as compras de comidas dos participantes. E não é comum aparecer QR codes na tela da TV para as pessoas acessarem promoções exclusivas. Pensa comigo: praticamente todos os dias milhões de pessoas…",
+    "thumbnail": "http://gabsferreira.com/como-a-area-de-tecnologia-da-americanas-se-prepara-para-o-big-brother/",
+    "url": "http://gabsferreira.com/como-a-area-de-tecnologia-da-americanas-se-prepara-para-o-big-brother/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Como funciona um Virtual Private Server?",
+    "description": "VPS é uma sigla pra Virtual Private Server, servidor virtual privado em português. E o nome é autoexplicativo: quando você contrata esse tipo de serviço, tem um servidor seu pra fazer o que quiser e configurar da melhor forma que fizer sentido. É um serviço muito popular entre devs em…",
+    "thumbnail": "http://gabsferreira.com/como-funciona-um-virtual-private-server/",
+    "url": "http://gabsferreira.com/como-funciona-um-virtual-private-server/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Tecnologia, logística e gestão de frotas na Cobli",
+    "description": "Eu não sei você, mas adoro comprar praticamente tudo online. A praticidade que temos hoje em dia é simplesmente incrível. Mas você já parou pra pensar nos desafios de logística que as empresas não devem ter pra entregar tudo no prazo, controlar as frotas de entregas e tudo mais? Esses…",
+    "thumbnail": "http://gabsferreira.com/tecnologia-logistica-e-gestao-de-frotas-na-cobli/",
+    "url": "http://gabsferreira.com/tecnologia-logistica-e-gestao-de-frotas-na-cobli/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "TUDO que você precisa saber pra trabalhar com tecnologia no Canadá",
+    "description": "Não é novidade que o mercado de tecnologia, em especial a parte de programação, está extremamente aquecido. Pra quem pensa em ir para o exterior, o Canadá costuma ser um destino muito escolhido: bons salários, ótima qualidade de vida, lugar incrível pra criar filhos. E não é brincadeira o tanto…",
+    "thumbnail": "http://gabsferreira.com/tudo-que-voce-precisa-saber-pra-trabalhar-com-tecnologia-no-canada/",
+    "url": "http://gabsferreira.com/tudo-que-voce-precisa-saber-pra-trabalhar-com-tecnologia-no-canada/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Cultura de tech em um banco digital: o case do will bank",
+    "description": "Um dos principais desafios que empresas com crescimento acelerado têm é criar e manter uma cultura saudável dentro do ambiente de trabalho. Além disso, questões como documentação e segurança podem ser negligenciados quando tudo vai rápido demais. O will bank é um banco digital que está passando por um processo…",
+    "thumbnail": "http://gabsferreira.com/cultura-de-tech-em-um-banco-digital-o-case-do-will-bank/",
+    "url": "http://gabsferreira.com/cultura-de-tech-em-um-banco-digital-o-case-do-will-bank/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Como funciona um serviço de hospedagem? Por trás da Locaweb",
+    "description": "A grande maioria das pessoas que desenvolvem para web já tiveram que colocar um site no ar. E pra isso, você vai ter que usar algum tipo de serviço de hospedagem. Mas já parou pra pensar como esse tipo de serviço funciona por trás dos panos? Quais são as tecnologias…",
+    "thumbnail": "http://gabsferreira.com/como-funciona-um-servico-de-hospedagem-por-tras-da-locaweb/",
+    "url": "http://gabsferreira.com/como-funciona-um-servico-de-hospedagem-por-tras-da-locaweb/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Construindo um open banking do zero na Quanto",
+    "description": "Imagina em 2018 receber a missão de construir um open banking do zero. Sem referências, sem saber exatamente por onde começar ou como implementar esse tipo de solução. Hoje em dia esse conceito tá longe de ser novidade, mas nessa época era diferente: a Quanto foi pioneira do open banking…",
+    "thumbnail": "http://gabsferreira.com/construindo-um-open-banking-do-zero-na-quanto/",
+    "url": "http://gabsferreira.com/construindo-um-open-banking-do-zero-na-quanto/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Operando no mercado americano com GoLang",
+    "description": "Imagine poder abrir uma conta bancária nos Estados Unidos e pode comprar ações e operar no mercado americano. Essa é a missão da Avenue, uma fintech que tem como missão democratizar o investimento no mercado americano para pessoas físicas. Mas implementar um software que seja capaz de fazer isso tá…",
+    "thumbnail": "http://gabsferreira.com/operando-no-mercado-americano-com-golang/",
+    "url": "http://gabsferreira.com/operando-no-mercado-americano-com-golang/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Escreva mais. Escreva menos!",
+    "description": "Um sentimento em quem começa (ou quer começar) a escrever artigos é que eles devem ser longos, cheios de detalhes, recheados de links e tudo mais. Esses artigos são ótimos e eu acho que há muito espaço pra eles. Mas vamos combinar: quase ninguém tem tempo pra fazer um artigo…",
+    "thumbnail": "http://gabsferreira.com/escreva-mais-escreva-menos/",
+    "url": "http://gabsferreira.com/escreva-mais-escreva-menos/",
+    "owner": "Gabs Ferreira"
+  },
+  {
+    "title": "Object Stereotypes",
+    "description": "The six object stereotypes act as building blocks - stereotypical elements - of any design.",
+    "thumbnail": "https://d33wubrfki0l68.cloudfront.net/73882be0bd66df7b874570e76cd6e75515c25544/d6964/img/blog/object-oriented/design/object-stereotypes/lego-3.png",
+    "url": "https://khalilstemmler.com/articles/object-oriented/design/object-stereotypes/",
+    "owner": "Khalil Stemmler"
+  },
+  {
+    "title": "98% of Developers Use React as a Framework, Not a Library",
+    "description": "React is a view layer library but most developers use it as a framework. Let's look into why that is and the implications of it.",
+    "thumbnail": "https://d33wubrfki0l68.cloudfront.net/9de01918394406187bab2b4a8d1199399bc44fd8/411a5/img/banner/blog-banner.png",
+    "url": "https://khalilstemmler.com/blogs/frontend/using-react-as-a-framework/",
+    "owner": "Khalil Stemmler"
+  },
+  {
+    "title": "Non-Functional Requirements (with Examples)",
+    "description": "Non-functional requirements are quality attributes that describe how the system should be. They judge the system as a whole based ...",
+    "thumbnail": "https://d33wubrfki0l68.cloudfront.net/2df28a89e76f4175eb88cf0da0acca511d558a3a/67f51/img/blog/object-oriented/analysis/non-functional-requirements/complexity.png",
+    "url": "https://khalilstemmler.com/articles/object-oriented/analysis/non-functional-requirements/",
+    "owner": "Khalil Stemmler"
+  },
+  {
+    "title": "Responsibility-Driven Design",
+    "description": "Responsibility-Driven Design is the influential object-oriented design method that presents an effective way to turn requirements ...",
+    "thumbnail": "https://d33wubrfki0l68.cloudfront.net/9213050494d7353ea7c6e4136b41c6af1b97c537/15414/img/blog/object-oriented/programming/object-oriented-programming.png",
+    "url": "https://khalilstemmler.com/articles/object-oriented/programming/dependency-composition-delegation-aggregation/",
+    "owner": "Khalil Stemmler"
+  },
+  {
+    "title": "What are Dependencies, Composition, Delegation, and Aggregation in Object-Oriented Programming?",
+    "description": "The four principles of object-oriented programming (abstraction, inheritance, encapsulation, and polymorphism) are features that -...",
+    "thumbnail": "https://d33wubrfki0l68.cloudfront.net/26ab539a1c09113061ecc5a9fb3f300efcbfd597/4b7c1/img/blog/object-oriented/programming/header-2.png",
+    "url": "https://khalilstemmler.com/articles/object-oriented/programming/4-principles/",
+    "owner": "Khalil Stemmler"
+  },
+  {
+    "title": "4 Principles of Object-Oriented Programming",
+    "description": "The four principles of object-oriented programming (abstraction, inheritance, encapsulation, and polymorphism) are features that -...",
+    "thumbnail": "https://d33wubrfki0l68.cloudfront.net/26ab539a1c09113061ecc5a9fb3f300efcbfd597/4b7c1/img/blog/object-oriented/programming/header-2.png",
+    "url": "https://khalilstemmler.com/articles/object-oriented/design/responsibility-driven-design/",
+    "owner": "Khalil Stemmler"
+  },
+  {
+    "title": "Featured article",
+    "description": "December 1st, 2020 — 3 min read",
+    "thumbnail": "data:image/webp;base64,UklGRiYBAABXRUJQVlA4IBoBAADwDACdASpkAEgAPqE+mUi/pqIhMztpI/AUCWcAz9TUo/NGmOjLQeeGoceI0bMr+hYlbtE7ki7qvzMrY8kINfcxV/2MJfX7AZfwhCIsQZZ4qWIjkGFqHLaTW4Yxrq4hEuuZKWGcu1lCdXtHENcJ52CAAP7Wn7rdDv/dY/S6+/2u54df/Ml7Dz8ap/jItacd12b0MTK3+cqnAhU5r+oEnMiy4PF7alUHF2o/E8++SwcoiAQ10fmjXH0W4vAWxFWx1GfBzdb7gHYrgedfa+TqiAFBp0wVpe9io47g4movXusyV3OQAc7Zhs+nN39lHQk9+YRz18MMIJQ17ifGKdHHvT5zKMi3Bkq7FKGGcwp4mPTqNWySSdjBPoAAAAA=",
+    "url": "https://kentcdodds.com/blog/useeffect-vs-uselayouteffect",
+    "owner": "kentcdodds"
+  },
+  {
+    "title": "January 12th, 2023 — 14 min read\nFixing a Memory Leak in a Production Node.js App",
+    "description": "Learn development with great articles.",
+    "thumbnail": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAACQCQCdASpkAEMAPrlOn0s/rColL5aaq/AXCWcGWALWirwHeANSlhcyaSTOxJeAugpS3mtFNCiEnQJndHlZfS5hr7z1Y05lgi2mVz+YWl3ImismZYhQAP7w/3PU6+Isz/FapYy0h0mLqaJK6jXEALgglfOsgABrj4nz21jQ/mijs1RDLuWlLq+bfigsmSRJON27ur0F7STMWHRqR6iGNhiAR6C8ePUt5GwELHz/WpRMBWwQcZUu8a24jfSIQSe7xafEdGNvNSPPvvAI/Y9VevSXucBQP0Z1KsrKPqXQQPWYYo8PzPB4JwyU9YEAIMo6RhLJIxyd0JT6npAwQC01c4jggAA=",
+    "url": "https://kentcdodds.com/blog/fixing-a-memory-leak-in-a-production-node-js-app",
+    "owner": "kentcdodds"
+  },
+  {
+    "title": "December 29th, 2022 — 5 min read\n2022 in Review",
+    "description": "Learn development with great articles.",
+    "thumbnail": "data:image/webp;base64,UklGRhQDAABXRUJQVlA4WAoAAAAgAAAAYwAAQgAASUNDUDACAAAAAAIwQURCRQIQAABtbnRyUkdCIFhZWiAHzwAGAAMAAAAAAABhY3NwQVBQTAAAAABub25lAAAAAAAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLUFEQkUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApjcHJ0AAAA/AAAADJkZXNjAAABMAAAAGt3dHB0AAABnAAAABRia3B0AAABsAAAABRyVFJDAAABxAAAAA5nVFJDAAAB1AAAAA5iVFJDAAAB5AAAAA5yWFlaAAAB9AAAABRnWFlaAAACCAAAABRiWFlaAAACHAAAABR0ZXh0AAAAAENvcHlyaWdodCAxOTk5IEFkb2JlIFN5c3RlbXMgSW5jb3Jwb3JhdGVkAAAAZGVzYwAAAAAAAAARQWRvYmUgUkdCICgxOTk4KQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWFlaIAAAAAAAAPNRAAEAAAABFsxYWVogAAAAAAAAAAAAAAAAAAAAAGN1cnYAAAAAAAAAAQIzAABjdXJ2AAAAAAAAAAECMwAAY3VydgAAAAAAAAABAjMAAFhZWiAAAAAAAACcGAAAT6UAAAT8WFlaIAAAAAAAADSNAACgLAAAD5VYWVogAAAAAAAAJjEAABAvAAC+nFZQOCC+AAAA8AYAnQEqZABDAD6lUKBNP7EmoqH4C+PwFIlnBvgbwSB6CnQtYzPZ6e1/Gy4yNpBzuU2nuAdUtm6Ha5qsJGVdYAD4V+D+fltf2p+Vnu+i0MdNY0Fliidej6u1GBzSMOw8HhQui9qjAzR4vNl9c7xmoVsjiIKmgvYqb0NtMDvhKhyLhsYxg0USsd2MC7c/aZt8GI9cYwhcwcB6h3Lt+wfE3E3x7spMbMfW/vpvvDzLnmiJhMp85W6m4le+1wAAAA==",
+    "url": "https://kentcdodds.com/blog/2022-in-review",
+    "owner": "kentcdodds"
+  },
+  {
+    "title": "December 29th, 2022 — 6 min read\nMy Car Accident",
+    "description": "Learn development with great articles.",
+    "thumbnail": "data:image/webp;base64,UklGRkwDAABXRUJQVlA4WAoAAAAgAAAAYwAASgAASUNDUCQCAAAAAAIkYXBwbAQAAABtbnRyUkdCIFhZWiAH4QAHAAcADQAWACBhY3NwQVBQTAAAAABBUFBMAAAAAAAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLWFwcGzKGpWCJX8QTTiZE9XR6hWCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApkZXNjAAAA/AAAAGVjcHJ0AAABZAAAACN3dHB0AAABiAAAABRyWFlaAAABnAAAABRnWFlaAAABsAAAABRiWFlaAAABxAAAABRyVFJDAAAB2AAAACBjaGFkAAAB+AAAACxiVFJDAAAB2AAAACBnVFJDAAAB2AAAACBkZXNjAAAAAAAAAAtEaXNwbGF5IFAzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHRleHQAAAAAQ29weXJpZ2h0IEFwcGxlIEluYy4sIDIwMTcAAFhZWiAAAAAAAADzUQABAAAAARbMWFlaIAAAAAAAAIPfAAA9v////7tYWVogAAAAAAAASr8AALE3AAAKuVhZWiAAAAAAAAAoOAAAEQsAAMi5cGFyYQAAAAAAAwAAAAJmZgAA8qcAAA1ZAAAT0AAACltzZjMyAAAAAAABDEIAAAXe///zJgAAB5MAAP2Q///7ov///aMAAAPcAADAblZQOCACAQAAkAoAnQEqZABLAD65Tp9Lv7StqizW28vwFwlnBnomzV4ciBaY8mUDkoCyyYHZ286s6QzOxna6Ie5yCFjimFCeeEOhYiLxvPmwQs7tkKHBZWLuYgHAVXEHisWPSyOwAP7jq72beRmrRvxW17eY3kHBrOCNCTz/1Z9i1IhI76bkywWCo3xujkcBNdJWPzBQFktz6xnY9fV7E4tvWDiqwisg0EPc1KN5qME0yAIxmkLlnbRnbazw1eD5sgvb6siuAXFu/vIgpky6W95v5pJiQGaPh3h7ZK34R14kosE/EbSoLWxCnoIo0u3968GLJWdiqb00Zk+7W1fhim/Dex4GjwHV6AAA",
+    "url": "https://kentcdodds.com/blog/my-car-accident",
+    "owner": "kentcdodds"
+  },
+  {
+    "title": "November 21st, 2022 — 22 min read\nI Migrated from a Postgres Cluster to Distributed SQLite with LiteFS",
+    "description": "Learn development with great articles.",
+    "thumbnail": "data:image/webp;base64,UklGRhINAABXRUJQVlA4WAoAAAAgAAAAYwAARQAASUNDUEgMAAAAAAxITGlubwIQAABtbnRyUkdCIFhZWiAHzgACAAkABgAxAABhY3NwTVNGVAAAAABJRUMgc1JHQgAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLUhQICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABFjcHJ0AAABUAAAADNkZXNjAAABhAAAAGx3dHB0AAAB8AAAABRia3B0AAACBAAAABRyWFlaAAACGAAAABRnWFlaAAACLAAAABRiWFlaAAACQAAAABRkbW5kAAACVAAAAHBkbWRkAAACxAAAAIh2dWVkAAADTAAAAIZ2aWV3AAAD1AAAACRsdW1pAAAD+AAAABRtZWFzAAAEDAAAACR0ZWNoAAAEMAAAAAxyVFJDAAAEPAAACAxnVFJDAAAEPAAACAxiVFJDAAAEPAAACAx0ZXh0AAAAAENvcHlyaWdodCAoYykgMTk5OCBIZXdsZXR0LVBhY2thcmQgQ29tcGFueQAAZGVzYwAAAAAAAAASc1JHQiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAABJzUkdCIElFQzYxOTY2LTIuMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWFlaIAAAAAAAAPNRAAEAAAABFsxYWVogAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z2Rlc2MAAAAAAAAAFklFQyBodHRwOi8vd3d3LmllYy5jaAAAAAAAAAAAAAAAFklFQyBodHRwOi8vd3d3LmllYy5jaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkZXNjAAAAAAAAAC5JRUMgNjE5NjYtMi4xIERlZmF1bHQgUkdCIGNvbG91ciBzcGFjZSAtIHNSR0IAAAAAAAAAAAAAAC5JRUMgNjE5NjYtMi4xIERlZmF1bHQgUkdCIGNvbG91ciBzcGFjZSAtIHNSR0IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZGVzYwAAAAAAAAAsUmVmZXJlbmNlIFZpZXdpbmcgQ29uZGl0aW9uIGluIElFQzYxOTY2LTIuMQAAAAAAAAAAAAAALFJlZmVyZW5jZSBWaWV3aW5nIENvbmRpdGlvbiBpbiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHZpZXcAAAAAABOk/gAUXy4AEM8UAAPtzAAEEwsAA1yeAAAAAVhZWiAAAAAAAEwJVgBQAAAAVx/nbWVhcwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAo8AAAACc2lnIAAAAABDUlQgY3VydgAAAAAAAAQAAAAABQAKAA8AFAAZAB4AIwAoAC0AMgA3ADsAQABFAEoATwBUAFkAXgBjAGgAbQByAHcAfACBAIYAiwCQAJUAmgCfAKQAqQCuALIAtwC8AMEAxgDLANAA1QDbAOAA5QDrAPAA9gD7AQEBBwENARMBGQEfASUBKwEyATgBPgFFAUwBUgFZAWABZwFuAXUBfAGDAYsBkgGaAaEBqQGxAbkBwQHJAdEB2QHhAekB8gH6AgMCDAIUAh0CJgIvAjgCQQJLAlQCXQJnAnECegKEAo4CmAKiAqwCtgLBAssC1QLgAusC9QMAAwsDFgMhAy0DOANDA08DWgNmA3IDfgOKA5YDogOuA7oDxwPTA+AD7AP5BAYEEwQgBC0EOwRIBFUEYwRxBH4EjASaBKgEtgTEBNME4QTwBP4FDQUcBSsFOgVJBVgFZwV3BYYFlgWmBbUFxQXVBeUF9gYGBhYGJwY3BkgGWQZqBnsGjAadBq8GwAbRBuMG9QcHBxkHKwc9B08HYQd0B4YHmQesB78H0gflB/gICwgfCDIIRghaCG4IggiWCKoIvgjSCOcI+wkQCSUJOglPCWQJeQmPCaQJugnPCeUJ+woRCicKPQpUCmoKgQqYCq4KxQrcCvMLCwsiCzkLUQtpC4ALmAuwC8gL4Qv5DBIMKgxDDFwMdQyODKcMwAzZDPMNDQ0mDUANWg10DY4NqQ3DDd4N+A4TDi4OSQ5kDn8Omw62DtIO7g8JDyUPQQ9eD3oPlg+zD88P7BAJECYQQxBhEH4QmxC5ENcQ9RETETERTxFtEYwRqhHJEegSBxImEkUSZBKEEqMSwxLjEwMTIxNDE2MTgxOkE8UT5RQGFCcUSRRqFIsUrRTOFPAVEhU0FVYVeBWbFb0V4BYDFiYWSRZsFo8WshbWFvoXHRdBF2UXiReuF9IX9xgbGEAYZRiKGK8Y1Rj6GSAZRRlrGZEZtxndGgQaKhpRGncanhrFGuwbFBs7G2MbihuyG9ocAhwqHFIcexyjHMwc9R0eHUcdcB2ZHcMd7B4WHkAeah6UHr4e6R8THz4faR+UH78f6iAVIEEgbCCYIMQg8CEcIUghdSGhIc4h+yInIlUigiKvIt0jCiM4I2YjlCPCI/AkHyRNJHwkqyTaJQklOCVoJZclxyX3JicmVyaHJrcm6CcYJ0kneierJ9woDSg/KHEooijUKQYpOClrKZ0p0CoCKjUqaCqbKs8rAis2K2krnSvRLAUsOSxuLKIs1y0MLUEtdi2rLeEuFi5MLoIuty7uLyQvWi+RL8cv/jA1MGwwpDDbMRIxSjGCMbox8jIqMmMymzLUMw0zRjN/M7gz8TQrNGU0njTYNRM1TTWHNcI1/TY3NnI2rjbpNyQ3YDecN9c4FDhQOIw4yDkFOUI5fzm8Ofk6Njp0OrI67zstO2s7qjvoPCc8ZTykPOM9Ij1hPaE94D4gPmA+oD7gPyE/YT+iP+JAI0BkQKZA50EpQWpBrEHuQjBCckK1QvdDOkN9Q8BEA0RHRIpEzkUSRVVFmkXeRiJGZ0arRvBHNUd7R8BIBUhLSJFI10kdSWNJqUnwSjdKfUrESwxLU0uaS+JMKkxyTLpNAk1KTZNN3E4lTm5Ot08AT0lPk0/dUCdQcVC7UQZRUFGbUeZSMVJ8UsdTE1NfU6pT9lRCVI9U21UoVXVVwlYPVlxWqVb3V0RXklfgWC9YfVjLWRpZaVm4WgdaVlqmWvVbRVuVW+VcNVyGXNZdJ114XcleGl5sXr1fD19hX7NgBWBXYKpg/GFPYaJh9WJJYpxi8GNDY5dj62RAZJRk6WU9ZZJl52Y9ZpJm6Gc9Z5Nn6Wg/aJZo7GlDaZpp8WpIap9q92tPa6dr/2xXbK9tCG1gbbluEm5rbsRvHm94b9FwK3CGcOBxOnGVcfByS3KmcwFzXXO4dBR0cHTMdSh1hXXhdj52m3b4d1Z3s3gReG54zHkqeYl553pGeqV7BHtje8J8IXyBfOF9QX2hfgF+Yn7CfyN/hH/lgEeAqIEKgWuBzYIwgpKC9INXg7qEHYSAhOOFR4Wrhg6GcobXhzuHn4gEiGmIzokziZmJ/opkisqLMIuWi/yMY4zKjTGNmI3/jmaOzo82j56QBpBukNaRP5GokhGSepLjk02TtpQglIqU9JVflcmWNJaflwqXdZfgmEyYuJkkmZCZ/JpomtWbQpuvnByciZz3nWSd0p5Anq6fHZ+Ln/qgaaDYoUehtqImopajBqN2o+akVqTHpTilqaYapoum/adup+CoUqjEqTepqaocqo+rAqt1q+msXKzQrUStuK4trqGvFq+LsACwdbDqsWCx1rJLssKzOLOutCW0nLUTtYq2AbZ5tvC3aLfguFm40blKucK6O7q1uy67p7whvJu9Fb2Pvgq+hL7/v3q/9cBwwOzBZ8Hjwl/C28NYw9TEUcTOxUvFyMZGxsPHQce/yD3IvMk6ybnKOMq3yzbLtsw1zLXNNc21zjbOts83z7jQOdC60TzRvtI/0sHTRNPG1EnUy9VO1dHWVdbY11zX4Nhk2OjZbNnx2nba+9uA3AXcit0Q3ZbeHN6i3ynfr+A24L3hROHM4lPi2+Nj4+vkc+T85YTmDeaW5x/nqegy6LzpRunQ6lvq5etw6/vshu0R7ZzuKO6070DvzPBY8OXxcvH/8ozzGfOn9DT0wvVQ9d72bfb794r4Gfio+Tj5x/pX+uf7d/wH/Jj9Kf26/kv+3P9t//9WUDggpAAAAPAHAJ0BKmQARgA+nUaeTCwrKaKllVoxgBOJaQO9nhFB4gXX8D4DPNzVl7eHKn5TrV4At9Pjk1VbaFIznKSN46mNLEcrU2VQAAD+9Zd26pouQibgB5pXR9SG909ly/LS6uCepgjinTy+LfV/TvZwqsaMkec8kDKC8yr0pE16IYvgPofE0n5/j/RypGy7YS7rOGVDKkVRlCKxR7llI17VN9jqWsQA",
+    "url": "https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs",
+    "owner": "kentcdodds"
+  },
+  {
+    "title": "September 7th, 2022 — 7 min read\nI'm building EpicWeb.dev",
+    "description": "Learn development with great articles.",
+    "thumbnail": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAAAwCQCdASpkAEMAPp1Knku0p60hpJma8pATiWUG+OfP1XWP3eQFbFu5naDMH4uHXhHHk0cn1nkxzHTFUerGdQv25bNIu2sc3uzEltU2xxMXNgM4AP7uT+YFfihotxgUn/wH5y/YHd/VKPY9zsDrI3X6WutSt2j+eho79oTNVzLYiKxQdakcn1LkeWojc/bvJHTuOD5doknTZ1SNOoSYGVi7FXQBLXA7yE3GOmCHxnjECZR0SMZg8XBuvBqng65Fc9+6KGP+W9z8AVSP+iqnbrcD3Oo+BEirWHvPvmUXUgPFG9+CLLcHyLbt5CsRDCxMfA/7CvfQcSFYOip1ZYuwbyUQyCdxNvAz0J72blHjEAAAAA==",
+    "url": "https://kentcdodds.com/blog/i-m-building-epicweb-dev",
+    "owner": "kentcdodds"
+  },
+  {
+    "title": "September 6th, 2022 — 5 min read\nA review of my time at Remix",
+    "description": "Learn development with great articles.",
+    "thumbnail": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAADQCQCdASpkAEMAPqVInUoxL6+mqvgMKiAUiWcG+OUHgCevA2GO3dUliVfLKavdr6mLR5kQmwWJyX96tffjo2NtqqcBcriwqMU14CAMIcdMWRXnf3K6vgAA/vD/7/jbIsqehwBzRgAHP+oz/nJBpsKn6d4ZeRyqPf9Vb0Ux1GUW6AwwptxD3ARUGbgoZNrD3Z7e+qzdlc6+1m93RsVpXJzhrmI6xg8S6zk/Vav6yWUSTKamVCRXyOtaEdJAc98Po9vj+P81uLhXqfIwIfUDqrSs4jEcbAOMSz9B4hme1Vhj2O8RR9rq3AxemZNd9RjnMAAAAA==",
+    "url": "https://kentcdodds.com/blog/a-review-of-my-time-at-remix",
+    "owner": "kentcdodds"
+  },
+  {
+    "title": "March 24th, 2022 — 11 min read\nRemix: The Yang to React's Yin",
+    "description": "Learn development with great articles.",
+    "thumbnail": "data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAADwDACdASpkAEMAPp1EnEm4sikhLbmZMxATiWcGcAzuXlQnXhFdl5LEiQOky3ly1yV8GpkKhcOe29tCRes9Wq2B0o77rXPs4E7nP3OwsAut/3CV7hg0rWITIibQzrFimy9P75HvBw34tjD6PevHThAAAP75ZVFI3/anWDpkp4M/wtOEf4zH6BM6/3V5YRlrJAnnjY2oJm52jaFHH7wWg3Hi94EMy+E6NkpjelGc83YxIgzfl47RBYgu8SJoKpvrPUIf+wHyhaHPVB619/G2h4w4FiIBi2qWwJlWI3cVM289RBL4vF0ekeF0HIo+/eVxC0X/YIfB7ejH7w6UcEXF2KXw1meTAAAA",
+    "url": "https://kentcdodds.com/blog/remix-the-yang-to-react-s-yin",
+    "owner": "kentcdodds"
+  },
+  {
+    "title": "November 15th, 2021 — 5 min read\nHow I help you build better websites",
+    "description": "Learn development with great articles.",
+    "thumbnail": "data:image/webp;base64,UklGRggBAABXRUJQVlA4IPwAAAAwCgCdASpkAEMAPrlOoEszOLEhq/dtExAXCWkGcBjrYtd69huTwQmKzLTTZI4YXnfsVSbiWagGK3feWOoRNIP/not5dwlobo45orkaFKRlWPG4cW3FjsbZcQAA/vRicHrAF4ThT3zRHU+COw82gLA9Zqie07bv7rZcw7bTRhxbWQqBDpDlqlxCC3kUFoZVHxRgBae2l3sr2IZpGXInt9aaX2OhiFpP4OeVEnTe32QjEyzQWhy0YDXL0gEcSd67VTSUkOmOWcSaOdQt3db/2dsU2SfJCiqtDNytyZr9HqWujFwkfXfC7BcUoPXQHszpFJ8ZMXpSzxeYTTvkAAA=",
+    "url": "https://kentcdodds.com/blog/how-i-help-you-build-better-websites",
+    "owner": "kentcdodds"
+  },
+  {
+    "title": "November 13th, 2021 — 10 min read\nWhy I Love Remix",
+    "description": "Learn development with great articles.",
+    "thumbnail": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAAAwCACdASpkAEsAPp1GnEslrykhpnScAeATiWcAxYSB0pcEEAT1uIzpkzAeN6p0RISEKg7fr1KQXSyI+gsaLwAEGfjkGi17yzKwQAD+9WmlrjBeKE+frjqBCuX1CMj43CKWjuVmpwUheplrn5s/Z8lNryFj09H/QthEzbqW2MDYRogKctXx9cGjd2RyB870F3d04BCbdzMTnvj0SlB10YTRTZee5V0y1BV5J+eFkS49GHrXXfA7bbVzR0FEpTlsYMS0eWt/IWfgIVPdmFsgDIEz6MnMiNAZ7Gap5tgF2aNw+v82W3IloBOF43YZcIbK7wAAAA==",
+    "url": "https://kentcdodds.com/blog/why-i-love-remix",
+    "owner": "kentcdodds"
+  },
+  {
+    "title": "November 5th, 2021 — 6 min read\nThe State Initializer Pattern",
+    "description": "Learn development with great articles.",
+    "thumbnail": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAADQBgCdASpkAEMAPrlQn0w8qKMiKTzL05AXCWkG+AAHmOki9ZMlBZNr4ec9gBCUvBY+qG2qnxTidABMunyKh4AA/u/1mI0QWiTiLwfrk42RPpph6m1Sjyjou2i7LrLy2MX2D3yaz4JapMC9g/Z+8vqOz6qQQKpIuRkIjmlfZN+QOG093js4uY1dXQoOTv8328kxn3IgcSdXB30AX5Eo1gAA",
+    "url": "https://kentcdodds.com/blog/the-state-initializer-pattern",
+    "owner": "kentcdodds"
+  },
+  {
+    "title": "November 3rd, 2021 — 8 min read\nHow to React ⚛️",
+    "description": "Learn development with great articles.",
+    "thumbnail": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAAAwBwCdASpkADIAPrlUoUu/pSchqTv8A/AXCWcAzfwTDQrWTzDf4iwRnxIsZAP4QjvNQbEgqCR5me/fualbHS+tlAAA/u5Uj8Vlu55rnCq2k5XhseFY7/PdOfT939CZSzlrar8/nGmOGStXxKaEHi823XgKPB/9p9kkutwCHaXQqFr5wliON/z7Mre4lSitTy6beYY3NByFbvAIYoeX8FqU/UErjU16wpCqJX1bvuOcyXgA",
+    "url": "https://kentcdodds.com/blog/how-to-react",
+    "owner": "kentcdodds"
+  },
+  {
+    "title": "October 28th, 2021 — 5 min read\nGet a catch block error message with TypeScript",
+    "description": "Learn development with great articles.",
+    "thumbnail": "data:image/webp;base64,UklGRlIBAABXRUJQVlA4IEYBAACQDgCdASpkAEIAPrlOn0snOK2hsHHMsxAXCWcAzDofhbcTEAaXVx2eSJBzl1FI4PsBhjC0mJpyqFCYKqMtkKcldBqLlBXH5tks4EesHBbcwmQtLVuaJug5EpYd2Jg2wctB0VtCI12O4yBBEj4wlow2GP8/KpGzDG//K/q+YADL6K3ZBbuLsHv+btleeFd86jNg7XkblZTPXd5p1Id+5xNhkkY8xwsJ0UhWlCSNzluD75C4NqAkJ2LoIrnIXS4P1/KE1RXleEy+9/v+3vGqv1eAihURUs/TqUxrI8a0AijigqKn5K4lS73P4e5/HQLYVOHYKqJtHgmT7alc7zrP1QjhxRR0bGKQfuVNDgRAs9YrTN5JLUHXl1u0GMtoCWYijr3pQOBJabEmmGpXLTqHs+hH2PMa8+mZPbSlOVETaEBi1bulCmYAAA==",
+    "url": "https://kentcdodds.com/blog/get-a-catch-block-error-message-with-typescript",
+    "owner": "kentcdodds"
+  },
+  {
+    "title": "Como identificar a causa raiz de um problema",
+    "description": "Não consigo identificar a causa raiz de um problema, e agora? Se deparar com problemas faz parte do trabalho diário de qualquer time.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2023/01/Blog-5-porques.png",
+    "url": "https://www.lambda3.com.br/2023/02/como-identificar-a-causa-raiz-de-um-problema/",
+    "owner": "Lambda3 |"
+  },
+  {
+    "title": "Migração para nuvem e negócios digitais",
+    "description": "Migração para nuvem e negócios digitais: afinal, os impactos não são apenas tecnológicos As tendências capazes de direcionar o futuro do mercado da tecnologia são sempre discutidas neste período do ano.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2023/02/Tech-0202.png",
+    "url": "https://www.lambda3.com.br/2023/02/migracao-para-nuvem-e-negocios-digitais/",
+    "owner": "Lambda3 |"
+  },
+  {
+    "title": "Rodando Docker no Windows sem Docker Desktop",
+    "description": "Estou avaliando uma série de ferramentas para substituir o Docker Desktop.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2023/01/Blog-3001.png",
+    "url": "https://www.lambda3.com.br/2023/01/rodando-docker-no-windows-sem-docker-desktop/",
+    "owner": "Lambda3 |"
+  },
+  {
+    "title": "Retrospectiva 2022 | Episódios mais ouvidos do #PodcastDaLambda",
+    "description": "Dezembro chega trazendo com ele algumas expectativas.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/12/Retro_Podcast_-_Blog.png",
+    "url": "https://www.lambda3.com.br/2022/12/retrospectiva-2022-episodios-mais-ouvidos-do-podcastdalambda/",
+    "owner": "Lambda3 |"
+  },
+  {
+    "title": "Novos negócios em Java ampliam soluções para 2023",
+    "description": "Expansão de novos negócios em Java amplia e diversifica nossa prateleira de soluções para 2023 Há 12 anos o mercado reconhece a Lambda3 como referência em tecnologia e inovação, através de um modelo ágil de entrega focado em projetos em linguagem .",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/12/Java.png",
+    "url": "https://www.lambda3.com.br/2022/12/novos-negocios-em-java-ampliam-solucoes-para-2023/",
+    "owner": "Lambda3 |"
+  },
+  {
+    "title": "Retrospectiva 2022 | Conteúdos mais lidos no Blog da Lambda3",
+    "description": "Chegou aquele momento em que a gente apresenta nossa retrospectiva de conteúdos que mais foram acessadas no #BlogDaLambda.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/12/Retro_Blog_-_Blog.png",
+    "url": "https://www.lambda3.com.br/2022/12/retrospectiva-2022-conteudos-mais-lidos-no-blog-da-lambda3/",
+    "owner": "Lambda3 |"
+  },
+  {
+    "title": "Data Meet | Ciência de Dados do Mundo Real",
+    "description": "A área de Dados ganha cada vez mais destaque uma vez que o mercado entende a importância das informações que são geradas no dia a dia dos negócios, e os benefícios que elas podem trazer para seu crescimento estratégico, inovação e transformação.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/11/Youtube_Dados.png",
+    "url": "https://www.lambda3.com.br/2022/11/data-meet-ciencia-de-dados-do-mundo-real/",
+    "owner": "Lambda3 |"
+  },
+  {
+    "title": "Há futuro para o mercado de tecnologia sem cultura organizacional diversa?",
+    "description": "“A tecnologia move o mundo”.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/09/Tech-BLOG_2.png",
+    "url": "https://www.lambda3.com.br/2022/09/ha-futuro-para-o-mercado-de-tecnologia-sem-cultura-organizacional-diversa/",
+    "owner": "Lambda3 |"
+  },
+  {
+    "title": "Atingindo objetivos através de OKR",
+    "description": "O que é OKR?",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/08/Blog-2608.png",
+    "url": "https://www.lambda3.com.br/2022/09/atingindo-objetivos-atraves-de-okr/",
+    "owner": "Lambda3 |"
+  },
+  {
+    "title": "A importância de compartilhar conhecimentos de Design dentro das empresas",
+    "description": "Designers ajudam a melhorar experiências.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/08/Artigo_Blog.png",
+    "url": "https://www.lambda3.com.br/2022/08/a-importancia-de-compartilhar-conhecimentos-de-design-dentro-das-empresas/",
+    "owner": "Lambda3 |"
+  },
+  {
+    "title": "Guia de cores para acessibilidade",
+    "description": "Não há dúvidas de que ainda há muito a se discutir sobre acessibilidade, por se tratar de um assunto bastante amplo que envolve várias áreas, como: Visual Designer, Desenvolvedores, Designer de Conteúdo e outras.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/08/BLOG-0808.png",
+    "url": "https://www.lambda3.com.br/2022/08/guia-de-cores-para-acessibilidade/",
+    "owner": "Lambda3 |"
+  },
+  {
+    "title": "Como evitar o comércio milionário de ataques cibernéticos",
+    "description": "Os crimes virtuais tornaram-se um negócio.",
+    "thumbnail": "https://www.lambda3.com.br/wp-content/uploads//2022/08/Ataques_ciberneticos_blog.png",
+    "url": "https://www.lambda3.com.br/2022/08/como-evitar-o-comercio-milionario-de-ataques-ciberneticos/",
+    "owner": "Lambda3 |"
+  },
+  {
+    "title": "ChatGPT e Acessibilidade digital",
+    "description": "O que acontece quando pedimos ajuda sobre acessibilidade digital no ChatGPT? Fiz esse teste e o resultado foi bem interessante. O termo do momento é o ChatGPT, que permite a...",
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2023/01/thumb-gpt-610x606.jpg",
+    "url": "https://reinaldoferraz.com.br/chatgpt-e-acessibilidade-digital/",
+    "owner": "Reinaldo Ferraz"
+  },
+  {
+    "title": "Leitores de tela, hashtags e emojis",
+    "description": "ChatGPT e Acessibilidade digital",
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2022/09/capa-emojis-e1663341238175.jpg",
+    "url": "https://reinaldoferraz.com.br/leitores-de-tela-hashtags-e-emojis/",
+    "owner": "Reinaldo Ferraz"
+  },
+  {
+    "title": "Input type, inputmode e acessibilidade",
+    "description": "ChatGPT e Acessibilidade digital",
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2022/05/input3.jpg",
+    "url": "https://reinaldoferraz.com.br/input-type-inputmode-e-acessibilidade/",
+    "owner": "Reinaldo Ferraz"
+  },
+  {
+    "title": "Vídeos sobre tecnologia",
+    "description": "ChatGPT e Acessibilidade digital",
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2022/03/tecnologia.jpg",
+    "url": "https://reinaldoferraz.com.br/videos-sobre-tecnologia/",
+    "owner": "Reinaldo Ferraz"
+  },
+  {
+    "title": "Hello",
+    "description": "ChatGPT e Acessibilidade digital",
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2021/11/hello3.jpg",
+    "url": "https://reinaldoferraz.com.br/hello/",
+    "owner": "Reinaldo Ferraz"
+  },
+  {
+    "title": "Curso de Design de Interfaces Acessíveis",
+    "description": "ChatGPT e Acessibilidade digital",
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2020/07/curso-puc4.jpg",
+    "url": "https://reinaldoferraz.com.br/curso-de-design-de-interfaces-acessiveis/",
+    "owner": "Reinaldo Ferraz"
+  },
+  {
+    "title": "Plug-ins que uso para testes de acessibilidade",
+    "description": "ChatGPT e Acessibilidade digital",
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2021/07/plugins.jpg",
+    "url": "https://reinaldoferraz.com.br/plug-ins-que-uso-para-testes-de-acessibilidade/",
+    "owner": "Reinaldo Ferraz"
+  },
+  {
+    "title": "Conformidade com validadores automáticos em uma página com barreiras de acesso",
+    "description": "ChatGPT e Acessibilidade digital",
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2021/06/conform.jpg",
+    "url": "https://reinaldoferraz.com.br/conformidade-com-validadores-automaticos-em-uma-pagina-com-barreiras-de-acesso/",
+    "owner": "Reinaldo Ferraz"
+  },
+  {
+    "title": "Como leitores de tela interpretam os tipos de campos de formulário",
+    "description": "ChatGPT e Acessibilidade digital",
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2021/05/forms-leitores.jpg",
+    "url": "https://reinaldoferraz.com.br/como-leitores-de-tela-interpretam-os-tipos-de-campos-de-formulario/",
+    "owner": "Reinaldo Ferraz"
+  },
+  {
+    "title": "Controlar redução de movimento no CSS",
+    "description": "ChatGPT e Acessibilidade digital",
+    "thumbnail": "https://reinaldoferraz.com.br/wp-content/uploads/2021/04/anima.jpg",
+    "url": "https://reinaldoferraz.com.br/controlar-reducao-de-movimento-no-css/",
+    "owner": "Reinaldo Ferraz"
+  },
+  {
+    "title": "Boas práticas para devs em início de carreira",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/author/felipe/",
+    "url": "https://blog.rocketseat.com.br/author/felipe/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "Comunidade: guia prático de como contribuir para o ecossistema de tecnologia",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/author/felipe/",
+    "url": "https://blog.rocketseat.com.br/author/felipe/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "Next Level Week: os caminhos que trilhamos até aqui",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/author/felipe/",
+    "url": "https://blog.rocketseat.com.br/author/felipe/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "Prisma: uma das melhores coisas que já aconteceu no ecossistema?",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/author/felipe/",
+    "url": "https://blog.rocketseat.com.br/author/felipe/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "Código Limpo: reflexão e prática",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/author/felipe/",
+    "url": "https://blog.rocketseat.com.br/author/felipe/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "Boas práticas para devs em início de carreira",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/05/Boas_praticas_para_devs_em_inicio_de_carreira.png",
+    "url": "https://blog.rocketseat.com.br/boas-praticas-para-devs-em-inicio-de-carreira/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "Comunidade: guia prático de como contribuir para o ecossistema de tecnologia",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/05/blog-rocketseat-guia_pratico_de_como_contribuir_em_comunidade.png",
+    "url": "https://blog.rocketseat.com.br/comunidade-guia-pratico-de-como-contribuir-para-o-ecossistema-de-tecnologia/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "Next Level Week: os caminhos que trilhamos até aqui",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/04/nlw-next-level-week-blog-rocketseat.png",
+    "url": "https://blog.rocketseat.com.br/o-que-e-next-level-week/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "Prisma: uma das melhores coisas que já aconteceu no ecossistema?",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/04/prisma-rocketseat-blog.png",
+    "url": "https://blog.rocketseat.com.br/prisma-uma-das-melhores-coisa-que-ja-aconteceu-no-ecossistema/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "Código Limpo: reflexão e prática",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/02/cleancode-rocketseat-blog.png",
+    "url": "https://blog.rocketseat.com.br/codigo-livre/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "npm: pacotes, pacotes e pacotes",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/02/npm-linguagem-rocketseat-blog.png",
+    "url": "https://blog.rocketseat.com.br/npm-pacotes-pacotes-e-pacotes/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "TypeScript: por trás do superset de JavaScript",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/02/typescript-linguagem-rocketseat-blog.png",
+    "url": "https://blog.rocketseat.com.br/typescript-um-superset-de-javascript-que-adicionou-tipagem-e-novos-recursos-na-linguagem/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "Python: linguagem popular com berço na comédia inglesa",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/02/python-linguagem-rocketseat-blog.png",
+    "url": "https://blog.rocketseat.com.br/python-linguagem-popular-com-berco-na-comedia-inglesa/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "Elixir: por trás da linguagem de programação brasileira",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/02/elixir-linguagem-rocketseat-blog.png",
+    "url": "https://blog.rocketseat.com.br/elixir-por-tras-da-linguagem-de-programacao-brasileira/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "JAMstack: geleia de JavaScript, API e Markup",
+    "description": "há 9 meses\n•\n4 min de leitura",
+    "thumbnail": "https://blog.rocketseat.com.br/content/images/size/w600/2022/02/Rocketseat-JAMstack-blog.png",
+    "url": "https://blog.rocketseat.com.br/jamstack-geleia-de-javascript-api-e-markup/",
+    "owner": "Blog da Rocketseat"
+  },
+  {
+    "title": "Simara Conceição: da ThoughtWorks ao quero ser dev",
+    "description": "Devs front-end que você precisa conhecer",
+    "thumbnail": "https://tableless.com.br/simara-conceicao/",
+    "url": "https://tableless.com.br/simara-conceicao/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Rafa Ballerini",
+    "description": "Devs front-end que você precisa conhecer",
+    "thumbnail": "https://tableless.com.br/rafa-ballerini/",
+    "url": "https://tableless.com.br/rafa-ballerini/",
+    "owner": "tableless"
+  },
+  {
+    "title": "FRONTIN Elas Programam 2022",
+    "description": "As comunidades tech FRONTIN e Elas Programam se unem para criar evento exclusivo para mulheres programadoras",
+    "thumbnail": "https://tableless.com.br/frontin-elas-programam-2022/",
+    "url": "https://tableless.com.br/frontin-elas-programam-2022/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Tableless by FRONTIN",
+    "description": "O tradicional blog Tableless se une à comunidade FRONTIN para continuar produzindo conteúdo sobre programação e tecnologia",
+    "thumbnail": "https://tableless.com.br/tableless-by-frontin/",
+    "url": "https://tableless.com.br/tableless-by-frontin/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Como e porquê organizar a sua pirâmide de testes",
+    "description": "Como organizo minha pirâmide de testes para meus projetos front-end no BEES Brasil.",
+    "thumbnail": "https://tableless.com.br/como-e-porqu%C3%AA-organizar-a-sua-pir%C3%A2mide-de-testes/",
+    "url": "https://tableless.com.br/como-e-porqu%C3%AA-organizar-a-sua-pir%C3%A2mide-de-testes/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Por que criar um site empresarial?",
+    "description": "Ter presença digital não se trata de um adereço, mas de uma necessidade.",
+    "thumbnail": "https://tableless.com.br/por-que-criar-um-site-empresarial-1/",
+    "url": "https://tableless.com.br/por-que-criar-um-site-empresarial-1/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Sequelize - A solução para seus relacionamentos!",
+    "description": "Nesse artigo vamos focar em como fazer relacionamentos entre tabelas, usando Sequelize ORM e Node.js.",
+    "thumbnail": "https://tableless.com.br/sequelize-a-solu%C3%A7%C3%A3o-para-seus-relacionamentos/",
+    "url": "https://tableless.com.br/sequelize-a-solu%C3%A7%C3%A3o-para-seus-relacionamentos/",
+    "owner": "tableless"
+  },
+  {
+    "title": "UX/UI & Skething nas rotas do Design",
+    "description": "Sobre a área de design com foco em suas terminologia no passado e no presente",
+    "thumbnail": "https://tableless.com.br/ux-ui-skething-nas-rotas-do-design/",
+    "url": "https://tableless.com.br/ux-ui-skething-nas-rotas-do-design/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Sympla está contratando front-ends",
+    "description": "Quer trabalhar em uma empresa que vai te valorizar? Entra pra Sympla.",
+    "thumbnail": "https://tableless.com.br/estamos-contratando-vagas-front-end-sympla/",
+    "url": "https://tableless.com.br/estamos-contratando-vagas-front-end-sympla/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Da reconstrução do código-fonte ao melhoramento de efeitos sonoros e visuais, Overwatch 2 tem todo potencial para ser um jogo quase perfeito",
+    "description": "Overwatch e potencial de jogo perfeito",
+    "thumbnail": "https://tableless.com.br/da-reconstru%C3%A7%C3%A3o-do-c%C3%B3digo-fonte-ao-melhoramento-de-efeitos-sonoros-e-visuais-overwatch-2-tem-todo-potencial-para-ser-um-jogo-quase-perfeito/",
+    "url": "https://tableless.com.br/da-reconstru%C3%A7%C3%A3o-do-c%C3%B3digo-fonte-ao-melhoramento-de-efeitos-sonoros-e-visuais-overwatch-2-tem-todo-potencial-para-ser-um-jogo-quase-perfeito/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Gerenciando equipes de alta performance em meio ao crescimento",
+    "description": "Mantendo a alta performance tendo a contratação como uma opção e não como regra.",
+    "thumbnail": "https://tableless.com.br/gerenciando-equipes-de-alta-performance/",
+    "url": "https://tableless.com.br/gerenciando-equipes-de-alta-performance/",
+    "owner": "tableless"
+  },
+  {
+    "title": "PMs decidem negócio?",
+    "description": "A responsabilidade de uma PM é o direcionamento do produto, não do negócio",
+    "thumbnail": "https://tableless.com.br/productmanagers-nao-decidem-negocio/",
+    "url": "https://tableless.com.br/productmanagers-nao-decidem-negocio/",
+    "owner": "tableless"
+  },
+  {
+    "title": "O que é UX e qual a sua importância? ",
+    "description": "Entendendo qual a importância do UX em grandes sites.",
+    "thumbnail": "https://tableless.com.br/o-que-%C3%A9-ux-e-qual-a-sua-import%C3%A2ncia/",
+    "url": "https://tableless.com.br/o-que-%C3%A9-ux-e-qual-a-sua-import%C3%A2ncia/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Como criar um conteúdo que indexa entre os primeiros do Google",
+    "description": "Descubra como obter uma classificação mais alta no Google e o que fazer se seu tráfego cair em alguma atualização.",
+    "thumbnail": "https://tableless.com.br/como-criar-um-conteudo-que-indexa-entre-os-primeiros-do-google/",
+    "url": "https://tableless.com.br/como-criar-um-conteudo-que-indexa-entre-os-primeiros-do-google/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Não tem um PC gamer? Conheça 5 jogos leves para você se divertir em 2020",
+    "description": "Se você deseja um equipamento top de linha, não há limite para a quantia de dinheiro que você pode gastar para montar um PC para jogos, o famoso “PC gamer”.",
+    "thumbnail": "https://tableless.com.br/nao-tem-um-pc-gamer-conheca-5-jogos-leves-para-voce-se-divertir-em-2020/",
+    "url": "https://tableless.com.br/nao-tem-um-pc-gamer-conheca-5-jogos-leves-para-voce-se-divertir-em-2020/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Popularização de transmissões ao vivo pela internet incrementa democracia nas redes",
+    "description": "Popularização de transmissões ao vivo pela internet incrementa democracia nas redes",
+    "thumbnail": "https://tableless.com.br/populariza%C3%A7%C3%A3o-de-transmiss%C3%B5es-ao-vivo-pela-internet-incrementa-democracia-nas-redes/",
+    "url": "https://tableless.com.br/populariza%C3%A7%C3%A3o-de-transmiss%C3%B5es-ao-vivo-pela-internet-incrementa-democracia-nas-redes/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Construtor de sites x web designer: qual opção escolher para criar o site da sua empresa",
+    "description": "construtor de sites x web designer: qual opção escolher para criar o site da sua empresa",
+    "thumbnail": "https://tableless.com.br/construtor-de-sites-x-web-designer-qual-op%C3%A7%C3%A3o-escolher-para-criar-o-site-da-sua-empresa/",
+    "url": "https://tableless.com.br/construtor-de-sites-x-web-designer-qual-op%C3%A7%C3%A3o-escolher-para-criar-o-site-da-sua-empresa/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Trabalho remoto e cassinos: uma combinação que tem dado cada vez mais certo",
+    "description": "Trabalho remoto e cassinos: uma combinação que tem dado cada vez mais certo",
+    "thumbnail": "https://tableless.com.br/trabalho-remoto-e-cassinos-uma-combina%C3%A7%C3%A3o-que-tem-dado-cada-vez-mais-certo/",
+    "url": "https://tableless.com.br/trabalho-remoto-e-cassinos-uma-combina%C3%A7%C3%A3o-que-tem-dado-cada-vez-mais-certo/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Por que criar um site empresarial?",
+    "description": "Sua empresa ou pequeno negócio precisa de um site profissional para alavancar vendas",
+    "thumbnail": "https://tableless.com.br/por-que-criar-um-site-empresarial/",
+    "url": "https://tableless.com.br/por-que-criar-um-site-empresarial/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Quando usar TypeScript",
+    "description": "Aperfeiçoado e amadurecendo: quando usar TypeScript?",
+    "thumbnail": "https://tableless.com.br/quando-usar-typescript/",
+    "url": "https://tableless.com.br/quando-usar-typescript/",
+    "owner": "tableless"
+  },
+  {
+    "title": "Como criar uma comunidade digital engajada e transformar leitores em fãs",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2022/03/comunidade-digital.png",
+    "url": "https://viverdeblog.com/comunidade-digital/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "7 erros ocultos de conteúdo online (e como evitá-los)",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2022/02/conteudo-online.png",
+    "url": "https://viverdeblog.com/conteudo-online/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "3 templates de Storytelling fora do comum para criar histórias que conectam e vendem",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2022/01/templates-de-storytelling.png",
+    "url": "https://viverdeblog.com/templates-de-storytelling/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "Como alcançar metas em 2022 com o Método S.A.V.E.R.S",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/12/como-alcancar-metas.png",
+    "url": "https://viverdeblog.com/como-alcancar-metas/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "Como criar uma comunidade digital engajada e transformar leitores em fãs",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2022/03/comunidade-digital.png",
+    "url": "https://viverdeblog.com/comunidade-digital/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "7 erros ocultos de conteúdo online (e como evitá-los)",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2022/02/conteudo-online.png",
+    "url": "https://viverdeblog.com/conteudo-online/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "3 templates de Storytelling fora do comum para criar histórias que conectam e vendem",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2022/01/templates-de-storytelling.png",
+    "url": "https://viverdeblog.com/templates-de-storytelling/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "Como alcançar metas em 2022 com o Método S.A.V.E.R.S",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/12/como-alcancar-metas.png",
+    "url": "https://viverdeblog.com/como-alcancar-metas/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "17 dicas de filmes e séries sobre escrita e marketing para aprender, se inspirar e se motivar",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/12/dicas-de-filmes.png",
+    "url": "https://viverdeblog.com/dicas-de-filmes/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "Linha Editorial: como estruturar sua mensagem nos meios digitais",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/12/linha-editorial.png",
+    "url": "https://viverdeblog.com/linha-editorial/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "Como escrever copys que convertem usando o Mapa da Empatia",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/11/mapa-da-empatia.png",
+    "url": "https://viverdeblog.com/mapa-da-empatia/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "Como escolher os melhores temas para textos para crescer na internet",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/11/temas-para-textos.png",
+    "url": "https://viverdeblog.com/temas-para-textos/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "Como surgem as ideias criativas que viram tendências (e como você pode usá-las para escrever…",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/11/ideias-criativas.png",
+    "url": "https://viverdeblog.com/como-surgem-as-ideias-criativas/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "Os 5 passos do processo de escrita para textos persuasivos",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/11/processo-de-escrita.png",
+    "url": "https://viverdeblog.com/processo-de-escrita/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "10 fontes de inspiração para escrever textos memoráveis",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/11/inspiracao-para-escrever.png",
+    "url": "https://viverdeblog.com/inspiracao-para-escrever/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "As 4 Regras de Ouro falar em público com confiança usando a escrita",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/11/falar-em-publico.png",
+    "url": "https://viverdeblog.com/falar-em-publico/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "10 erros de Copywriting que você deve evitar se quiser vender",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/10/erros-de-copywriting.png",
+    "url": "https://viverdeblog.com/erros-de-copywriting/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "10 habilidades essenciais para se tornar um copywriter profissional",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/10/copywriter-profissional.png",
+    "url": "https://viverdeblog.com/copywriter-profissional/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "6 formas de monetizar seu blog",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/10/monetizar-blog.png",
+    "url": "https://viverdeblog.com/monetizar-seu-blog/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "Como estudar copywriting e turbinar a sua habilidade de escrever para vender",
+    "description": null,
+    "thumbnail": "https://viverdeblog.com/wp-content/uploads/2021/10/como-estudar-copywriting.png",
+    "url": "https://viverdeblog.com/como-estudar-copywriting/",
+    "owner": "Viver de Blog"
+  },
+  {
+    "title": "Valorize suas conquistas",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/valorize-suas-conquistas",
+    "owner": "Willian Justen"
+  },
+  {
+    "title": "Meu ano de 2021",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/meu-ano-de-2021",
+    "owner": "Willian Justen"
+  },
+  {
+    "title": "Criando o efeito da chuva do Matrix com JavaScript puro",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/criando-o-efeito-da-chuva-do-matrix-com-javascript-puro",
+    "owner": "Willian Justen"
+  },
+  {
+    "title": "Usando Netlify CMS com NextJS, Vercel e GitHub",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/usando-netlify-cms-com-nextjs-vercel-e-github",
+    "owner": "Willian Justen"
+  },
+  {
+    "title": "Usando o Preact no NextJS para mais performance",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/usando-o-preact-no-nextjs-para-mais-performance",
+    "owner": "Willian Justen"
+  },
+  {
+    "title": "Como mostrar trechos de código num blog com NextJS",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/como-mostrar-trechos-de-codigo-num-blog-com-nextjs",
+    "owner": "Willian Justen"
+  },
+  {
+    "title": "Como configurar o Google Analytics no NextJS em 2021",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/como-configurar-o-google-analytics-no-nextjs-em-2021",
+    "owner": "Willian Justen"
+  },
+  {
+    "title": "Configurando 2 contas de Git no mesmo computador",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/configurando-2-contas-de-git-no-mesmo-computador",
+    "owner": "Willian Justen"
+  },
+  {
+    "title": "Configurando o Macbook M1 para Desenvolvimento Web",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/configurando-o-macbook-m1-para-desenvolvimento-web",
+    "owner": "Willian Justen"
+  },
+  {
+    "title": "Gatsby e NextJS: Performance e Developer Experience",
+    "description": "O poder que valorizar nossas conquistas tem sobre nós.",
+    "thumbnail": "https://willianjusten.com.br/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3991845%3Fv%3D4&w=64&q=75",
+    "url": "https://willianjusten.com.br/gatsby-e-nextjs-performance-e-developer-experience",
+    "owner": "Willian Justen"
+  },
+  {
+    "title": "Inspire a mudança com a liderança ágil",
+    "description": "A liderança ágil é essencial para que uma organização realize mudanças de negócios significativas. Ser líder é uma tarefa desafiadora, especialmente em um cenário de constantes transformações, principalmente na forma de lidar com a relação empresa e pessoal. Pesquisas sobre liderança na era digital revelam que algumas soft skills têm sido substituídas por outras, o profundo conhecimento na área de negócio, ser referência nas tecnologias utilizadas, ter foco total no prazo e nas entregas e conhecer um arsenal de técnicas e ferramentas, têm dado espaço a habilidades, como: empatia; adaptabilidade; senso de equipe; visão e propósito; engajamento constante. A colaboração entre pessoas de todos os níveis hierárquicos são vitais, afinal, as equipes estão trabalhando para o mesmo objetivo: o encantamento e atendimento das necessidades do cliente que proporcionarão um crescimento sustentável da organização. Com propósito claro, estratégia e prioridades definidas, os times desfrutam de uma ma",
+    "thumbnail": "https://blog.thedevconf.com/2022/05/%20lideranca-agil.html",
+    "url": "https://blog.thedevconf.com/2022/05/%20lideranca-agil.html",
+    "owner": "blog.thedevconf"
+  },
+  {
+    "title": "TDC Digital: o que você precisa saber para transformar sua carreira em 2022",
+    "description": "O TDC Digital é o maior evento de TI do mercado e proporciona crescimento profissional a partir de palestras com especialistas e oportunidades de networking com o mundo todo, direto da sua casa. Através da escolha individual de cada participante é possível obter experiências imersivas e transformadoras conforme o tema-chave de cada trilha.  O evento também é o lugar ideal para ajudar no desenvolvimento de carreiras, permitindo que qualquer pessoa com vontade — e um tema interessante — seja palestrante e compartilhe suas experiências e conhecimentos. Para aqueles que querem  participar como ouvinte a plataforma do TDC favorece conferências dinâmicas, e o encontro de diversas comunidades e ecossistemas de TI. E, após a escolha de uma trilha, fica mais fácil acompanhar especialistas para aprender e se inspirar. Em 2021 , o The Developer’s Conference (TDC) foi 100% digital e, em três dias de evento, contou com mais de 300 horas de conteúdos , incluindo: Agile; Testes; Design; Web e Mobile;",
+    "thumbnail": "https://blog.thedevconf.com/2022/05/TDC-digital.html",
+    "url": "https://blog.thedevconf.com/2022/05/TDC-digital.html",
+    "owner": "blog.thedevconf"
+  },
+  {
+    "title": "Palestras do TDC Business Disponíveis Online",
+    "description": "🚨 Atenção, TDC Lovers! O TDC Business em São Paulo acabou, mas os conteúdos mal começaram!  Não pô de aproveitar a STADIUM ao vivo? Não tem problema, porque trouxemos ela até você. Todas as palestras da STADIUM, palco principal do TDC, já estão no ar e liberadas para qualquer pessoa assistir. Essa Trilha incrível conta com palestras de Trilhas Premium e temas variados de forma GRATUITA para você poder maratonar de casa!  Aproveite para prestigiar seu evento de TI favorito com pipoca direto do seu sofá. 🎥 🍿 Gravação da STADIUM, 22 a 24 de Agosto de 2022, disponível aqui: https://www.globalcode.com.br/videos/tdc-2022-business/  Todas as demais trilhas do TDC Business serão publicadas gradualmente nas próximas semanas, fique atento aos nossos e-mails, você será notificado por lá quando sua Trilha estiver disponível. Acompanhe nossas redes sociais para não perder nada e ficar por dentro de todas as novidades do TDC!",
+    "thumbnail": "https://blog.thedevconf.com/2022/09/palestras-do-tdc-business-disponiveis.html",
+    "url": "https://blog.thedevconf.com/2022/09/palestras-do-tdc-business-disponiveis.html",
+    "owner": "blog.thedevconf"
+  },
+  {
+    "title": "TDC ONLINE: SUA PLATAFORMA DE PALESTRAS GRAVADAS DO TDC DISPONÍVEL",
+    "description": "Além do conteúdo ao vivo transmitido online nas edições do TDC, agora você pode ter acesso à centenas de palestras gravadas, através da nossa nova plataforma de vídeos - o TDC Online, que reúne todas as Trilhas premium, Stadium e Salas dos Patrocinadores das edições anteriores de 2022, TDC Innovation e TDC Connections.  Para acessar, basta clicar na edição em que você participou ( TDC Innovation ou TDC Connections ); Fazer o mesmo login (com e-mail e senha) cadastrados na hora de adquirir ou resgatar o seu ingresso no TDC; E clicar na Trilha de sua opção, e de acordo com a modalidade do seu ingresso. Logo em seguida, você será direcionado para a seguinte página com a lista de todas as palestras por Trilha: Pronto! Agora você tem acesso à centenas de palestras gravadas da sua área de interesse, para assistir como e quando quiser! Caso tenha esquecido a senha, clique na opção \"Esqueci a senha\" , insira o e-mail que você realizou para o cadastro no evento, e aparecerá a op",
+    "thumbnail": "https://blog.thedevconf.com/2022/07/tdc-online-sua-plataforma-de-palestras.html",
+    "url": "https://blog.thedevconf.com/2022/07/tdc-online-sua-plataforma-de-palestras.html",
+    "owner": "blog.thedevconf"
+  },
+  {
+    "title": "TDC INNOVATION lança University Pass",
+    "description": "Modalidade de ingresso tem como objetivo ajudar na capacitação dos universitários Uma pesquisa realizada em 2020 pela Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom) diz que até o ano de 2024 o Brasil precisará de cerca de 420 mil profissionais na área de Tecnologia da Informação. Porém, por ano, a mesma pesquisa diz que o país forma apenas 46 mil profissionais capacitados no nicho. Pensando nisso, para ajudar na formação e capacitação desses jovens profissionais, o TDC INNOVATION, segunda edição do ano do The Developer's Conference, lança o University Pass, modalidade de ingresso que possibilita aceso digital gratuito a todas as palestras do evento, ou com 50% de desconto para quem preferir ir pessoalmente. Com o tema central “Desafios para a criação do futuro Digital”, o TDC INNOVATION ocorrerá entre 1 e 3 de junho, de forma híbrida: presencialmente no Centro de Convenções CentroSul, em Florianópolis, e com transmissão simultaneamente pela",
+    "thumbnail": "https://blog.thedevconf.com/2022/05/tdc-innovation-lanca-university-pass.html",
+    "url": "https://blog.thedevconf.com/2022/05/tdc-innovation-lanca-university-pass.html",
+    "owner": "blog.thedevconf"
+  },
+  {
+    "title": "O que os layoffs revelam sobre as empresas e pessoas?",
+    "description": "Eu já passei por um processo de demissão em massa alguns anos atrás. Foi assim: na tarde de certa terça-feira, o SICREDI cancelou os acessos de aproximadamente 250 profissionais. Poucas horas antes, haviam enviado uma lista dos nomes que teriam seus acessos cortados simultaneamente sem deixar tempo hábil para que todos os profissionais fossem avisados …",
+    "thumbnail": "https://wkrh.com.br/wp-content/uploads/2023/02/young-businesswoman-fired-looks-upset-1.jpg",
+    "url": "https://wkrh.com.br/layoffs/",
+    "owner": "WK JobHub"
+  },
+  {
+    "title": "Inteligência Artificial e ChatGPT: Uma ameaça ou aliados?",
+    "description": "Se você é uma pessoa ligada à tecnologia, todos os dias você deve acessar o seu site de notícias de preferência e encontrar algo relacionado ao tão falado ChatGPT. Trata-se de um chatbot, desenvolvido pela empresa OpenAI, que a partir do processamento de Linguagem Natural, pode gerar textos, traduções, ou até mesmo análise de sentimentos. …",
+    "thumbnail": "https://wkrh.com.br/wp-content/uploads/2023/02/chatgptd-1-1232x1232.webp",
+    "url": "https://wkrh.com.br/inteligencia-artificial-e-chatgpt-uma-ameaca-ou-aliados/",
+    "owner": "WK JobHub"
+  },
+  {
+    "title": "Muito além da diversidade, contratar profissionais 50+ é um bom negócio",
+    "description": "Nas culturas orientais, as pessoas mais velhas são sinônimo de sabedoria. Em paísescomo o Japão, por exemplo, é comum que os anciãos da família sejam consultados antesque qualquer decisão importante seja tomada. Do outro lado do globo, as coisas acontecem de um jeito diferente. Mas o envelhecimento da população temtransformado a visão das pessoas e …",
+    "thumbnail": "https://wkrh.com.br/wp-content/uploads/2022/10/unnamed.jpeg",
+    "url": "https://wkrh.com.br/muito-alem-da-diversidade-contratar-profissionais-50-e-um-bom-negocio/",
+    "owner": "WK JobHub"
+  },
+  {
+    "title": "O colaborador sumiu",
+    "description": "Não foi apenas um cliente que motivou este texto. Foram ALGUNS clientes, parceiros e fornecedores que já relataram tal situação apenas neste ano de 2022: O COLABORADOR SUMIU. Tenho visto esta situação ocorrer com mais frequência do que deveria e, por mais explicações que existam quando se consegue fazer contato com o colaborador sumido, as …",
+    "thumbnail": "https://wkrh.com.br/wp-content/uploads/2022/07/GG3_2040-1-1232x919.jpg",
+    "url": "https://wkrh.com.br/o-colaborador-sumiu/",
+    "owner": "WK JobHub"
+  },
+  {
+    "title": "Dia internacional do orgulho LGBTQIA+",
+    "description": "Meu nome é Eduarda e faço parte do Time WK há 1 mês. Apesar de pouco tempo, nesse pequeno período pude perceber os valores da empresa na prática. O que rege os ideais da equipe desde a folha de papel até o lidar com o outro. Afinal, isso tudo reflete em um ambiente leve e …",
+    "thumbnail": "https://wkrh.com.br/wp-content/uploads/2022/06/1-lgbt-1.png",
+    "url": "https://wkrh.com.br/dia-internacional-do-orgulho-lgbtqia/",
+    "owner": "WK JobHub"
+  },
+  {
+    "title": "Crescimento do mercado de TI no RS x dificuldade de encontrar bons profissionais",
+    "description": "De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), no segundo trimestre de 2021, o setor de Tecnologia da Informação (TI) foi responsável pela criação de 33 mil postos de trabalho. Mas em contrapartida, a tendência do mercado é de que a TI brasileira apresente déficit de profissionais qualificados nos próximos três anos, …",
+    "thumbnail": "https://wkrh.com.br/wp-content/uploads/2022/06/code-g52140ba3b_1280-1232x822.jpg",
+    "url": "https://wkrh.com.br/crescimento-do-mercado-de-ti-no-rs-x-dificuldade-de-encontrar-bons-profissionais/",
+    "owner": "WK JobHub"
+  },
+  {
+    "title": "Mãe e IT Recruiter: uma jornada dupla que vale a pena",
+    "description": "Daiani Souza é gestora de outsourcing na WK e IT Recruiter; e para além da sua vida profissional, Dai é mãe de Larissa, 5 anos. Daiani foi mãe aos 30 anos de idade, quando ainda clinicava em consultório como psicóloga, profissão de sua formação. Porém, quando Larissa tinha 11 meses, Dai começou o seu trabalho …",
+    "thumbnail": "https://wkrh.com.br/wp-content/uploads/2022/05/surface-VDWS2oWdZzg-unsplash-1232x820.jpg",
+    "url": "https://wkrh.com.br/mae-e-it-recruiter-uma-jornada-dupla/",
+    "owner": "WK JobHub"
+  },
+  {
+    "title": "Porque a infraestrutura na TI é tão importante?",
+    "description": "A tecnologia cada vez mais tem feito parte do nosso dia-a-dia, desde o despertador de nosso celular quando acordamos, até o navegador de bordo em nosso carro para viajar; e o mesmo vale para o mundo dos negócios: para que todos os setores de uma organização funcionem bem, a área de TI precisa estar estabilizada, …",
+    "thumbnail": "https://wkrh.com.br/wp-content/uploads/2022/04/chris-ried-bN5XdU-bap4-unsplash-1232x822.jpg",
+    "url": "https://wkrh.com.br/porque-a-infraestrutura-e-tao-importante/",
+    "owner": "WK JobHub"
+  },
+  {
+    "title": "Diversidade e Inclusão no Recrutamento e Seleção de Pessoas",
+    "description": "Planejar e executar ações que envolvam a inclusão da diversidade  é uma ótima estratégia para criar um espaço seguro para todas as pessoas, impulsionar o crescimento e a visibilidade da organização no mercado e na sociedade, além de aumentar o engajamento dos times e contar com uma pluralidade de ideias e pensamentos. Diversidade desde a …",
+    "thumbnail": "https://wkrh.com.br/wp-content/uploads/2022/03/miles-peacock-1gh6oD6aDhs-unsplash-1232x713.jpg",
+    "url": "https://wkrh.com.br/diversidade-inclusao-no-recrutamento-e-selecao/",
+    "owner": "WK JobHub"
+  },
+  {
+    "title": "Construção da Carreira em RH voltado à Tecnologia",
+    "description": "Danielle Estrázulas conta como começou e desenvolveu sua carreira como IT Recruiter em um mercado que não existiam cursos e capacitações para profissionais de RH! Vale a pena a leitura.",
+    "thumbnail": "https://wkrh.com.br/wp-content/uploads/2022/02/laughing-woman-in-sunglasses-working-with-computer-indoor-shot-of-appealing-girl-in-striped-jacket-using-laptop-1232x821.jpg",
+    "url": "https://wkrh.com.br/carreira-em-rh-voltado-a-tecnologia/",
+    "owner": "WK JobHub"
+  }
+]

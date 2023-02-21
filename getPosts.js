@@ -343,9 +343,17 @@ function getPostsInfo(html) {
       const description = getDescription(postElement);
       const thumbnail = getThumbnail(postElement);
       const url = getUrl(postElement);
-      const date = getDate(postElement);
+      // const date = getDate(postElement);
       const owner = getOwner(html);
-      return { title, description, thumbnail, url, date, owner };
+      
+      return {
+        title,
+        description,
+        thumbnail,
+        url,
+        // date,
+        owner
+      };
     });
 }
 
@@ -370,35 +378,35 @@ function getPostsInfo(html) {
   const page = await browser.newPage();
 
   const blogsUrl = [
-    // 'https://www.alura.com.br/artigos/front-end',
-    // 'https://www.alura.com.br/artigos/programacao',
-    // 'https://www.agenciamestre.com/categoria/seo/',
-    // 'https://www.agenciamestre.com/categoria/redes-sociais/',
-    // 'https://www.agenciamestre.com/categoria/marketing-de-conteudo/',
-    // 'https://www.agenciamestre.com/categoria/geral/',
-    // 'https://www.agenciamestre.com/categoria/ferramentas/',
-    // 'https://css-tricks.com/',
-    // 'https://www.joshwcomeau.com/latest/',
-    // 'https://blog.lsantos.dev/',
-    // 'https://blog.rdstation.com/',
-    // 'https://rockcontent.com/br/blog/recentes/',
-    // 'https://shopify.engineering/',
-    // 'https://www.smashingmagazine.com/articles/',
-    // 'https://www.tabnews.com.br/',
-    // 'https://wsvincent.com/',
-    // 'https://www.devmedia.com.br/artigos/',
-    // 'https://emersonbroga.com/',
-    // 'https://www.felipefialho.com/blog/',
-    // 'http://gabsferreira.com/#open',
-    // 'https://khalilstemmler.com/articles',
-    // 'https://kentcdodds.com/blog',
-    // 'https://www.lambda3.com.br/blog/',
-    // 'https://reinaldoferraz.com.br/',
-    // 'https://blog.rocketseat.com.br/',
-    // 'https://tableless.com.br/todos-os-posts/',
-    // 'https://viverdeblog.com/blog',
-    // 'https://willianjusten.com.br/',
-    // 'https://blog.thedevconf.com/',
+    'https://www.alura.com.br/artigos/front-end',
+    'https://www.alura.com.br/artigos/programacao',
+    'https://www.agenciamestre.com/categoria/seo/',
+    'https://www.agenciamestre.com/categoria/redes-sociais/',
+    'https://www.agenciamestre.com/categoria/marketing-de-conteudo/',
+    'https://www.agenciamestre.com/categoria/geral/',
+    'https://www.agenciamestre.com/categoria/ferramentas/',
+    'https://css-tricks.com/',
+    'https://www.joshwcomeau.com/latest/',
+    'https://blog.lsantos.dev/',
+    'https://blog.rdstation.com/',
+    'https://rockcontent.com/br/blog/recentes/',
+    'https://shopify.engineering/',
+    'https://www.smashingmagazine.com/articles/',
+    'https://www.tabnews.com.br/',
+    'https://wsvincent.com/',
+    'https://www.devmedia.com.br/artigos/',
+    'https://emersonbroga.com/',
+    'https://www.felipefialho.com/blog/',
+    'http://gabsferreira.com/#open',
+    'https://khalilstemmler.com/articles',
+    'https://kentcdodds.com/blog',
+    'https://www.lambda3.com.br/blog/',
+    'https://reinaldoferraz.com.br/',
+    'https://blog.rocketseat.com.br/',
+    'https://tableless.com.br/todos-os-posts/',
+    'https://viverdeblog.com/blog',
+    'https://willianjusten.com.br/',
+    'https://blog.thedevconf.com/',
     'https://wkrh.com.br/blog/',
     // 'https://neilpatel.com/br/blog/',
   ];
